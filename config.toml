@@ -1,4 +1,4 @@
-baseURL = "https://tfada.fr/"
+baseURL = "http://tfada.fr/"
 languageCode = "fr"
 title = "tFada"
 theme = "ananke"
