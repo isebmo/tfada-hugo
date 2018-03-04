@@ -11,8 +11,6 @@ categories:
 fimg: http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-04-13-47-X9WQ5yyueGPCmo56Zj7z.jpg
 ---
 
-# Une coque fine pour iPhone X
-
 Difficile de trouver chaussure à son pied mais on y arrive, en revanche trouver une coque qui protège efficacement son iPhone sans le dénaturer c’est encore plus compliqué. 
 
 ## Le cahier des charges
