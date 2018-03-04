@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "fr_FR"
-title = "My New Hugo Site"
+baseURL = "https://tfada.fr/"
+languageCode = "fr"
+title = "tFada"
 theme = "ananke"
+[permalinks]
+  posts = "/:title/"
