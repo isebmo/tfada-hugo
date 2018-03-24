@@ -1,7 +1,7 @@
 ---
 title: Mon avis sur le HomePod
 description: Le HomePod est l’appareil le plus fermé qu’Apple est jamais inventé mais si vous êtes équipé full Apple, c’est l’enceinte connectée ultime. 
-tags: [](#)
+tags: 
 author: iSebmo
 date: 2018-03-24
 categories: ["HighTech","Musique"]
