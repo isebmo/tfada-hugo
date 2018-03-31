@@ -2,6 +2,6 @@ baseURL = "http://tfada.fr/"
 languageCode = "fr"
 title = "tFada"
 theme = "ananke"
+googleAnalytics = "UA-55779894-1"
 [permalinks]
   posts = "/:title/"
-googleAnalytics = "UA-55779894-1"
