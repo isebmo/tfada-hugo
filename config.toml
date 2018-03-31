@@ -4,3 +4,4 @@ title = "tFada"
 theme = "ananke"
 [permalinks]
   posts = "/:title/"
+googleAnalytics = "UA-55779894-1"
