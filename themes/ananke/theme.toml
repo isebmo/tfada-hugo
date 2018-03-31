@@ -9,6 +9,7 @@ homepage = "https://github.com/budparr/gohugo-theme-ananke"
 tags = ["website", "starter", "responsive"]
 features = ["posts", "shortcodes"]
 min_version = 0.25
+googleAnalytics = "UA-55779894-1"
 
 [author]
   name = "Bud Parr"
