@@ -5,7 +5,7 @@ tags:
 author: iSebmo
 date: 2018-06-03
 categories: "Applications"
-fimg: http://tfada.s3-eu-central-1.amazonaws.com/Kindle\_scroll.jpg
+fimg: http://tfada.s3-eu-central-1.amazonaws.com/Kindle_scroll.jpg
 ---
 
 C’est une option que j’attendais depuis très longtemps, l’application Kindle sous iOS vient d’être mise à jour et supporte enfin le défilement vertical.  Cette option consiste à scroller verticalement plutôt que de « tourner » les pages. Sur un support numérique, c’est beaucoup plus naturel car le fait de tourner une page ne veut rien dire. 
