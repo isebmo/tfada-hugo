@@ -1,7 +1,7 @@
 ---
 title: Kindle iOS lecture en mode défilement
 description: Kindle se dote du mode scroll afin de rendre la lecture plus agréable sur écran numérique. A la manière de iBook, Kindle vient de mettre à jour son application pour iOS.
-tags: [](#)
+tags: 
 author: iSebmo
 date: 2018-06-03
 categories: "Applications"
