@@ -9,7 +9,7 @@ categories:
 fimg: http://tfada.s3-eu-central-1.amazonaws.com/Photo-2019-01-19-15-12.jpeg
 ---
 
-Si vous recherchez une coque, étui abordable et de bonne qualité je vous conseille [celle-ci](http://www.amazon.fr/dp/B07HQJNGZQ/?tag=tfadafr-21) ! Vous pouvez me remercier je viens de vous faire économiser 90 ! Oui vous avez bien vu, la différence est énorme. Comme souvent malheureusement chez Apple les accessoires sont hors de prix. Pourtant une coque toute simple, en silicone ne devrait pas coûter 120€ !
+Si vous recherchez une coque, étui abordable et de **bonne qualité** je vous conseille [celle-ci](http://www.amazon.fr/dp/B07HQJNGZQ/?tag=tfadafr-21) ! Vous pouvez me remercier je viens de vous faire **économiser** 90€ ! Oui vous avez bien vu, la différence est énorme. Comme souvent malheureusement chez Apple les accessoires sont hors de prix. Pourtant une coque toute simple, en silicone ne devrait pas coûter 120€ !
 
 ![](http://tfada.s3-eu-central-1.amazonaws.com/Photo-2019-01-19-15-14.jpeg)
 
@@ -29,4 +29,4 @@ Cette dernière position est pour moi la meilleure et celle que j’utilise pers
 
 ![](http://tfada.s3-eu-central-1.amazonaws.com/Photo-2019-01-19-15-10.jpeg)
 
-Je ne fais pas plus long sur cet [étui](http://www.amazon.fr/dp/B07HQJNGZQ/?tag=tfadafr-21) tout simple et d’un excellent rapport qualité prix. 
+Je ne fais pas plus long sur cet [étui](http://www.amazon.fr/dp/B07HQJNGZQ/?tag=tfadafr-21) tout simple et d’un **excellent rapport qualité prix**. 
