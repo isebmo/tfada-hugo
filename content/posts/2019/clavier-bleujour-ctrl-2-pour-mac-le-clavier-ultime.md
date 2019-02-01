@@ -1,5 +1,5 @@
 ---
-title: Clavier Bleujour Ctrl 2 pour Mac : le clavier ultime ?
+title: Clavier Bleujour Ctrl 2 pour Mac le clavier ultime ?
 description: Un retour rapide sur le Clavier Bleujour Ctrl 2, clavier qui permet d’utiliser quatre périphériques Bluetooth et qui plus est rétro éclairé.
 tags: 
 author: iSebmo
