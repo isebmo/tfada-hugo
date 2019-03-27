@@ -3,7 +3,7 @@ id: 483
 title: L’iPad Air 2 est là !
 author: iSebmo
 layout: post
-guid: http://localhost/?p=483
+guid: https://localhost/?p=483
 permalink: /2014/10/lipad-air-2-est-la/
 sf_sidebar_config:
   - no-sidebars
@@ -88,15 +88,15 @@ Le mode [hostspot][11] automatique est juste *génialissime*, il vous suffit d�
 
 Concernant la housse pour protéger votre précieux je vous conseille mon article [ici][12], car je ne suis pas un grand fan des housse *smartcover* qui ajoute du poids à l’appareil.
 
- [1]: http://www.apple.com/fr/ipad-air-2/
- [2]: http://www.amazon.fr/gp/product/B00NGOC988/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00NGOC988&linkCode=as2&tag=tfadafr-21&linkId=I6Z63OQJZYTKI7WC
+ [1]: https://www.apple.com/fr/ipad-air-2/
+ [2]: https://www.amazon.fr/gp/product/B00NGOC988/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00NGOC988&linkCode=as2&tag=tfadafr-21&linkId=I6Z63OQJZYTKI7WC
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07446.jpg
- [4]: http://www.amazon.fr/gp/product/B00G55JTBA/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G55JTBA&linkCode=as2&tag=tfadafr-21&linkId=2SS346BYCVBH6VZQ
+ [4]: https://www.amazon.fr/gp/product/B00G55JTBA/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G55JTBA&linkCode=as2&tag=tfadafr-21&linkId=2SS346BYCVBH6VZQ
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07444.jpg
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07448.jpg
- [7]: http://support.apple.com/kb/HT5883?viewlocale=fr_FR
+ [7]: https://support.apple.com/kb/HT5883?viewlocale=fr_FR
  [8]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07449.jpg
  [9]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07441.jpg
- [10]: http://www.begeek.fr/bendgate-lipad-air-2-se-plie-150406
+ [10]: https://www.begeek.fr/bendgate-lipad-air-2-se-plie-150406
  [11]: https://www.apple.com/fr/ios/whats-new/continuity/
- [12]: http://localhost/2014/04/pochette-ipad-en-cuir-de-chez-etsy-com/ "Pochette iPad en cuir de chez Etsy.com"
+ [12]: https://localhost/2014/04/pochette-ipad-en-cuir-de-chez-etsy-com/ "Pochette iPad en cuir de chez Etsy.com"

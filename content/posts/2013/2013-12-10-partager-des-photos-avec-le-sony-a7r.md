@@ -3,7 +3,7 @@ id: 92
 title: Partager des photos avec le Sony A7r
 author: iSebmo
 layout: post
-guid: http://localhost/?p=92
+guid: https://localhost/?p=92
 permalink: /2013/12/partager-des-photos-avec-le-sony-a7r/
 sf_sidebar_config:
   - no-sidebars

@@ -3,7 +3,7 @@ id: 188
 title: Personnaliser son macbook avec des stickers
 author: iSebmo
 layout: post
-guid: http://localhost/?p=188
+guid: https://localhost/?p=188
 permalink: /2014/01/www-i-sticker-fr-stickers-a-gogo/
 sf_sidebar_config:
   - no-sidebars

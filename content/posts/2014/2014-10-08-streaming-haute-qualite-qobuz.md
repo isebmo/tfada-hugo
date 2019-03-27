@@ -3,7 +3,7 @@ id: 365
 title: 'Streaming haute qualité : Qobuz'
 author: iSebmo
 layout: post
-guid: http://localhost/?p=365
+guid: https://localhost/?p=365
 permalink: /2014/10/streaming-haute-qualite-qobuz/
 sf_sidebar_config:
   - no-sidebars
@@ -77,10 +77,10 @@ Voilà j&rsquo;ai fait le tour de mon service de streaming, recommandation, acha
 
 Maintenant à vous de juger.
 
- [1]: http://qobuz.com
- [2]: http://spotify.com
- [3]: http://deezer.com
+ [1]: https://qobuz.com
+ [2]: https://spotify.com
+ [3]: https://deezer.com
  [4]: https://itunes.apple.com/fr/app/qobuz/id395923901?mt=8
- [5]: http://rdio.com
- [6]: http://localhost/2014/01/rega-et-enceintes-elipson/ "Rega et enceintes elipson"
- [7]: http://www.qobuz.com/fr-fr/info/-MAGAZINE-HIFI297
+ [5]: https://rdio.com
+ [6]: https://localhost/2014/01/rega-et-enceintes-elipson/ "Rega et enceintes elipson"
+ [7]: https://www.qobuz.com/fr-fr/info/-MAGAZINE-HIFI297

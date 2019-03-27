@@ -3,7 +3,7 @@ id: 486
 title: Gérer vos tâches avec Todoist
 author: iSebmo
 layout: post
-guid: http://localhost/?p=486
+guid: https://localhost/?p=486
 permalink: /2014/10/gerer-vos-taches-avec-todoist/
 sf_thumbnail_image:
   - 491
@@ -57,9 +57,9 @@ Un *exemple* d’utilisation, vous recevez un mail mais vous ne voulez pas y ré
 [<img class="aligncenter size-full wp-image-490" src="https://s3.eu-central-1.amazonaws.com/tfada/image003.png" alt="image003" width="365" height="80" />][8]
 
  [1]: https://itunes.apple.com/us/app/todoist-to-do-list-task-list/id572688855?mt=8
- [2]: http://www.cuk.ch/utilisateur?u=3
- [3]: http://www.cuk.ch
- [4]: http://www.cuk.ch/articles/9791
+ [2]: https://www.cuk.ch/utilisateur?u=3
+ [3]: https://www.cuk.ch
+ [4]: https://www.cuk.ch/articles/9791
  [5]: https://fr.todoist.com/outlook
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/image001.png
  [7]: https://s3.eu-central-1.amazonaws.com/tfada/image002.png

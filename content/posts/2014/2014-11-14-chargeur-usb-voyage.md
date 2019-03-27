@@ -3,7 +3,7 @@ id: 567
 title: Chargeur USB de voyage
 author: iSebmo
 layout: post
-guid: http://localhost/?p=567
+guid: https://localhost/?p=567
 permalink: /2014/11/chargeur-usb-voyage/
 sf_thumbnail_image:
   - 564
@@ -54,9 +54,9 @@ Le principe est de brancher tous vos câbles dessus afin de ne pas les oublier q
 
 4 chargeurs USB en 1 c’est par [ici][1].
 
- [1]: http://www.amazon.fr/Chargeur-Inateck-Compatible-Smartphones-Tablettes/dp/B00IOH5EBG/ref=pd_cp_computers_0?tag=tfadafr-21
- [2]: http://www.amazon.fr/Apple-Adaptateur-secteur-MagSafe-MacBook/dp/B002TUQHVK/ref=sr_1_4?s=electronics&ie=UTF8&qid=1415966651&sr=1-4&keywords=chargeur+macbook&tag=tfadafr-21
- [3]: http://localhost/2014/10/lipad-air-2-est-la/ "L’iPad Air 2 est là !"
- [4]: http://localhost/2014/10/liphone-6-plus-dans-tous-ses-etats/ "L’iphone 6 plus dans tous ses états"
+ [1]: https://www.amazon.fr/Chargeur-Inateck-Compatible-Smartphones-Tablettes/dp/B00IOH5EBG/ref=pd_cp_computers_0?tag=tfadafr-21
+ [2]: https://www.amazon.fr/Apple-Adaptateur-secteur-MagSafe-MacBook/dp/B002TUQHVK/ref=sr_1_4?s=electronics&ie=UTF8&qid=1415966651&sr=1-4&keywords=chargeur+macbook&tag=tfadafr-21
+ [3]: https://localhost/2014/10/lipad-air-2-est-la/ "L’iPad Air 2 est là !"
+ [4]: https://localhost/2014/10/liphone-6-plus-dans-tous-ses-etats/ "L’iphone 6 plus dans tous ses états"
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/chargeur-voyage-2.jpg
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/chargeur-voyage-3.jpg

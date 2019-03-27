@@ -3,7 +3,7 @@ id: 513
 title: Envoyer vos colis sans vous déplacer
 author: iSebmo
 layout: post
-guid: http://localhost/?p=513
+guid: https://localhost/?p=513
 permalink: /2014/10/envoyer-vos-colis-sans-vous-deplacer/
 sf_thumbnail_image:
   - 515

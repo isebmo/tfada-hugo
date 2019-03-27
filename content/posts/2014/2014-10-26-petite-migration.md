@@ -3,7 +3,7 @@ id: 478
 title: Petite migration
 author: iSebmo
 layout: post
-guid: http://localhost/?p=478
+guid: https://localhost/?p=478
 permalink: /2014/10/petite-migration/
 sf_sidebar_config:
   - no-sidebars

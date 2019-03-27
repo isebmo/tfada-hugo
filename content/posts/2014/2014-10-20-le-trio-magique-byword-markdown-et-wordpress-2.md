@@ -3,7 +3,7 @@ id: 450
 title: Le trio magique, byword, markdown et wordpress.
 author: iSebmo
 layout: post
-guid: http://localhost/?p=450
+guid: https://localhost/?p=450
 permalink: /2014/10/le-trio-magique-byword-markdown-et-wordpress-2/
 sf_thumbnail_image:
   - 455
@@ -73,11 +73,11 @@ Malheureusement il n’est pas possible de **mettre à jour** un article déjà 
 Encore une application indispensable sur Mac, iPhone et iPad !
 
  [1]: https://itunes.apple.com/fr/app/byword/id420212497?mt=12
- [2]: http://fr.wikipedia.org/wiki/Markdown
+ [2]: https://fr.wikipedia.org/wiki/Markdown
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-10-18-à-19.57.00.png
- [4]: http://icloud.com/
- [5]: http://dropbox.com
- [6]: http://markdownpad.com
+ [4]: https://icloud.com/
+ [5]: https://dropbox.com
+ [6]: https://markdownpad.com
  [7]: https://s3.eu-central-1.amazonaws.com/tfada/IMG_0248.png
  [8]: https://www.tumblr.com
- [9]: http://wordpress-fr.net
+ [9]: https://wordpress-fr.net

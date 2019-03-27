@@ -3,7 +3,7 @@ id: 775
 title: Quad Lock pour iPhone 6 plus
 author: iSebmo
 layout: post
-guid: http://localhost/?p=775
+guid: https://localhost/?p=775
 permalink: /2015/03/quad-lock-pour-iphone-6-plus/
 standard_format:
   - standard
@@ -43,10 +43,10 @@ Seul regret l’espace laissé au niveau de la prise USB qui a tendance à être
 
 Pas besoin de comparer à la concurrence c’est ce qui se fait de mieux en terme de support. Vous avez la possibilité de le commander via le lien [suivant][7], vous aurez 10% de remise dessus, c’est toujours ça, en plus la livraison est *rapide*.
 
- [1]: http://www.amazon.fr/Quad-Lock-Bike-Support-iPhone/dp/B00BN7XNQW/ref=sr_1_1?ie=UTF8&qid=1427284132&sr=8-1&keywords=quad+lock&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Quad-Lock-Bike-Support-iPhone/dp/B00BN7XNQW/ref=sr_1_1?ie=UTF8&qid=1427284132&sr=8-1&keywords=quad+lock&tag=tfadafr-21
  [2]: https://s3.eu-central-1.amazonaws.com/tfada/wpid-Quad-lock-iPhone-6-3.jpg
- [3]: http://www.amazon.fr/Quad-Lock-Adaptateur-universel-Noir/dp/B008O0Z9YU/ref=sr_1_2?ie=UTF8&qid=1427284132&sr=8-2&keywords=quad+lock&tag=tfadafr-21
+ [3]: https://www.amazon.fr/Quad-Lock-Adaptateur-universel-Noir/dp/B008O0Z9YU/ref=sr_1_2?ie=UTF8&qid=1427284132&sr=8-2&keywords=quad+lock&tag=tfadafr-21
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/wpid-Quad-lock-iPhone-6-2.jpg
- [5]: http://localhost/2014/10/liphone-6-plus-dans-tous-ses-etats/
+ [5]: https://localhost/2014/10/liphone-6-plus-dans-tous-ses-etats/
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/wpid-Quad-lock-iPhone-6-1.jpg
- [7]: http://quadlock.refr.cc/W6NC56B
+ [7]: https://quadlock.refr.cc/W6NC56B

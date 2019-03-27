@@ -15,7 +15,7 @@ Quand je compare le service rendu par Pocket à celui d’Evernote pour le même
 
 Non ça fait cher pour un service de lecture différée, alors je me barre, bonjour Instapaper. Je vais prendre un abonnement chez eux au moins leur service n’est qu’à 3€ par mois, ça permettra de les soutenir. En plus leur interface est vraiment propre en comparaison à Pocket. Il offre plus de services, comme l’envoi d’article sur **Kindle** ou encore la **lecture** **rapide**.
 
-Niveau qualité, il n’y a pas photo, Instapaper fait plus professionnel et est beaucoup plus agréable à lire. Leur choix de polices est beaucoup plus important que sur Pocket, leurs thèmes aussi. Enfin, depuis janvier 2016, l’équipe a amélioré son [parser](http://blog.instapaper.com/post/137288701461) afin qu’il récupère plus **rapidement** les articles de même pour les articles avec vidéos et photos, Instapaper comble le retard qu’il avait là dessus par rapport à Pocket.
+Niveau qualité, il n’y a pas photo, Instapaper fait plus professionnel et est beaucoup plus agréable à lire. Leur choix de polices est beaucoup plus important que sur Pocket, leurs thèmes aussi. Enfin, depuis janvier 2016, l’équipe a amélioré son [parser](https://blog.instapaper.com/post/137288701461) afin qu’il récupère plus **rapidement** les articles de même pour les articles avec vidéos et photos, Instapaper comble le retard qu’il avait là dessus par rapport à Pocket.
 Donc il n’y a plus vraiment de match !
 
 Bye Pocket ! Ton **service de recommandation** va bien me **manquer** par contre…

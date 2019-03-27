@@ -3,7 +3,7 @@ id: 329
 title: Fixation iPhone Quad Lock pour vélo
 author: iSebmo
 layout: post
-guid: http://localhost/?p=329
+guid: https://localhost/?p=329
 permalink: /2014/06/fixation-iphone-quad-lock-pour-velo/
 sf_sidebar_config:
   - no-sidebars

@@ -3,7 +3,7 @@ id: 351
 title: Gérer ses comptes simplement
 author: iSebmo
 layout: post
-guid: http://localhost/?p=351
+guid: https://localhost/?p=351
 permalink: /2014/07/gerer-ses-comptes-simplement/
 sf_thumbnail_image:
   - 352
@@ -63,4 +63,4 @@ Le service est gratuit dans sa version sans coffre fort ni gestion des échéanc
 
 Voilà le service le plus complet que je connaisse dans la gestion de ses comptes bancaires, la gestion du **pointage** est un plus qui manque aux autres, la gestion de plusieurs **systèmes iOS et Android** et un vrai plus.
 
- [1]: http://gerermescomptes.com
+ [1]: https://gerermescomptes.com

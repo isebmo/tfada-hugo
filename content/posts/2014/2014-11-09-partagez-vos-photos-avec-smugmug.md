@@ -3,7 +3,7 @@ id: 537
 title: Partagez vos photos avec Smugmug
 author: iSebmo
 layout: post
-guid: http://localhost/?p=537
+guid: https://localhost/?p=537
 permalink: /2014/11/partagez-vos-photos-avec-smugmug/
 sf_thumbnail_image:
   - 539
@@ -64,8 +64,8 @@ Pour le reste, il est doté de fonctionnalités intéressantes qu’il est possi
 
 Si vous cherchez un site de partage et surtout de backup (et oui personne n’est à l’abris d’un cambriolage) n’hésitez pas Smugsmug est excellent. Ce service possède ses applications [mobiles][5] et une extension pour Aperture et Lightroom.
 
- [1]: http://smugmug.com
+ [1]: https://smugmug.com
  [2]: https://www.flickr.com/photos/isebmo/
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/smugmug.png
- [4]: http://localhost/2013/11/le-petit-sony-a7r/
+ [4]: https://localhost/2013/11/le-petit-sony-a7r/
  [5]: https://itunes.apple.com/fr/app/smugmug/id364894061?mt=8

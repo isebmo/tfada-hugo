@@ -3,7 +3,7 @@ id: 257
 title: Partage rapide de lien
 author: iSebmo
 layout: post
-guid: http://localhost/?p=257
+guid: https://localhost/?p=257
 permalink: /2014/03/pushbullet/
 sf_thumbnail_image:
   - 258
@@ -53,6 +53,6 @@ Ce service est d&rsquo;autant plus complet qu&rsquo;il ne s&rsquo;arrête pas à
 L&rsquo;essayer c&rsquo;est l&rsquo;adopter. Un petit coup de gueule contre l&rsquo;os d&rsquo;Apple qui, trop bridé, ne permet pas comme sur Android d&rsquo;envoyer les notifications de son téléphone directement sur l&rsquo;extension chrome [pushbullet][3]. Cette fonctionnalité peut être utile surtout au boulot pour ne pas avoir à sortir son téléphone à chaque vibration. Vous retrouvez ensuite toutes les notifications Android dans Chrome sur votre ordinateur. Elle est pas belle la vie d&rsquo;un [Geek][4] ?
 
  [1]: https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CDIQFjAA&url=https%3A%2F%2Fwww.pushbullet.com%2F&ei=oVQvU4vUIY2BhAelgoHYCA&usg=AFQjCNH6YCnwfxcj8JaUyuXFrNhLSbuWKA&sig2=ehetxtZUfpar8kc42gDHPg&bvm=bv.62922401,d.ZG4
- [2]: http://www.amazon.fr/gp/product/B00FFDHECO/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FFDHECO&linkCode=as2&tag=tfadafr-21
+ [2]: https://www.amazon.fr/gp/product/B00FFDHECO/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FFDHECO&linkCode=as2&tag=tfadafr-21
  [3]: https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd
- [4]: http://localhost/2014/03/beamer-2-stream-to-apple-tv/ "Beamer 2: stream to Apple TV"
+ [4]: https://localhost/2014/03/beamer-2-stream-to-apple-tv/ "Beamer 2: stream to Apple TV"

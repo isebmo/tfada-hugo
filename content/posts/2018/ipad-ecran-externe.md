@@ -9,7 +9,7 @@ date: 2018-08-19
 categories: 
 - Geek
 - Hightech
-fimg: "http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-08-19-21-59-3usRK5u4JtKmHT5VseyO.jpg"
+fimg: "https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-08-19-21-59-3usRK5u4JtKmHT5VseyO.jpg"
 ---
 
 Apple souhaite depuis quelques temps faire de l’iPad une machine capable de remplacer un mac. En effet, Apple met le paquet afin de créer un iPad dit “pro” qui permet de remplacer un ordinateur. La puissance de calcul de l’iPad est considérable surtout en comparaison au modèle d’entrée de gamme des macbook. La technologie True Tone est assez bluffante et n’est disponible que sur le macbook haut de gamme et sur un iPad pro, c’est dire comment Apple cherche à nous refiler des iPad à la place d’un macbook au même prix. 

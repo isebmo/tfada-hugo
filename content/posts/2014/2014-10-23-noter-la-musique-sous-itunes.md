@@ -3,7 +3,7 @@ id: 463
 title: Noter la musique sous iTunes
 author: iSebmo
 layout: post
-guid: http://localhost/?p=463
+guid: https://localhost/?p=463
 permalink: /2014/10/noter-la-musique-sous-itunes/
 sf_thumbnail_image:
   - 467
@@ -36,7 +36,7 @@ robotsmeta:
 enclosure:
   - |
     |
-        http://distrib.karelia.com/videos/stars-demo@2x.m4v
+        https://distrib.karelia.com/videos/stars-demo@2x.m4v
         2977395
         video/mp4
         
@@ -64,12 +64,6 @@ Vous pouvez depuis le menu noter la musique de *0 à 5 étoiles*, vous avez la p
 
 Une des possibilités fort sympathiques, c’est la possibilité d’avoir une **notification** lorsqu’une musique n’est pas notée. Cette *popup* apparait (si vous l’avez configuré dans les options) pour vous rappeler de noter la musique (si ce n’est pas déjà fait).
 
-<div style="width: 640px; " class="wp-video">
-  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-463-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="http://distrib.karelia.com/videos/stars-demo@2x.m4v?_=1" />
-  
-  <a href="http://distrib.karelia.com/videos/stars-demo@2x.m4v">http://distrib.karelia.com/videos/stars-demo@2x.m4v</a></video>
-</div>
-
 # L’open source
 
 C’est vraiment regrettable de dépendre du bon vouloir du développeur pour mettre à jour une application. Je pense qu’il ne couterait rien au développeur de donner les sources de son logiciel s’il décide d’arrêter son développement. C’est ce qui aurait dû se passer avec [You Control Tunes][2] qui est mort et il est impossible de continuer son développement puisque le développeur n’a pas cru bon de partager les sources.
@@ -77,6 +71,6 @@ C’est vraiment regrettable de dépendre du bon vouloir du développeur pour me
 Encore [2 petits euros][1] bien investis.
 
  [1]: https://itunes.apple.com/us/app/stars-by-karelia/id926319434?ls=1&mt=12
- [2]: http://www.macupdate.com/app/mac/15802/you-control:-tunes
+ [2]: https://www.macupdate.com/app/mac/15802/you-control:-tunes
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-10-21-à-13.11.06.png
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-10-21-à-13.11.54.png

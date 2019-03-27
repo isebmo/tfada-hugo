@@ -5,7 +5,7 @@ tags:
 author: iSebmo
 date: 2018-03-11
 categories: "HighTech"
-fimg: http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-11-14-00.jpg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-11-14-00.jpg
 ---
 
 J’ai de plus en plus envie de *bloguer* uniquement depuis l’iPhone en itinérance complète. Pour cela j’aimerais pouvoir prendre toutes les photos de ce blog à l’iPhone. Afin de pouvoir réaliser ce petit rêve il me faut une optique me permettant de faire des photos de type macro, pour le reste l’iPhone se débrouille très bien tout seul. 

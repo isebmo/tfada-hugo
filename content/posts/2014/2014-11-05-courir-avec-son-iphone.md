@@ -3,7 +3,7 @@ id: 518
 title: Courir avec son iPhone
 author: iSebmo
 layout: post
-guid: http://localhost/?p=518
+guid: https://localhost/?p=518
 permalink: /2014/11/courir-avec-son-iphone/
 dfiFeatured:
   - 'a:1:{i:0;s:0:"";}'
@@ -59,9 +59,9 @@ La fixation est un peu *grosse*, mais permet d’attacher et de détacher très 
 
 Plus de raisons pour ne pas aller courir ! Et pensez à vous inscrire sur [Strava][6] ça vous motivera encore plus.
 
- [1]: http://www.amazon.fr/gp/product/B00J7H01Z6/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00J7H01Z6&linkCode=as2&tag=tfadafr-21&linkId=5A7IS3BW5VO46MW7
- [2]: http://localhost/2014/06/fixation-iphone-quad-lock-pour-velo/
- [3]: http://localhost/2014/10/courir-avec-son-iphone/
- [4]: http://www.amazon.fr/gp/product/B00N3W0PRA/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00N3W0PRA&linkCode=as2&tag=tfadafr-21&linkId=K3O4EVQGMFZZWEB3
+ [1]: https://www.amazon.fr/gp/product/B00J7H01Z6/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00J7H01Z6&linkCode=as2&tag=tfadafr-21&linkId=5A7IS3BW5VO46MW7
+ [2]: https://localhost/2014/06/fixation-iphone-quad-lock-pour-velo/
+ [3]: https://localhost/2014/10/courir-avec-son-iphone/
+ [4]: https://www.amazon.fr/gp/product/B00N3W0PRA/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00N3W0PRA&linkCode=as2&tag=tfadafr-21&linkId=K3O4EVQGMFZZWEB3
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/quadlock-brassard.jpg
- [6]: http://strava.com
+ [6]: https://strava.com

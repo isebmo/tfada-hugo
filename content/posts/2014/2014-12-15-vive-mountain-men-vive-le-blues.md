@@ -3,7 +3,7 @@ id: 642
 title: Vive Mountain Men, vive le blues
 author: iSebmo
 layout: post
-guid: http://localhost/?p=642
+guid: https://localhost/?p=642
 permalink: /2014/12/vive-mountain-men-vive-le-blues/
 sf_thumbnail_image:
   - 644
@@ -56,9 +56,9 @@ Et ce super groupe nous réserve un [nouvel album][5] pour février 2015, quoi d
 
 [Tick tock][6], à vous la découverte !
 
- [1]: http://www.dmbf.fr/
- [2]: http://www.amazon.fr/Very-Best-John-Lee-Hooker/dp/B00LU0E4F6/ref=sr_1_3?ie=UTF8&qid=1418645589&sr=8-3&keywords=hooker&tag=tfadafr-21
- [3]: http://www.amazon.fr/Hope-Mountain-Men/dp/B008EU3B8G/ref=sr_1_2?ie=UTF8&qid=1418645509&sr=8-2&keywords=mountain+men&tag=tfadafr-21
- [4]: http://www.amazon.fr/Mountain-Men-Chante-Georges-Brassens/dp/B00JBJOUDY/ref=sr_1_1?ie=UTF8&qid=1418645509&sr=8-1&keywords=mountain+men&tag=tfadafr-21
+ [1]: https://www.dmbf.fr/
+ [2]: https://www.amazon.fr/Very-Best-John-Lee-Hooker/dp/B00LU0E4F6/ref=sr_1_3?ie=UTF8&qid=1418645589&sr=8-3&keywords=hooker&tag=tfadafr-21
+ [3]: https://www.amazon.fr/Hope-Mountain-Men/dp/B008EU3B8G/ref=sr_1_2?ie=UTF8&qid=1418645509&sr=8-2&keywords=mountain+men&tag=tfadafr-21
+ [4]: https://www.amazon.fr/Mountain-Men-Chante-Georges-Brassens/dp/B00JBJOUDY/ref=sr_1_1?ie=UTF8&qid=1418645509&sr=8-1&keywords=mountain+men&tag=tfadafr-21
  [5]: https://itunes.apple.com/fr/album/against-the-wind/id946518095
- [6]: http://www.amazon.fr/gp/product/B009IASWYY/ref=dm_mu_dp_trk2?tag=tfadafr-21
+ [6]: https://www.amazon.fr/gp/product/B009IASWYY/ref=dm_mu_dp_trk2?tag=tfadafr-21

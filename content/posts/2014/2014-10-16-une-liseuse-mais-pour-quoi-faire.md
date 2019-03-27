@@ -3,7 +3,7 @@ id: 411
 title: Test de la Kobo Aura HD
 author: iSebmo
 layout: post
-guid: http://localhost/?p=411
+guid: https://localhost/?p=411
 permalink: /2014/10/une-liseuse-mais-pour-quoi-faire/
 sf_thumbnail_image:
   - 413
@@ -89,9 +89,9 @@ Un bug gênant ralentit la liseuse lorsqu’elle cherche le réseau WiFi sur leq
 
 La liseuse étant distribuée par la [FNAC][6], lorsqu’elle est en veille elle affiche bêtement le logo. Pour changer ce comportement il suffit de brancher la liseuse à votre ordinateur et d’éditer le fichier *affiliate.conf* présent dans le dossier *.kobo* et de supprimer la ligne qui contient *FNAC*. Maintenant la liseuse affiche la couverture du dernier livre que vous êtes en train de lire.
 
- [1]: http://www.amazon.fr/gp/product/B00CFV45KS/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00CFV45KS&linkCode=as2&tag=tfadafr-21&linkId=QPZC3776VNG4YNYO
- [2]: http://www.amazon.fr/gp/product/B00JG8GBDM/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00JG8GBDM&linkCode=as2&tag=tfadafr-21&linkId=GUGT5STZHQC2UGQG
+ [1]: https://www.amazon.fr/gp/product/B00CFV45KS/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00CFV45KS&linkCode=as2&tag=tfadafr-21&linkId=QPZC3776VNG4YNYO
+ [2]: https://www.amazon.fr/gp/product/B00JG8GBDM/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00JG8GBDM&linkCode=as2&tag=tfadafr-21&linkId=GUGT5STZHQC2UGQG
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07395.jpg
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07396.jpg
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07398.jpg
- [6]: http://fnac.com
+ [6]: https://fnac.com

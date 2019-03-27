@@ -3,7 +3,7 @@ id: 320
 title: Gérer sa cave avec SmartCave
 author: iSebmo
 layout: post
-guid: http://localhost/?p=320
+guid: https://localhost/?p=320
 permalink: /2014/06/gerer-sa-cave-avec-smartcave/
 sf_sidebar_config:
   - no-sidebars
@@ -44,7 +44,7 @@ tags:
 date: 2014-06-09
 ---
 <p class="p1">
-  Si comme moi vous cherchez une application qui vous permet de gérer votre <a href="http://www.amazon.fr/gp/product/B002N5F5IW/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B002N5F5IW&linkCode=as2&tag=tfadafr-21">cave</a> vous devez connaître smartcave. Cette petite application est simple, mais diablement efficace.
+  Si comme moi vous cherchez une application qui vous permet de gérer votre <a href="https://www.amazon.fr/gp/product/B002N5F5IW/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B002N5F5IW&linkCode=as2&tag=tfadafr-21">cave</a> vous devez connaître smartcave. Cette petite application est simple, mais diablement efficace.
 </p>
 
 <p class="p2">
@@ -58,7 +58,7 @@ date: 2014-06-09
 </p>
 
 <p class="p1">
-  Il vous permet de gérer votre <a href="http://www.amazon.fr/gp/product/B002N5F5IW/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B002N5F5IW&linkCode=as2&tag=tfadafr-21">cave</a>, mais pas seulement. Vous pouvez rechercher à travers un catalogue gigantesque des références de vin soit en tapant le nom soit en recherchant avec le menu que vous allez manger, et le site s&rsquo;occupe de vous fournir les vins en accord. Ce dernier point est très intéressant surtout comme pour les gens comme moi qui ne connaissent pas grand en accord et mets (ok le bordeaux avec une belle pièce de bœuf, mais à part ça&#8230;).
+  Il vous permet de gérer votre <a href="https://www.amazon.fr/gp/product/B002N5F5IW/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B002N5F5IW&linkCode=as2&tag=tfadafr-21">cave</a>, mais pas seulement. Vous pouvez rechercher à travers un catalogue gigantesque des références de vin soit en tapant le nom soit en recherchant avec le menu que vous allez manger, et le site s&rsquo;occupe de vous fournir les vins en accord. Ce dernier point est très intéressant surtout comme pour les gens comme moi qui ne connaissent pas grand en accord et mets (ok le bordeaux avec une belle pièce de bœuf, mais à part ça&#8230;).
 </p>
 
 <p class="p2">

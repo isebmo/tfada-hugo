@@ -3,7 +3,7 @@ id: 395
 title: Test du nouvel iphone 6 plus
 author: iSebmo
 layout: post
-guid: http://localhost/?p=395
+guid: https://localhost/?p=395
 permalink: /2014/10/liphone-6-plus-dans-tous-ses-etats/
 sf_sidebar_config:
   - no-sidebars
@@ -93,12 +93,12 @@ L’autonomie n’est pas encore parfaite. Vous pouvez compter environ 20% de pl
 
 [<img class="aligncenter size-full wp-image-402" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC07411-1.jpg" alt="DSC07411 (1)" width="2048" height="1367" />][9]
 
- [1]: http://www.amazon.fr/gp/product/B00NGOC988/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00NGOC988&linkCode=as2&tag=tfadafr-21&linkId=PP6R3CWF6L2UA7FB
+ [1]: https://www.amazon.fr/gp/product/B00NGOC988/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00NGOC988&linkCode=as2&tag=tfadafr-21&linkId=PP6R3CWF6L2UA7FB
  [2]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07416-1.jpg
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07413-1.jpg
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07414-1.jpg
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07415-1.jpg
- [6]: http://www.amazon.fr/gp/product/B00ET7MWWO/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00ET7MWWO&linkCode=as2&tag=tfadafr-21&linkId=U75BKGVBUJBNXOIH
- [7]: http://www.amazon.fr/gp/product/B00NMCW9IO/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00NMCW9IO&linkCode=as2&tag=tfadafr-21&linkId=6STGLG7HI7UETYBT
- [8]: http://www.amazon.fr/gp/product/B00FFDHECO/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FFDHECO&linkCode=as2&tag=tfadafr-21&linkId=7IOXSXIP4IBKXGRA
+ [6]: https://www.amazon.fr/gp/product/B00ET7MWWO/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00ET7MWWO&linkCode=as2&tag=tfadafr-21&linkId=U75BKGVBUJBNXOIH
+ [7]: https://www.amazon.fr/gp/product/B00NMCW9IO/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00NMCW9IO&linkCode=as2&tag=tfadafr-21&linkId=6STGLG7HI7UETYBT
+ [8]: https://www.amazon.fr/gp/product/B00FFDHECO/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FFDHECO&linkCode=as2&tag=tfadafr-21&linkId=7IOXSXIP4IBKXGRA
  [9]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07411-1.jpg

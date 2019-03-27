@@ -3,7 +3,7 @@ id: 631
 title: Ultra grand angle Samyang 14mm
 author: iSebmo
 layout: post
-guid: http://localhost/?p=631
+guid: https://localhost/?p=631
 permalink: /2014/12/ultra-grand-angle-samyang-14mm/
 sf_thumbnail_image:
   - 637
@@ -80,16 +80,16 @@ Personnellement je préfère garder ce genre de déformations ça donne un *styl
 Couplé au [Sony a7r ][1]cet objectif est un vrai bonheur pour les photos de paysages. *Couleurs éclatantes*, déformations contrôlées et *piqué* exceptionnel ajoutent un côté attachant à cet objectif.  
 Seulement voilà avec la sortie du [Zeiss 16–35mm][2] et en comparant l’encombrement des deux le choix est vite fait je garde le [Zeiss 16–35mm][2].
 
- [1]: http://localhost/2013/11/le-petit-sony-a7r/
- [2]: http://www.amazon.fr/Sony-SEL1635Z-SYX-Objectif-Vario-Tessar-16-35/dp/B00NVA7J1Y/ref=sr_1_1?ie=UTF8&qid=1418330920&sr=8-1&keywords=zeiss+16+35&tag=tfadafr-21
- [3]: http://www.amazon.fr/Sony-SEL-2470Z-Objectif-24-70-VARIO-TESSAR/dp/B00FYRLSIC/ref=pd_sim_ph_2?ie=UTF8&refRID=00JXYVNWMPCH202JZKH1&tag=tfadafr-21
- [4]: http://www.amazon.fr/Sony-70-200-OSS-SEL70200G-Objectifs/dp/B00G9UJW36/ref=pd_sxp_grid_i_2_1?tag=tfadafr-21
- [5]: http://www.amazon.fr/Samyang-14mm-F2-8-Sony-SAM14SONYE/dp/B00I9H9PVG/ref=sr_1_14?s=electronics&ie=UTF8&qid=1418330991&sr=1-14&keywords=samyang+14&tag=tfadafr-21
+ [1]: https://localhost/2013/11/le-petit-sony-a7r/
+ [2]: https://www.amazon.fr/Sony-SEL1635Z-SYX-Objectif-Vario-Tessar-16-35/dp/B00NVA7J1Y/ref=sr_1_1?ie=UTF8&qid=1418330920&sr=8-1&keywords=zeiss+16+35&tag=tfadafr-21
+ [3]: https://www.amazon.fr/Sony-SEL-2470Z-Objectif-24-70-VARIO-TESSAR/dp/B00FYRLSIC/ref=pd_sim_ph_2?ie=UTF8&refRID=00JXYVNWMPCH202JZKH1&tag=tfadafr-21
+ [4]: https://www.amazon.fr/Sony-70-200-OSS-SEL70200G-Objectifs/dp/B00G9UJW36/ref=pd_sxp_grid_i_2_1?tag=tfadafr-21
+ [5]: https://www.amazon.fr/Samyang-14mm-F2-8-Sony-SAM14SONYE/dp/B00I9H9PVG/ref=sr_1_14?s=electronics&ie=UTF8&qid=1418330991&sr=1-14&keywords=samyang+14&tag=tfadafr-21
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/Samyang-14mm-2.jpg
  [7]: https://s3.eu-central-1.amazonaws.com/tfada/Samyang-14mm-3.jpg
- [8]: http://www.amazon.fr/Sony-35-SONNAR-SEL35F28Z-Objectifs/dp/B00FYRLSM8/ref=pd_sim_ce_3?ie=UTF8&refRID=1GRS9TJ75DQ00YG25MHC&tag=tfadafr-21
- [9]: http://www.amazon.fr/Adobe-Photoshop-Lightroom-5/dp/B00DAS8O6G/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1418331062&sr=1-1-catcorr&keywords=lightroom&tag=tfadafr-21
+ [8]: https://www.amazon.fr/Sony-35-SONNAR-SEL35F28Z-Objectifs/dp/B00FYRLSM8/ref=pd_sim_ce_3?ie=UTF8&refRID=1GRS9TJ75DQ00YG25MHC&tag=tfadafr-21
+ [9]: https://www.amazon.fr/Adobe-Photoshop-Lightroom-5/dp/B00DAS8O6G/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1418331062&sr=1-1-catcorr&keywords=lightroom&tag=tfadafr-21
  [10]: https://itunes.apple.com/fr/app/aperture/id408981426?mt=12
  [11]: https://s3.eu-central-1.amazonaws.com/tfada/DSC06670.jpg
- [12]: http://www.amazon.fr/DxO-OpticsPro-10-Essential-traitement/dp/B00ORMU9M6/ref=sr_1_11?ie=UTF8&qid=1418331141&sr=8-11&keywords=dxo+pro&tag=tfadafr-21
+ [12]: https://www.amazon.fr/DxO-OpticsPro-10-Essential-traitement/dp/B00ORMU9M6/ref=sr_1_11?ie=UTF8&qid=1418331141&sr=8-11&keywords=dxo+pro&tag=tfadafr-21
  [13]: https://s3.eu-central-1.amazonaws.com/tfada/Samyang-14mm-4.jpg

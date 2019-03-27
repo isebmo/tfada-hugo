@@ -3,7 +3,7 @@ id: 380
 title: gestionnaire de téléchargement
 author: iSebmo
 layout: post
-guid: http://localhost/?p=380
+guid: https://localhost/?p=380
 permalink: /2014/10/le-telechargement-tout-simplement/
 sf_thumbnail_image:
   - 383
@@ -52,4 +52,4 @@ Allez c’est gratuit et c’est par [ici][3].
 
  [1]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-10-09-à-19.02.43.png
  [2]: https://www2.netflix.com/?locale=fr-FR
- [3]: http://www.macpsd.net
+ [3]: https://www.macpsd.net

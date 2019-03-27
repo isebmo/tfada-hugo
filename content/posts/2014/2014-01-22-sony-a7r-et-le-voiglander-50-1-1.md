@@ -3,7 +3,7 @@ id: 200
 title: Sony A7r et le voigtlander 50 1.1
 author: iSebmo
 layout: post
-guid: http://localhost/?p=200
+guid: https://localhost/?p=200
 permalink: /2014/01/sony-a7r-et-le-voiglander-50-1-1/
 sf_sidebar_config:
   - no-sidebars

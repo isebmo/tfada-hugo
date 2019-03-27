@@ -3,7 +3,7 @@ id: 457
 title: Safari 8 pour Yosemite
 author: iSebmo
 layout: post
-guid: http://localhost/?p=457
+guid: https://localhost/?p=457
 permalink: /2014/10/safari-8-pour-yosemite/
 sf_thumbnail_image:
   - 460
@@ -84,5 +84,5 @@ Safari pour tous jours mais Google Chrome pour le *développement web*. Les outi
  [4]: https://lastpass.com/misc_download2.php
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-10-18-à-20.11.40.png
  [6]: https://extensions.apple.com/?category=mostpopular
- [7]: http://fr.wikipedia.org/wiki/Design_plat
+ [7]: https://fr.wikipedia.org/wiki/Design_plat
  [8]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-10-18-à-20.17.18.png

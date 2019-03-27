@@ -3,7 +3,7 @@ id: 1
 title: Site en construction
 author: iSebmo
 layout: post
-guid: http://localhost//?p=1
+guid: https://localhost//?p=1
 permalink: /2013/11/site-en-construction/
 sf_sidebar_config:
   - no-sidebars

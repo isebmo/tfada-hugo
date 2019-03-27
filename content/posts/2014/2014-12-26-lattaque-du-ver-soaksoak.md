@@ -3,7 +3,7 @@ id: 668
 title: 'L&rsquo;attaque Du Ver soaksoak'
 author: iSebmo
 layout: post
-guid: http://localhost/?p=668
+guid: https://localhost/?p=668
 permalink: /2014/12/lattaque-du-ver-soaksoak/
 dsq_thread_id:
   - 3373015444

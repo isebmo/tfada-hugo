@@ -6,7 +6,7 @@ author: iSebmo
 date: 2018-12-06
 categories: 
 - Geek
-fimg: http://tfada.s3-eu-central-1.amazonaws.com/Screenshot-2018-12-06-at-22.47.54.fae24a689de94ae09e0e2d3c600aa779-uexHU0y6p0mJdnRtsRFC.jpg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/Screenshot-2018-12-06-at-22.47.54.fae24a689de94ae09e0e2d3c600aa779-uexHU0y6p0mJdnRtsRFC.jpg
 ---
 Petite astuce du jour pour ceux et celles qui n’ont pas de Mac avec touch bar, il est possible d’afficher rapidement les emoji à l’aide du raccourcis clavier :
 Control + Command + Espace !

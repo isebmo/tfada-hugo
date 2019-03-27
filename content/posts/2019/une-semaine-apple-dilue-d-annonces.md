@@ -6,7 +6,7 @@ author: iSebmo
 date: 2019-03-24
 categories: 
 - Geek
-fimg: http://tfada.s3-eu-central-1.amazonaws.com/Photo-2019-03-24-10-39.jpg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/Photo-2019-03-24-10-39.jpg
 ---
 
 Comme d'habitude Apple a cherché à gérer sa communication en amont de la Keynote. Au menu, un rafraîchissement de la gamme de l'iMac et AirPods, de nouveaux iPad (ou des anciens) et non pas de AirPower. 

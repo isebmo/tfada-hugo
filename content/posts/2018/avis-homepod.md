@@ -5,7 +5,7 @@ tags:
 author: iSebmo
 date: 2018-03-24
 categories: ["HighTech","Musique"]
-fimg: http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-24-16-00.jpg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-24-16-00.jpg
 ---
 
 D’abord si vous vous demandez où je me suis procuré ce HomePod, je l’ai tout simplement commandé sur eBay. Si vous tombé sur le bon vendeur vous le toucherez à moins de 400€, au delà c’est du vol et autant attendre sa sortie officielle au printemps.
@@ -17,7 +17,7 @@ Il **pèse son poids**, c’est d’ailleurs à ça que je me suis rassuré en l
 
 La version noire prend légèrement la **poussière** il faut penser à le nettoyer. Ce HomePod a pris place dans la cuisine qui est à dominante blanche, l’enceinte passe presque inaperçue. 
 
-![](http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-24-16-01.jpg)
+![](https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-24-16-01.jpg)
 
 En ce qui concerne les **commandes**, ce HomePod possède sur le dessus des commandes tactiles. Taper une fois dessus et l’enceinte se réveille et lance la dernière radio écoutée, les **boutons tactiles** plus et moins permettent respectivement d’augmenter ou baisser le volume. Pour l’éteindre vous pouvez demander à Siri sinon une tap sur la partie tactile et l’enceinte s’éteint. À priori pour passer d’un morceau à l’autre la double tap et la triple tape fonctionne afin de passer au morceau suivant ou revenir au morceau précédent mais je n’ai pas testé.
 
@@ -33,7 +33,7 @@ En termes de **rendu sonore** j’avoue avoir eu du plaisir à écouter du **blu
 Attention tout de même, je possède des enceintes **Elipson** et un amplificateur **REGA** et la qualité du son n’est pas comparable ! Mon installation audiophile reste dans le salon tandis que le HomePod est dédié à l’écoute dans la cuisine ou dans la chambre.
 Dans un appartement avec cuisine ouverte, le HomePod en stéréo pourra suffire amplement a apprécié sa musique.
 
-![](http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-24-16-02.jpg "HomePod ")
+![](https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-24-16-02.jpg "HomePod ")
 
 ## Siri pour le mode connecté
 J’ai lu pas mal de critique concernant Siri sur HomePod, personnellement je n’attend pas grand chose des assistants vocaux. Pour vous donner des exemples d’utilisations, je les utilise pour ajouter des rappels, lancer une ambiance lumineuse à l’aide des ampoules Hue ou lancer une radio sur Apple Music. 

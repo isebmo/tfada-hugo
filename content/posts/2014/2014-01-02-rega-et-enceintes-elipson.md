@@ -3,7 +3,7 @@ id: 154
 title: "Matériel Rega et enceintes elipson"
 author: iSebmo
 layout: post
-guid: http://localhost/?p=154
+guid: https://localhost/?p=154
 permalink: /2014/01/rega-et-enceintes-elipson/
 sf_sidebar_config:
   - no-sidebars
@@ -52,7 +52,7 @@ tags:
 fimg: https://s3.eu-central-1.amazonaws.com/tfada/DSC05959.jpg
 date: 2014-01-02
 ---
-Écouter de la musique quand le matériel est à la hauteur peut vous amenez au 7 ème ciel, non peut être pas quand même 😉 C&rsquo;est un peu comme prendre une belle photo quand le <a title="Le petit Sony A7r" href="http://localhost/2013/11/le-petit-sony-a7r/" target="_blank">matériel</a> est à la hauteur&#8230;  
+Écouter de la musique quand le matériel est à la hauteur peut vous amenez au 7 ème ciel, non peut être pas quand même 😉 C&rsquo;est un peu comme prendre une belle photo quand le <a title="Le petit Sony A7r" href="https://localhost/2013/11/le-petit-sony-a7r/" target="_blank">matériel</a> est à la hauteur&#8230;  
 J&rsquo;ai investi dernièrement dans un ensemble cohérent afin de profiter de la musique dématérialisée que je stocke jalousement dans un disque dur externe (mon dieu ne me le volez pas !). Je suis un adepte de la musique dématérialisée, à l&rsquo;heure ou on nous parle de la seconde vie du vinyle moi je ne peux pas&#8230; J&rsquo;aime le son clair, pur sans parasites et puis j&rsquo;aime zappé la musique me créer des playlists comparer rapidement deux versions d&rsquo;une chanson remastérisée pour apprécier le travail de l&rsquo;ingénieur du son, bref ne me parlez pas de vinyle.
 
 [<img class="alignnone size-full wp-image-158" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC05959.jpg" alt="DSC05959" width="960" height="510" />][1]
@@ -60,17 +60,17 @@ J&rsquo;ai investi dernièrement dans un ensemble cohérent afin de profiter d
 Tout ça pour dire que ma configuration Hifi est la suivante:
 
   * deux enceintes Elipson (made in france)
-  * un <a href="http://www.son-video.com/Rayons/Dac-Audio/Rega-Dac.html" target="_blank">dac Rega</a>
-  * un <a href="http://www.son-video.com/Rayons/Anplificateurs/Rega-BrioR.html" target="_blank">amplificateur Rega</a>
+  * un <a href="https://www.son-video.com/Rayons/Dac-Audio/Rega-Dac.html" target="_blank">dac Rega</a>
+  * un <a href="https://www.son-video.com/Rayons/Anplificateurs/Rega-BrioR.html" target="_blank">amplificateur Rega</a>
   * cable Rega
-  * un <a href="http://www.son-video.com/Rayons/Hifi/Amplis/M2TECH-HiFace-Two.html" target="_blank">hiface 2 </a>(connecté à l&rsquo;aide d&rsquo;un cable coaxial au DAC)
+  * un <a href="https://www.son-video.com/Rayons/Hifi/Amplis/M2TECH-HiFace-Two.html" target="_blank">hiface 2 </a>(connecté à l&rsquo;aide d&rsquo;un cable coaxial au DAC)
   * un mac mini
   * un logiciel audirvana
   * et enfin ma bibliothèque itunes
 
 [<img class="alignnone size-full wp-image-157" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC05958.jpg" alt="DSC05958" width="960" height="453" />][2]
 
-Pourquoi des enceintes Elipson ? D&rsquo;abord parce que j&rsquo;ai grandi avec des anciennes enceintes de même marque qui ont plus de 30ans et qui fonctionnent encore aujourd&rsquo;hui et puis parce que c&rsquo;est francais <img src="http://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Pourquoi des enceintes Elipson ? D&rsquo;abord parce que j&rsquo;ai grandi avec des anciennes enceintes de même marque qui ont plus de 30ans et qui fonctionnent encore aujourd&rsquo;hui et puis parce que c&rsquo;est francais <img src="https://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 [<img class="alignnone size-full wp-image-156" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC05933.jpg" alt="DSC05933" width="960" height="641" />][3]  
 J&rsquo;ai investi dans le modèle Elipson trois voies à colonne &laquo;&nbsp;Elipson Prestige 4&Prime; de 150watts chacune avec une sensibilité de 93.5db ce qui permet d&rsquo;être piloté par pratiquement tous les amplificateurs même à tubes (un rêve). C&rsquo;est des enceintes qui tire légèrement sur les basses ce qui pour moi est un avantage puisqu&rsquo;elles me serviront aussi à regarder des films et pourront me restituer toute la dynamique d&rsquo;un bon film d&rsquo;action.

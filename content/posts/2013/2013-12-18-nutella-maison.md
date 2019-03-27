@@ -3,7 +3,7 @@ id: 145
 title: "Recette pâte à tartiner, Nutella"
 author: iSebmo
 layout: post
-guid: http://localhost/?p=145
+guid: https://localhost/?p=145
 permalink: /2013/12/nutella-maison/
 sf_thumbnail_image:
   - 144
@@ -52,7 +52,7 @@ Avis au amateurs de chocolat, pour cette recette vous aurez besoin des ingrédie
   * une boite de lait concentré sucré 400gr
   * de la poudre de noisette (achetez des noisettes que vous écrasez à votre convenance)
   * de l’huile de coude
-  * 20min devant vous <img src="http://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  * 20min devant vous <img src="https://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 On commence par faire fondre au bain marie s’il vous plait le chocolat dans une casserole.  
 Une fois bien fondu, rajoutez au chocolat la margarine et mélangez le tout.  

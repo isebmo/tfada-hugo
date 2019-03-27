@@ -3,7 +3,7 @@ id: 585
 title: Faites du vélo avec Strava et le Garmin Edge Touring
 author: iSebmo
 layout: post
-guid: http://localhost/?p=585
+guid: https://localhost/?p=585
 permalink: /2014/11/du-velo-strava-garmin-edge-touring/
 sf_thumbnail_image:
   - 587
@@ -73,11 +73,11 @@ La fonctionnalité de base de ce [GPS][1] est l’orientation, vous uploadez un 
 
 Que vous fassiez du vélo ou de la course à pied Strava est l’application sociale qui va vous permettre de rester motivé.
 
- [1]: http://www.amazon.fr/Garmin-Edge-Touring-Plus-Compteur/dp/B00F9X12VE/ref=sr_1_1?ie=UTF8&qid=1416771891&sr=8-1&keywords=garmin+edge+touring&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Garmin-Edge-Touring-Plus-Compteur/dp/B00F9X12VE/ref=sr_1_1?ie=UTF8&qid=1416771891&sr=8-1&keywords=garmin+edge+touring&tag=tfadafr-21
  [2]: www.strava.com
- [3]: http://fr.wikipedia.org/wiki/Kitesurf
- [4]: http://www.amazon.fr/gp/product/B00IKNK6DU/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00IKNK6DU&linkCode=as2&tag=tfadafr-21&linkId=MOHHJOZK2HNQB43W
+ [3]: https://fr.wikipedia.org/wiki/Kitesurf
+ [4]: https://www.amazon.fr/gp/product/B00IKNK6DU/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00IKNK6DU&linkCode=as2&tag=tfadafr-21&linkId=MOHHJOZK2HNQB43W
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/Garmin-Edge-Touring-3.jpg
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/Garmin-Edge-Touring-2.jpg
- [7]: http://www.amazon.fr/Garmin-Edge-1000-Compteur-sans/dp/B00JOWDPF2/ref=sr_1_1?ie=UTF8&qid=1416771912&sr=8-1&keywords=Edge+1000&tag=tfadafr-21
+ [7]: https://www.amazon.fr/Garmin-Edge-1000-Compteur-sans/dp/B00JOWDPF2/ref=sr_1_1?ie=UTF8&qid=1416771912&sr=8-1&keywords=Edge+1000&tag=tfadafr-21
  [8]: https://s3.eu-central-1.amazonaws.com/tfada/Garmin-Edge-Touring-4.jpg

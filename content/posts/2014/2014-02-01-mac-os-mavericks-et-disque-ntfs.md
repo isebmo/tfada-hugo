@@ -3,7 +3,7 @@ id: 225
 title: Ecrire sur un disque dur NTFS avec Mavericks
 author: iSebmo
 layout: post
-guid: http://localhost/?p=225
+guid: https://localhost/?p=225
 permalink: /2014/02/mac-os-mavericks-et-disque-ntfs/
 sf_sidebar_config:
   - no-sidebars
@@ -45,7 +45,7 @@ tags:
 fimg: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-01-29-à-11.37.25.png
 date: 2014-02-01
 ---
-<span style="line-height: 1.5em;">Vous voulez partager vos photos et vos films de vacances avec vos amis, mais ils vous ont donné un disque dur formaté en NTFS ? C&rsquo;est dommage, passé les remarques « il est nul ton Mac, même mon netbook à 100€ peut le faire », alors vous vous empressez de regarder sur internet quelle est la procédure. Et c&rsquo;est là que vous tombez sur cet article <img src="http://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>  
+<span style="line-height: 1.5em;">Vous voulez partager vos photos et vos films de vacances avec vos amis, mais ils vous ont donné un disque dur formaté en NTFS ? C&rsquo;est dommage, passé les remarques « il est nul ton Mac, même mon netbook à 100€ peut le faire », alors vous vous empressez de regarder sur internet quelle est la procédure. Et c&rsquo;est là que vous tombez sur cet article <img src="https://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>  
 Commencez par télécharger les utilitaires suivants, je mets les liens, mais libre à vous d&rsquo;aller les chercher sur leur site officiel respectif.
 
   * [Macfuse][1]

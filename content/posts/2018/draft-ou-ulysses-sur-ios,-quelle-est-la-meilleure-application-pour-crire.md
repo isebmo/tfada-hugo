@@ -6,7 +6,7 @@ author: iSebmo
 date: 2018-10-17
 categories: 
 - Applications
-fimg: http://tfada.s3-eu-central-1.amazonaws.com/C67DBB68-6817-4AC5-BD78-DB82EBF3C178.png
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/C67DBB68-6817-4AC5-BD78-DB82EBF3C178.png
 ---
 
 Difficile de comparer deux applications dont la **philosophie** est différente, pourtant ces deux applications ont plus de ressemblances qu’il n’y parait. **Ulysses** se veut être une application centré sur l’écriture et plus particulièrement l’écriture de romans. **Drafts** est plutôt centrée sur la *prise de notes*, tout est fait pour prendre une note le plus **rapidement** possible. 
@@ -31,13 +31,13 @@ L'interface est plutôt austère au premier abord. Le logiciel est moins tourné
 
 L’application permet par exemple de créer de multiples rappels dans l’application du même nom depuis une note contenant une liste de choses à faire. 
 
-![Un exemple pour créer une liste de rappel en une fois depuis Drafts. ](http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-10-17-21-19.jpg "Création de rappels depuis Drafts")
+![Un exemple pour créer une liste de rappel en une fois depuis Drafts. ](https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-10-17-21-19.jpg "Création de rappels depuis Drafts")
 
 C’est ce types d’actions qui mettent en valeur la puissance de cette application. 
 
 J’aime beaucoup la possibilité d’arranger les paragraphes et de pouvoir accéder rapidement à un sommaire depuis l’interface de Drafts. Ainsi, il est possible de voir d’un seul coup d’œil les différents chapitres du document, et de pouvoir les arranger comme bon vous semble. 
 
-![](http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-10-17-21-47.png "Mode arrangement sous Drafts")
+![](https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-10-17-21-47.png "Mode arrangement sous Drafts")
 
 ## Ulysses
 
@@ -56,7 +56,7 @@ L’organisation en dossiers est plus naturelle, tandis que Drafts mise sur des 
 
 Enfin, Ulysses permet une gestion des objectifs d’écriture. Vous pouvez également disposer de statistiques sur le nombre de mots contenus dans votre article. Les statistiques sont poussées à l’extrême pour un apprenti écrivain, vous y trouverez le nombre de mots avec ou sans espaces, le temps de lecture estimé...
 
-![](http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-10-17-21-34.png "Statistiques d’écriture Ulysses")
+![](https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-10-17-21-34.png "Statistiques d’écriture Ulysses")
 
 ## Conclusion
 En conclusion, chaque application possède son lots d’avantages et d’inconvénients. Finalement, mon côté *Geek* me fait préférer **Drafts**, mais le plaisir d’écriture me fait sérieusement envisager de rester sous **Ulysses**. Les lacunes d’Ulysses en termes d’automatisation peuvent être comblées à l’aide de l’appplication [Scriptable](https://scriptable.app) dont je reviendrai sur son fonctionnement mais qui permet de scripter tout un tas de choses notamment la publication d’articles vers [Hugo](https://gohugo.io) ou [Jekyll](https://jekyllrb.com). 

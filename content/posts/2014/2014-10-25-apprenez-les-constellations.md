@@ -3,7 +3,7 @@ id: 469
 title: Apprenez les constellations avec Sky Guide
 author: iSebmo
 layout: post
-guid: http://localhost/?p=469
+guid: https://localhost/?p=469
 permalink: /2014/10/apprenez-les-constellations/
 sf_thumbnail_image:
   - 473

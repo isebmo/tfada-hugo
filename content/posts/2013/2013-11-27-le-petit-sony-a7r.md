@@ -3,7 +3,7 @@ id: 77
 title: Le petit Sony A7r
 author: iSebmo
 layout: post
-guid: http://localhost/?p=77
+guid: https://localhost/?p=77
 permalink: /2013/11/le-petit-sony-a7r/
 sf_sidebar_config:
   - no-sidebars
@@ -107,7 +107,7 @@ Encore une régression par rapport à mes anciens Alpha, c&rsquo;est dommage qu&
 
 [<img class=" size-full wp-image-82 aligncenter" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC05040.jpg" alt="DSC05040" width="960" height="640" />][6]
 
- [1]: http://localhost/2015/01/le-sony-a7r-1-apres/ "Le Sony A7r 1 an après"
+ [1]: https://localhost/2015/01/le-sony-a7r-1-apres/ "Le Sony A7r 1 an après"
  [2]: https://s3.eu-central-1.amazonaws.com/tfada/DSC05046.jpg
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/DSC05041.jpg
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/DSC05044.jpg

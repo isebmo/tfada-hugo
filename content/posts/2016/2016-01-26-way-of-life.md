@@ -25,13 +25,13 @@ Voici un petit article de développement personnel avec quelques conseils que j'
 
 * Choisissez vous mêmes votre programme tv. Il y a une multitudes de possibilités maintenant pour voir le film ou l'émission de votre choix, il n'y a plus qu'à choisir. Ne *subissez* pas la télé... Le replay est mon amis. Je choisis quand et quoi regarder.
 
-* Prenez le temps de préparer vos repas. Un tour sur [marmiton](http://marmiton.org), commandez ou allez faire vos courses et dégustez un bon repas pas cher. Et pourquoi pas faire [vos sushis vous mêmes](http://tfada.fr/2015/02/faites-vos-propres-sushis-cest-facile/). 
+* Prenez le temps de préparer vos repas. Un tour sur [marmiton](https://marmiton.org), commandez ou allez faire vos courses et dégustez un bon repas pas cher. Et pourquoi pas faire [vos sushis vous mêmes](https://tfada.fr/2015/02/faites-vos-propres-sushis-cest-facile/). 
 
-* Faites du *sport*. Avec une alimentation *adaptée* vous progresserez très vite à n'importe quel sport de votre choix. Le sport est le meilleur moyen de ne pas *subir* le *stress*. Profitez des [gadgets](http://tfada.fr/Apple-Watch.html) pour quantifier vos efforts. 
+* Faites du *sport*. Avec une alimentation *adaptée* vous progresserez très vite à n'importe quel sport de votre choix. Le sport est le meilleur moyen de ne pas *subir* le *stress*. Profitez des [gadgets](https://tfada.fr/Apple-Watch.html) pour quantifier vos efforts. 
 
-* Vous n'avez pas le temps ? Vous n'en n'aurez *jamais* si vous ne le *prenez* pas. Levez peut-être un peu plus [tôt](http://www.amazon.fr/gp/product/B008HF67KW?tag=tfadafr-21). Une petite astuce, achetez un [réveil][réveil] qui s'allume progressivement à l'heure programmée !
+* Vous n'avez pas le temps ? Vous n'en n'aurez *jamais* si vous ne le *prenez* pas. Levez peut-être un peu plus [tôt](https://www.amazon.fr/gp/product/B008HF67KW?tag=tfadafr-21). Une petite astuce, achetez un [réveil][réveil] qui s'allume progressivement à l'heure programmée !
 
 L'être humain est une machine à changer alors profitez en !
 
-[pouvoir]: http://www.amazon.fr/gp/product/B00UETMHG2?tag=tfadafr-21
-[réveil]: http://www.amazon.fr/gp/product/B008LR3KD8?tag=tfadafr-21
+[pouvoir]: https://www.amazon.fr/gp/product/B00UETMHG2?tag=tfadafr-21
+[réveil]: https://www.amazon.fr/gp/product/B008LR3KD8?tag=tfadafr-21

@@ -3,7 +3,7 @@ id: 507
 title: La méthode Lafay
 author: iSebmo
 layout: post
-guid: http://localhost/?p=507
+guid: https://localhost/?p=507
 permalink: /2014/11/la-methode-lafay/
 sf_thumbnail_image:
   - 509
@@ -67,15 +67,15 @@ Enfin le [dernier][11] à destination de la gent *féminine* qui a ses propres e
 
 Voilà vous n’avez plus qu’à vous lancer dans cette méthode de musculation. Vous ne perdez rien à essayer puisque le [livre][1] coûte seulement 20€ et que vous n’avez pas beaucoup de matériel à acheter (hormis une [barre de traction][12], mais vous avez la possibilité de faire sans).
 
- [1]: http://www.amazon.fr/gp/product/2851806424/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851806424&linkCode=as2&tag=tfadafr-21&linkId=A4IZKSA3T5X53FNC
- [2]: http://www.amazon.fr/gp/product/2851808478/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851808478&linkCode=as2&tag=tfadafr-21&linkId=6EW6KXO7H3M5GI56
+ [1]: https://www.amazon.fr/gp/product/2851806424/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851806424&linkCode=as2&tag=tfadafr-21&linkId=A4IZKSA3T5X53FNC
+ [2]: https://www.amazon.fr/gp/product/2851808478/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851808478&linkCode=as2&tag=tfadafr-21&linkId=6EW6KXO7H3M5GI56
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/511sv7xFIjL.jpg
- [4]: http://musculaction.com/forum/
+ [4]: https://musculaction.com/forum/
  [5]: https://www.facebook.com/MethodeLAFAY
- [6]: http://olivier-lafay.com
+ [6]: https://olivier-lafay.com
  [7]: Link
- [8]: http://www.amazon.fr/gp/product/2851809091/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851809091&linkCode=as2&tag=tfadafr-21&linkId=L3KNKC2GHHCR2OAW
- [9]: http://www.amazon.fr/gp/product/2851807269/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851807269&linkCode=as2&tag=tfadafr-21&linkId=A7EG5O6NH7D55CZY
- [10]: http://www.amazon.fr/gp/product/2851807919/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851807919&linkCode=as2&tag=tfadafr-21&linkId=VH4HC4PVD4TDIRI5
- [11]: http://www.amazon.fr/gp/product/2851806874/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851806874&linkCode=as2&tag=tfadafr-21&linkId=CZX4DK5U2GM2L7U4
- [12]: http://www.amazon.fr/gp/product/B004J54378/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B004J54378&linkCode=as2&tag=tfadafr-21&linkId=YF6TFBYCAOGUHJCK
+ [8]: https://www.amazon.fr/gp/product/2851809091/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851809091&linkCode=as2&tag=tfadafr-21&linkId=L3KNKC2GHHCR2OAW
+ [9]: https://www.amazon.fr/gp/product/2851807269/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851807269&linkCode=as2&tag=tfadafr-21&linkId=A7EG5O6NH7D55CZY
+ [10]: https://www.amazon.fr/gp/product/2851807919/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851807919&linkCode=as2&tag=tfadafr-21&linkId=VH4HC4PVD4TDIRI5
+ [11]: https://www.amazon.fr/gp/product/2851806874/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851806874&linkCode=as2&tag=tfadafr-21&linkId=CZX4DK5U2GM2L7U4
+ [12]: https://www.amazon.fr/gp/product/B004J54378/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B004J54378&linkCode=as2&tag=tfadafr-21&linkId=YF6TFBYCAOGUHJCK

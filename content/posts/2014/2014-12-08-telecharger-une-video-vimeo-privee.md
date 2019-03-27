@@ -3,7 +3,7 @@ id: 624
 title: Télécharger une vidéo Viméo privée
 author: iSebmo
 layout: post
-guid: http://localhost/?p=624
+guid: https://localhost/?p=624
 permalink: /2014/12/telecharger-une-video-vimeo-privee/
 sf_thumbnail_image:
   - 626
@@ -57,8 +57,8 @@ Plus besoin de charger et recharger les vidéos depuis votre site de streaming, 
 
 L’idée m’est venue lorsque je me suis payé un cours de photo en ligne, les vidéos n’étaient disponibles qu’en streaming. Au prix des cours 400€, je voulais avoir accès à vie aux vidéos, ça me semble normal. Avec cette petite [extension][1], c’est chose faite.
 
- [1]: http://netvideohunter.com/downloads/netvideohunter-1.16-nvh.xpi
+ [1]: https://netvideohunter.com/downloads/netvideohunter-1.16-nvh.xpi
  [2]: https://s3.eu-central-1.amazonaws.com/tfada/netvideohunter.png
- [3]: http://netvideohunter.com
+ [3]: https://netvideohunter.com
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/netvideohunter-icon.png
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/netvideohunter-extension.png

@@ -3,7 +3,7 @@ id: 19
 title: Retour sur la tablette LG pad 8.3
 author: iSebmo
 layout: post
-guid: http://localhost/?p=19
+guid: https://localhost/?p=19
 permalink: /2013/11/retour-sur-la-tablette-lg-pad-8-3/
 sf_sidebar_config:
   - no-sidebars
@@ -63,7 +63,7 @@ Ancien drogué des produits Apple, je me tourne de plus en plus vers les produit
 [<img class="alignnone size-large wp-image-58" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC04986-1024x682.jpg" alt="DSC04986" width="940" height="626" />][1]
 
 <p style="text-align: justify;">
-  <em>L&rsquo;autonomie:</em> C&rsquo;est un point faible de la tablette, un point faible de beaucoup d&rsquo;appareils Android aussi <img src="http://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  <em>L&rsquo;autonomie:</em> C&rsquo;est un point faible de la tablette, un point faible de beaucoup d&rsquo;appareils Android aussi <img src="https://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 </p>
 
 <p style="text-align: justify;">

@@ -3,7 +3,7 @@ id: 579
 title: Breaking bad thriller haletant
 author: iSebmo
 layout: post
-guid: http://localhost/?p=579
+guid: https://localhost/?p=579
 permalink: /2014/11/breaking-bad-thriller-haletant/
 sf_thumbnail_image:
   - 581
@@ -57,5 +57,5 @@ Pour faire simple l’histoire raconte la vie d’un pauvre *professeur* des éc
 
 Je vous propose de voir la suite, cette série *addictive* est juste un bijou. Vous la trouverez sur [Amazon][1] ou [iTunes][2] à un prix honnête. Un très beau cadeau pour Noël !
 
- [1]: http://www.amazon.fr/Breaking-Bad-Int%C3%A9grale-%C3%89dition-Collector/dp/B00FZ6JX5C/ref=sr_1_1?ie=UTF8&qid=1416643020&sr=8-1&keywords=breaking+bad&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Breaking-Bad-Int%C3%A9grale-%C3%89dition-Collector/dp/B00FZ6JX5C/ref=sr_1_1?ie=UTF8&qid=1416643020&sr=8-1&keywords=breaking+bad&tag=tfadafr-21
  [2]: https://itunes.apple.com/fr/tv-season/breaking-bad-saison-1/id361736451

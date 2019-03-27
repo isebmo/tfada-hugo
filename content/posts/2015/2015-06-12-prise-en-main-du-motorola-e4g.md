@@ -3,7 +3,7 @@ id: 822
 title: Prise en main du Motorola E4G
 author: iSebmo
 layout: post
-guid: http://localhost/?p=822
+guid: https://localhost/?p=822
 permalink: /2015/06/prise-en-main-du-motorola-e4g/
 standard_format:
   - standard
@@ -39,10 +39,10 @@ Au rayon des **regrets**, mais il fallait s’en douter l’appareil photo n’e
 
 [Ce téléphone][1] est parfait pour les gens qui cherchent juste un simple téléphone **performant** (compatible 4g), bien fini, **sans surcouche** donc toujours à jour et relativement costaud. Ceux qui cherchent un téléphone pour ses qualités optiques passeront leur chemin, mais à [130€ ][1]est-ce qu’on peut vraiment lui reprocher ?
 
- [1]: http://www.amazon.fr/Motorola-Moto-4G-Smartphone-d%C3%A9bloqu%C3%A9/dp/B00TYEGUW0/ref=sr_1_3?ie=UTF8&qid=1434107952&sr=8-3&keywords=e4g&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Motorola-Moto-4G-Smartphone-d%C3%A9bloqu%C3%A9/dp/B00TYEGUW0/ref=sr_1_3?ie=UTF8&qid=1434107952&sr=8-3&keywords=e4g&tag=tfadafr-21
  [2]: https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAAahUKEwiZ5OrFhIrGAhXKVRQKHXNgAEU&url=http%3A%2F%2Fwww.frandroid.com%2Fandroid-5-0-lollipop&ei=TMB6VZmODMqrUfPAgagE&usg=AFQjCNFjLyokeE7Yq6h8aSmtZr68Q3Mp8w&sig2=ywnLYATtBGZxpCH7WIWe-g&bvm=bv.95515949,d.ZGU
- [3]: http://www.amazon.fr/Motorola-Nexus-Smartphone-d%C3%A9bloqu%C3%A9-Ecran/dp/B00OZ4T7HO/ref=sr_1_1?ie=UTF8&qid=1434108000&sr=8-1&keywords=nexus&tag=tfadafr-21
+ [3]: https://www.amazon.fr/Motorola-Nexus-Smartphone-d%C3%A9bloqu%C3%A9-Ecran/dp/B00OZ4T7HO/ref=sr_1_1?ie=UTF8&qid=1434108000&sr=8-1&keywords=nexus&tag=tfadafr-21
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/motorola-e4g-2.jpg
- [5]: http://www.amazon.fr/Apple-iPhone-Plus-Smartphone-d%C3%A9bloqu%C3%A9/dp/B00NGOC16S/ref=sr_1_2?ie=UTF8&qid=1434108113&sr=8-2&keywords=iphone+6+plus&tag=tfadafr-21
- [6]: http://www.amazon.fr/HTC-Desire-Smartphone-d%C3%A9bloqu%C3%A9-Android/dp/B00JE86OQS/ref=sr_1_8?ie=UTF8&qid=1434108135&sr=8-8&keywords=htc&tag=tfadafr-21
+ [5]: https://www.amazon.fr/Apple-iPhone-Plus-Smartphone-d%C3%A9bloqu%C3%A9/dp/B00NGOC16S/ref=sr_1_2?ie=UTF8&qid=1434108113&sr=8-2&keywords=iphone+6+plus&tag=tfadafr-21
+ [6]: https://www.amazon.fr/HTC-Desire-Smartphone-d%C3%A9bloqu%C3%A9-Android/dp/B00JE86OQS/ref=sr_1_8?ie=UTF8&qid=1434108135&sr=8-8&keywords=htc&tag=tfadafr-21
  [7]: https://s3.eu-central-1.amazonaws.com/tfada/motorola-e4g-3.jpg

@@ -3,7 +3,7 @@ id: 734
 title: Newsify le rss facile sur iOS
 author: iSebmo
 layout: post
-guid: http://localhost/?p=734
+guid: https://localhost/?p=734
 permalink: /2015/02/newsify-le-rss-facile-sur-ios/
 standard_format:
   - standard
@@ -33,7 +33,7 @@ Pour les gens qui n’aiment pas perdre du temps à synchroniser ses flux, [news
 Bref quand je vous dis [qu’il][4] est parfait à vous de l’essayer.
 
  [1]: https://itunes.apple.com/fr/app/feedly.-your-rss-news-reader./id396069556?mt=8&uo=4&at=1l3vs3Y
- [2]: http://lifehacker.com/148820/google-mobilizer-makes-any-web-page-mobile-friendly
+ [2]: https://lifehacker.com/148820/google-mobilizer-makes-any-web-page-mobile-friendly
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/newsify1.png
  [4]: https://itunes.apple.com/fr/app/newsify-your-news-blog-rss/id510153374?mt=8&uo=4&at=1l3vs3Y
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/newsify2.png

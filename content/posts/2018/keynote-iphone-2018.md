@@ -8,7 +8,7 @@ date: 2018-09-15
 categories:
 - HighTech
 - Geek
-fimg: http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-09-22-15-29-iPj8nsAnkcXh3RDKIy2L.jpg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-09-22-15-29-iPj8nsAnkcXh3RDKIy2L.jpg
 ---
 
 ## Retour sur la Keynote du 12 septembre 2018

@@ -3,7 +3,7 @@ id: 690
 title: Mais pourquoi Charlie ?
 author: iSebmo
 layout: post
-guid: http://localhost/?p=690
+guid: https://localhost/?p=690
 permalink: /2015/01/mais-pourquoi-charlie/
 standard_format:
   - standard

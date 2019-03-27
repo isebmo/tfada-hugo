@@ -3,7 +3,7 @@ id: 829
 title: Combo Sony A7r et Sigma 105mm Macro
 author: iSebmo
 layout: post
-guid: http://localhost/?p=829
+guid: https://localhost/?p=829
 permalink: /2015/06/combo-sony-a7r-et-sigma-105mm-macro/
 standard_format:
   - standard
@@ -53,15 +53,15 @@ Un bouton permet de désactiver la stabilisation, un autre permet de modifier le
 
 En résumé un très [bon objectif][2], voir le meilleur macro qu’on puisse avoir sur la monture A7 puisque le seul stabilisé… Il coute *moitié moins* que le prochain [macro de Sony][1] ça fait réfléchir. Niveau encombrement ils sont équivalents, à voir niveau *qualité optique*. La [Sony][1] aura un autofocus performant, mais ce n’est pas un bon critère de comparaison pour un objectif macro. À ce [prix-là][2] pour les qualités de cet objectif le [Sigma 105 mm F2,8 DG OS HSM][2] est un très *bon investissement*, je vous laisse juger par vous même ses qualités avec mon album sur Flickr.
 
- [1]: http://www.amazon.fr/Sony-OSS-Macro-F2-8-Objectif/dp/B00ULLSWSU/ref=sr_1_3?ie=UTF8&qid=1435479683&sr=8-3&keywords=sony+90+macro&tag=tfadafr-21
- [2]: http://www.amazon.fr/Sigma-Objectif-105-F2-HSM/dp/B0058NYWBM/ref=sr_1_2?ie=UTF8&qid=1435479781&sr=8-2&keywords=sigma105&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Sony-OSS-Macro-F2-8-Objectif/dp/B00ULLSWSU/ref=sr_1_3?ie=UTF8&qid=1435479683&sr=8-3&keywords=sony+90+macro&tag=tfadafr-21
+ [2]: https://www.amazon.fr/Sigma-Objectif-105-F2-HSM/dp/B0058NYWBM/ref=sr_1_2?ie=UTF8&qid=1435479781&sr=8-2&keywords=sigma105&tag=tfadafr-21
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/sigma-105-sony-a7r-3.jpg
- [4]: http://www.amazon.fr/Sony-LAEA3-AE-LA-EA3-Objectif/dp/B00G9UJX7G?tag=tfadafr-21
- [5]: http://www.amazon.fr/Zhongyi-Mitakon-Speedmaster-50mm-0-95/dp/B00UNT45FE/ref=sr_1_6?ie=UTF8&qid=1435479962&sr=8-6&keywords=Mitakon&tag=tfadafr-21
+ [4]: https://www.amazon.fr/Sony-LAEA3-AE-LA-EA3-Objectif/dp/B00G9UJX7G?tag=tfadafr-21
+ [5]: https://www.amazon.fr/Zhongyi-Mitakon-Speedmaster-50mm-0-95/dp/B00UNT45FE/ref=sr_1_6?ie=UTF8&qid=1435479962&sr=8-6&keywords=Mitakon&tag=tfadafr-21
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/sigma-105-sony-a7r-4.jpg
- [7]: http://www.amazon.fr/Tamron-Objectif-90mm-USD-MACRO/dp/B00A49ZPWU/ref=sr_1_6?ie=UTF8&qid=1435479878&sr=8-6&keywords=tamron+90&tag=tfadafr-21
- [8]: http://www.amazon.fr/Sony-ILCA77M2-CEC-num%C3%A9rique-Optique-Bo%C3%AEtier/dp/B00K5V13E6/ref=sr_1_sc_3?ie=UTF8&qid=1435479932&sr=8-3-spell&keywords=sony+alpah&tag=tfadafr-21
- [9]: http://www.amazon.fr/American-Sniper-Combo-Blu-ray-digitale/dp/B00TQPO5AG/ref=sr_1_1?ie=UTF8&qid=1435479911&sr=8-1&keywords=American+Sniper&tag=tfadafr-21
+ [7]: https://www.amazon.fr/Tamron-Objectif-90mm-USD-MACRO/dp/B00A49ZPWU/ref=sr_1_6?ie=UTF8&qid=1435479878&sr=8-6&keywords=tamron+90&tag=tfadafr-21
+ [8]: https://www.amazon.fr/Sony-ILCA77M2-CEC-num%C3%A9rique-Optique-Bo%C3%AEtier/dp/B00K5V13E6/ref=sr_1_sc_3?ie=UTF8&qid=1435479932&sr=8-3-spell&keywords=sony+alpah&tag=tfadafr-21
+ [9]: https://www.amazon.fr/American-Sniper-Combo-Blu-ray-digitale/dp/B00TQPO5AG/ref=sr_1_1?ie=UTF8&qid=1435479911&sr=8-1&keywords=American+Sniper&tag=tfadafr-21
  [10]: https://s3.eu-central-1.amazonaws.com/tfada/Petit-nid-de-guêpes.jpg
  [11]: https://s3.eu-central-1.amazonaws.com/tfada/Cute-wasp-and-lucky-guy.jpg
  [12]: https://s3.eu-central-1.amazonaws.com/tfada/sigma-105-sony-a7r-1.jpg

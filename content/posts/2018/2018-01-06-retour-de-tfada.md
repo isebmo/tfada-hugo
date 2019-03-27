@@ -7,7 +7,7 @@ author: iSebmo
 date: 2018-01-06
 categories:
   - Geek
-fimg: http://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-01-06-14-14-jczDQkQo0MDtZ0lRHVMD.jpg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-01-06-14-14-jczDQkQo0MDtZ0lRHVMD.jpg
 ---
 
 J’ai longtemps abandonné ce blog au profit de [PapaGeek](https://papageek.top). Mais après réflexion je préfère continuer les articles hors rapport avec un *papa* dans ce blog et à l’inverse des posts spécialisés sur [PapaGeek](papageek.top). 
