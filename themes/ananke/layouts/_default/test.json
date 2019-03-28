@@ -1,5 +1,5 @@
 {
-  "tags": [{{ range $.Site.Taxonomies.tags }}
-    "{{ . }}",
+  "tags": [{{ range $.Site.Taxonomies.tags.ByCount }}
+    "{{ .Name }}",
   {{ end }}]
 }
