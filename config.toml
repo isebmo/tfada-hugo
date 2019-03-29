@@ -5,7 +5,6 @@ theme = "ananke"
 SectionPagesMenu = "main"
 googleAnalytics = "UA-55779894-1"
 description = "Site perso sur l'actualité High Tech, Apple 👩‍💻, le développement personnel."
-preserveTaxonomyNames = true
 [permalinks]
   post = "/:title/"
 
