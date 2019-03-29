@@ -1,3 +1,6 @@
 {
-  "list": [{{ range $name := $.Site.Taxonomies.tags }}"{{ $name }}",{{ end }}]
+  "list": [{{ range $name := $.Site.Taxonomies.tags }}
+        {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+            "{{ $name }}",
+        {{ end }}{{ end }}]
 }
