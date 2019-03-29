@@ -24,6 +24,9 @@
       {{ partial "tags.html" . }}
     </article>
     <div class="ph3 mt2 mt6-ns">
+    {{ template "_internal/disqus.html" . }}
+    </div>
+    <div class="ph3 mt2 mt6-ns">
       {{ partial "menu-contextual.html" . }}
     </div>
   </div>
