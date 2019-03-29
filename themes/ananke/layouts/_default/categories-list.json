@@ -1,3 +1,3 @@
 {
-  "list": [{{ range $.Site.Taxonomies.categories.ByCount }}"{{ .Name | humanize }}",{{ end }}]
+  "list": [{{ range $.Site.Taxonomies.categories.ByCount }}"{{ .Name }}",{{ end }}]
 }
