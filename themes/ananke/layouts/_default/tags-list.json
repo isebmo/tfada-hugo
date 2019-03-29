@@ -1,3 +1,3 @@
 {
-  "list": [{{ range $.Site.Taxonomies.tags.ByCount }}"{{ .Name }}",{{ end }}]
+  "list": [{{ range $name := $.Site.Taxonomies.tags.ByCount }}"{{ $name }}",{{ end }}]
 }
