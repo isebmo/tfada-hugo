@@ -14,6 +14,7 @@ fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/Image-2019-04-08-16-20-47
 Savez vous comment lire un livre tous les jours ? En [l’écoutant](http://www.amazon.fr/dp/B01AUIE0CK/?tag=tfadafr-21) tout simplement. Il existe sûrement plein de livres que vous aimeriez lire mais que vous n’avez pas le temps d’ouvrir. La solution est sûrement à voir du côté des [livres audio](http://www.amazon.fr/dp/B01AUIE0CK/?tag=tfadafr-21). 
 
 Un [livre audio](http://www.amazon.fr/dp/B01AUIE0CK/?tag=tfadafr-21) c’est :
+
 - la possibilité de l’écouter partout même quand on conduit
 - une façon d’être immergé dans l’histoire
 - une autre manière de mémoriser
