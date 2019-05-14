@@ -7,7 +7,7 @@ author: iSebmo
 date: 2019-05-14
 categories: 
 - HighTech
-fimg: https://tfada.s3-eu-centralf-1.amazonaws.com/2019/Image-2019-05-11-15-39-40.jpeg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/Image-2019-05-11-15-39-40.jpeg
 ---
 
 Si comme moi vous utilisez votre appareil comme liseuse, vous seriez tenté de baisser la luminosité au maximum. Comme vous l’avez sûrement remarqué, même  baissée au maximum la luminosité peut être dérangeante dans l’obscurité. Et bien saviez-vous qu’il est possible de la baisser encore plus à l’aide du réglage « Réduire le point blanc » dans les options d'accessibilité ?
