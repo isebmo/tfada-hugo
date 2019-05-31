@@ -68,10 +68,12 @@ Dans une utilisation purement **sportive**, ces écouteurs sont au top, en salle
 Voilà il me tarde de voir après quelques mois si **l'autonomie** reste celle annoncée car c’est le point noir de ce type de gadget, la batterie donne la durée de vie du matériel. Je suis curieux à ce propos d’avoir des retours des utilisateurs. 
 
 Les concurrents direct :
+
 - les [Bose](https://www.amazon.fr/Bose-SoundSport-Free-%C3%89couteurs-Sport/dp/B0748G1QLP/ref=as_li_ss_tl?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2SO8BB5O1RTWW&keywords=bose+soundsport+free&qid=1559220392&s=gateway&sprefix=Bose+s,aps,200&sr=8-3&linkCode=ll1&tag=tfadafr04-21&linkId=9d800dc9b4c70349a619e684a69e8b99&language=fr_FR&tag=tfadafr04-21)
 - les [AirPods](https://www.amazon.fr/Apple-AirPods-bo%C3%AEtier-charge-Dernier/dp/B07PZR3PVB/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=AirPods&qid=1559221694&s=electronics&sr=1-3&tag=tfadafr04-21)
 
 Les plus mélomanes mais plus chers :
+
 - les [Momentum](https://www.amazon.fr/Sennheiser-%C3%89couteurs-Bluetooth-MOMENTUM-Wireless/dp/B07HRHM8F3/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3AEQRSZT5LDKX&keywords=momentum+true+wireless&qid=1559221736&s=electronics&sprefix=Moment%2Celectronics%2C222&sr=1-3&tag=tfadafr04-21)
 - les [M&D](https://www.amazon.fr/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A01437697ADJZ9EACI1X&qualifier=1559221740&id=3175367971007099&widgetName=sp_detail&url=%2Fdp%2FB07H8RQS37%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07H8RQS37%26pd_rd_w%3DgtYKV%26pf_rd_p%3Df5a1a5f7-a125-4f98-b37a-2fcd828aef65%26pd_rd_wg%3DjlWB8%26pf_rd_r%3DZ8T0JJZWRB8EMJF74Q0D%26pd_rd_r%3D170e2630-82dc-11e9-a809-4568a1bbcbf5&tag=tfadafr04-21)
 - les [B&O](https://www.amazon.fr/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A0215492QT9OXOS4O2GU&qualifier=1559221740&id=3175367971007099&widgetName=sp_detail&url=%2Fdp%2FB07MHJ28YM%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB07MHJ28YM%26pd_rd_w%3DgtYKV%26pf_rd_p%3Df5a1a5f7-a125-4f98-b37a-2fcd828aef65%26pd_rd_wg%3DjlWB8%26pf_rd_r%3DZ8T0JJZWRB8EMJF74Q0D%26pd_rd_r%3D170e2630-82dc-11e9-a809-4568a1bbcbf5&tag=tfadafr04-21)
