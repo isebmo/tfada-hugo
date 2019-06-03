@@ -18,7 +18,6 @@ categories:
   - Photo
 tags:
   - app
-  - apple
   - lightroom
 fimg: https://s3.eu-central-1.amazonaws.com/tfada/BitTorrent_Sync_Image_2.png
 date: 2015-03-05
