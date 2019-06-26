@@ -11,7 +11,7 @@ categories:
 - Applications
 - HighTech
 - Hightech
-fimg: 
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/IMG_9970.jpeg
 ---
 
 [Pock](https://pock.dev) est une application que vous installez sur votre Mac de préférence avec Touch Bar sinon ça ne sert à rien hein 😉 
