@@ -21,7 +21,7 @@ Voyez plutôt :
 
 J’aime bien j’avoue avoir les **emojis** en **permanence** devant les yeux pour les importer dans mes textes (oui je sais je suis un gamin) 🤷‍♂️
 
-J’ai également ajouté comme Pock le permet la **date**, mais à la différence de dernier, vous pouvez sur BetterTouchTool configurer le **format** que vous voulez. 
+J’ai également ajouté, comme Pock le permet la **date**, mais à la différence de ce dernier, vous pouvez sur BetterTouchTool configurer le **format** que vous voulez. 
 
 Le widget de **batterie** est disponible, il est un peu moins joli que sur Pock car l’icône de s’actualise pas en fonction du niveau de charge…
 
