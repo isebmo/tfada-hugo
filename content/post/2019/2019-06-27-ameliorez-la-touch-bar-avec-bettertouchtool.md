@@ -1,7 +1,10 @@
 ---
 title: Améliorez la Touch Bar avec BetterTouchTool
 description: Décuplez les fonctionnalisés de la Touch Bar à l’aide de BetterTouchTool. Ou comment avoir à disposition en permanence les emojis 😂 !
-tags: Touch Bar, app, mac
+tags: 
+- Touch Bar
+- app
+- mac
 author: iSebmo
 date: 2019-06-27
 categories: 
