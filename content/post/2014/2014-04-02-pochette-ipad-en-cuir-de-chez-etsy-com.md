@@ -66,7 +66,7 @@ Je ne peux donc que vous conseiller ce site, d&rsquo;abord si vous cherchez des 
 
 [<img class="alignleft size-full wp-image-266" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC06921.jpg" alt="DSC06921" width="1000" height="667" />][5]
 
- [1]: https://www.amazon.fr/gp/product/B00G55JTBA/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G55JTBA&linkCode=as2&tag=tfadafr-21
+ [1]: https://www.amazon.fr/gp/product/B00G55JTBA/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G55JTBA&linkCode=as2&tag=tfadafr04-21
  [2]: https://s3.eu-central-1.amazonaws.com/tfada/DSC06916.jpg
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/DSC06932.jpg
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/DSC06923.jpg

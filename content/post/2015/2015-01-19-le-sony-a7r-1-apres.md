@@ -77,21 +77,21 @@ Les séries A7 sont justes parfaites, à vous de voir suivant votre budget et ce
 
 [EDIT] &#8211; La courroie rouge sur la photo est une courroie en soie de **Artisan & Artist** disponible [ici][18].
 
- [1]: https://www.amazon.fr/Sony-Appareil-Hybride-36-4Mpix-Capteur/dp/B00G34CVWW/ref=sr_1_1?ie=UTF8&qid=1421652014&sr=8-1&keywords=sony+a7r&tag=tfadafr-21
- [2]: https://www.amazon.fr/Sony-35-SONNAR-SEL35F28Z-Objectifs/dp/B00FYRLSM8/ref=pd_sim_ph_1?ie=UTF8&refRID=0QFWGM34GR7XYQD0KZGP&tag=tfadafr-21
- [3]: https://www.amazon.fr/Sony-ILCA77M2-CEC-num%C3%A9rique-Optique-Bo%C3%AEtier/dp/B00K5V13E6/ref=sr_1_1?ie=UTF8&qid=1421652112&sr=8-1&keywords=sony+A77&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Sony-Appareil-Hybride-36-4Mpix-Capteur/dp/B00G34CVWW/ref=sr_1_1?ie=UTF8&qid=1421652014&sr=8-1&keywords=sony+a7r&tag=tfadafr04-21
+ [2]: https://www.amazon.fr/Sony-35-SONNAR-SEL35F28Z-Objectifs/dp/B00FYRLSM8/ref=pd_sim_ph_1?ie=UTF8&refRID=0QFWGM34GR7XYQD0KZGP&tag=tfadafr04-21
+ [3]: https://www.amazon.fr/Sony-ILCA77M2-CEC-num%C3%A9rique-Optique-Bo%C3%AEtier/dp/B00K5V13E6/ref=sr_1_1?ie=UTF8&qid=1421652112&sr=8-1&keywords=sony+A77&tag=tfadafr04-21
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/Sony-A7r-2-5.jpg
- [5]: https://www.amazon.fr/Sony-Objectif-Sonnar-pour-boitiers/dp/B00FYRLSK0/ref=pd_sim_ce_1?ie=UTF8&refRID=0PEE3Q6778B227GJH5JH&tag=tfadafr-21
- [6]: https://www.amazon.fr/Sony-SEL1635Z-SYX-Objectif-Vario-Tessar-16-35/dp/B00NVA7J1Y/ref=sr_1_1?s=electronics&ie=UTF8&qid=1421652175&sr=1-1&keywords=zeiss+16+35&tag=tfadafr-21
+ [5]: https://www.amazon.fr/Sony-Objectif-Sonnar-pour-boitiers/dp/B00FYRLSK0/ref=pd_sim_ce_1?ie=UTF8&refRID=0PEE3Q6778B227GJH5JH&tag=tfadafr04-21
+ [6]: https://www.amazon.fr/Sony-SEL1635Z-SYX-Objectif-Vario-Tessar-16-35/dp/B00NVA7J1Y/ref=sr_1_1?s=electronics&ie=UTF8&qid=1421652175&sr=1-1&keywords=zeiss+16+35&tag=tfadafr04-21
  [7]: https://s3.eu-central-1.amazonaws.com/tfada/Sony-A7r-2-4.jpg
- [8]: https://www.amazon.fr/Sony-Objectif-Sonnar-pour-boitiers/dp/B00FYRLSK0/ref=pd_sim_ce_1?ie=UTF8&refRID=0PFWTM06HAE3R0YQMXKD&tag=tfadafr-21
+ [8]: https://www.amazon.fr/Sony-Objectif-Sonnar-pour-boitiers/dp/B00FYRLSK0/ref=pd_sim_ce_1?ie=UTF8&refRID=0PFWTM06HAE3R0YQMXKD&tag=tfadafr04-21
  [9]: https://localhost/2014/11/mitakon-speedmaster-50mm-f0-95-dark-knight/
  [10]: https://s3.eu-central-1.amazonaws.com/tfada/Sony-A7r-2-2.jpg
  [11]: https://localhost/2014/12/le-sport-avec-la-garmin-fenix-2/
- [12]: https://www.amazon.fr/Sony-SEL-2470Z-Objectif-24-70-VARIO-TESSAR/dp/B00FYRLSIC/ref=pd_sim_ce_3?ie=UTF8&refRID=0PFWTM06HAE3R0YQMXKD&tag=tfadafr-21
- [13]: https://www.amazon.fr/Sony-70-200-OSS-SEL70200G-Objectifs/dp/B00G9UJW36/ref=pd_sim_ce_2?ie=UTF8&refRID=0PFWTM06HAE3R0YQMXKD&tag=tfadafr-21
+ [12]: https://www.amazon.fr/Sony-SEL-2470Z-Objectif-24-70-VARIO-TESSAR/dp/B00FYRLSIC/ref=pd_sim_ce_3?ie=UTF8&refRID=0PFWTM06HAE3R0YQMXKD&tag=tfadafr04-21
+ [13]: https://www.amazon.fr/Sony-70-200-OSS-SEL70200G-Objectifs/dp/B00G9UJW36/ref=pd_sim_ce_2?ie=UTF8&refRID=0PFWTM06HAE3R0YQMXKD&tag=tfadafr04-21
  [14]: https://s3.eu-central-1.amazonaws.com/tfada/Sony-A7r-2-1.jpg
- [15]: https://www.amazon.fr/Sony-SLT-A99V-CE-Appareil-photo-num%C3%A9rique/dp/B009XR5PQ0/ref=sr_1_1?ie=UTF8&qid=1421652320&sr=8-1&keywords=sony+A99&tag=tfadafr-21
- [16]: https://www.amazon.fr/Sony-SAL-2470Z-AE-Objectif-24-70-Noir/dp/B0016MJMMS/ref=sr_1_3?ie=UTF8&qid=1421652330&sr=8-3&keywords=24+70+2.8+sony&tag=tfadafr-21
- [17]: https://www.amazon.fr/Sony-ILCE7SB-CE-Reflex-num-rique-optique/dp/B00KPV1RW4/ref=dp_ob_title_ce?tag=tfadafr-21
- [18]: https://www.amazon.fr/Artisan-Artist-Sangle-appareil-photo/dp/B005J3DDD4/ref=sr_1_2?ie=UTF8&qid=1422014083&sr=8-2&keywords=artisan+artist&tag=tfadafr-21
+ [15]: https://www.amazon.fr/Sony-SLT-A99V-CE-Appareil-photo-num%C3%A9rique/dp/B009XR5PQ0/ref=sr_1_1?ie=UTF8&qid=1421652320&sr=8-1&keywords=sony+A99&tag=tfadafr04-21
+ [16]: https://www.amazon.fr/Sony-SAL-2470Z-AE-Objectif-24-70-Noir/dp/B0016MJMMS/ref=sr_1_3?ie=UTF8&qid=1421652330&sr=8-3&keywords=24+70+2.8+sony&tag=tfadafr04-21
+ [17]: https://www.amazon.fr/Sony-ILCE7SB-CE-Reflex-num-rique-optique/dp/B00KPV1RW4/ref=dp_ob_title_ce?tag=tfadafr04-21
+ [18]: https://www.amazon.fr/Artisan-Artist-Sangle-appareil-photo/dp/B005J3DDD4/ref=sr_1_2?ie=UTF8&qid=1422014083&sr=8-2&keywords=artisan+artist&tag=tfadafr04-21

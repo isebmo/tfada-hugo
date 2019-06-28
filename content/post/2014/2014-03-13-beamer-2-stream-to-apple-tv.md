@@ -42,7 +42,7 @@ tags:
 fimg: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-03-13-à-11.45.53.png
 date: 2014-03-13
 ---
-<span style="line-height: 1.5em;">Comment lire rapidement des vidéos sur votre <a href="https://www.amazon.fr/gp/product/B007IH5L7A/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B007IH5L7A&linkCode=as2&tag=tfadafr-21">Apple TV</a> sans les réencoder ? Tout simplement avec beamer. Cette petite application payante mérite amplement son prix 15€ si mes souvenirs sont exacts.</span>
+<span style="line-height: 1.5em;">Comment lire rapidement des vidéos sur votre <a href="https://www.amazon.fr/gp/product/B007IH5L7A/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B007IH5L7A&linkCode=as2&tag=tfadafr04-21">Apple TV</a> sans les réencoder ? Tout simplement avec beamer. Cette petite application payante mérite amplement son prix 15€ si mes souvenirs sont exacts.</span>
 
 Le principe est simple vous lancez [Beamer][1] sur votre Mac et le logiciel le transmet dans le bon format a l&rsquo;[Apple TV][2]. La nouvelle version permet de gérer une playlist, il vous suffit de faire glisser la saison entière de [the house of cards][3] et vous passerez votre week-end ensoleillé devant la TV. [Beamer][1] dans la version 2 gère les sous-titres il suffit de les faire glisser avec vos vidéos et le tour est joué. Vous pouvez dès à présent acheter la version 1, la seconde édition sera gratuite.
 
@@ -53,9 +53,9 @@ Personnellement je stocke mes films et autres séries sur mon NAS [Synology ds21
 Ne galérez plus avec [Handbrake][6] ou [iVi][7] et la perte de temps pour réencoder les films !
 
  [1]: https://beamer-app.com/
- [2]: https://www.amazon.fr/gp/product/B007IH5L7A/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B007IH5L7A&linkCode=as2&tag=tfadafr-21
- [3]: https://www.amazon.fr/gp/product/B00ENW4OLW/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00ENW4OLW&linkCode=as2&tag=tfadafr-21
- [4]: https://www.amazon.fr/gp/product/B00CDG2XHC/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00CDG2XHC&linkCode=as2&tag=tfadafr-21
+ [2]: https://www.amazon.fr/gp/product/B007IH5L7A/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B007IH5L7A&linkCode=as2&tag=tfadafr04-21
+ [3]: https://www.amazon.fr/gp/product/B00ENW4OLW/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00ENW4OLW&linkCode=as2&tag=tfadafr04-21
+ [4]: https://www.amazon.fr/gp/product/B00CDG2XHC/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00CDG2XHC&linkCode=as2&tag=tfadafr04-21
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-03-13-à-11.45.53.png
  [6]: https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CDIQFjAA&url=http%3A%2F%2Fhandbrake.fr%2F&ei=bIohU9nwM4WthQfw9YCgAQ&usg=AFQjCNEQmk6QunfXQq6wFpNE5G32Fjcw3g&sig2=NM7yquq1aVxNbUm-frZhSQ&bvm=bv.62922401,d.ZG4
  [7]: https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CDIQFjAA&url=https%3A%2F%2Fitunes.apple.com%2Ffr%2Fapp%2Fivi-lite%2Fid529927587%3Fmt%3D12&ei=XYohU6i9MdCDhQf1oIHACQ&usg=AFQjCNHaYPAp1_NgA6rGHc24qhgC118HvQ&sig2=kHMMmbRMBU3ouOMB1pcT1Q&bvm=bv.62922401,d.ZG4

@@ -70,16 +70,16 @@ Il ne manquera plus qu’à exploser sur [Tostaky][11], avec le cœur qui s’em
 Alors oui, Cantat *reste* Cantat, et même si depuis le[ dernier album][2] de Noir Désir il semble avoir été au centre d’un *ouragan destructeur*, le *revoir* sur scène nous fait sacrément plaisir. Bertrand vit ses paroles, les emplit d’émotions, d’un *flot de sentiments*.  
 * Noir Désir n’est plus, [Détroit][2] ne nous le fera pas oublier, mais Détroit nous a enchanté.
 
- [1]: https://www.amazon.fr/s/?_encoding=UTF8&ajr=0&camp=1642&creative=19458&field-keywords=noir%20désir&linkCode=ur2&rh=n%3A301062%2Ck%3Anoir%20désir&tag=tfadafr-21&url=search-alias%3Dpopular&linkId=JTE36CHW3PJ7SADE
- [2]: https://www.amazon.fr/gp/product/B00FSU90BW/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FSU90BW&linkCode=as2&tag=tfadafr-21&linkId=DKSTY6NKDC3QDADF
- [3]: https://www.amazon.fr/gp/product/B00NQ9YXA0/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00NQ9YXA0&linkCode=as2&tag=tfadafr-21&linkId=G63BEJXK27MPCKEM
+ [1]: https://www.amazon.fr/s/?_encoding=UTF8&ajr=0&camp=1642&creative=19458&field-keywords=noir%20désir&linkCode=ur2&rh=n%3A301062%2Ck%3Anoir%20désir&tag=tfadafr04-21&url=search-alias%3Dpopular&linkId=JTE36CHW3PJ7SADE
+ [2]: https://www.amazon.fr/gp/product/B00FSU90BW/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FSU90BW&linkCode=as2&tag=tfadafr04-21&linkId=DKSTY6NKDC3QDADF
+ [3]: https://www.amazon.fr/gp/product/B00NQ9YXA0/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00NQ9YXA0&linkCode=as2&tag=tfadafr04-21&linkId=G63BEJXK27MPCKEM
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/8100835937_f8840bf6dd_o.jpg
- [5]: https://www.amazon.fr/gp/product/B00GPMSD7E/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00GPMSD7E&linkCode=as2&tag=tfadafr-21&linkId=UW4HXCUPWQXJVUEH
- [6]: https://www.amazon.fr/gp/product/B00GPMSNKG/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00GPMSNKG&linkCode=as2&tag=tfadafr-21&linkId=FGFWYXMB2STPKCHW
- [7]: https://www.amazon.fr/gp/product/B00P2F4ZYU/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00P2F4ZYU&linkCode=as2&tag=tfadafr-21&linkId=ASGTA3RIWF4V7MBI
- [8]: https://www.amazon.fr/gp/product/B0025HX6ZM/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0025HX6ZM&linkCode=as2&tag=tfadafr-21&linkId=YAOSYXPCGW4DTAWP
- [9]: https://www.amazon.fr/gp/product/B00GPMSOQY/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00GPMSOQY&linkCode=as2&tag=tfadafr-21&linkId=42HJB2WVOV56NKNS
- [10]: https://www.amazon.fr/gp/product/B00O0FLGYK/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00O0FLGYK&linkCode=as2&tag=tfadafr-21&linkId=MGXTHTYVHSD3KUMF
- [11]: https://www.amazon.fr/gp/product/B0025AU936/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0025AU936&linkCode=as2&tag=tfadafr-21&linkId=UMPPFJUD4CGHLF7W
- [12]: https://www.amazon.fr/gp/product/B0025GSPYA/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0025GSPYA&linkCode=as2&tag=tfadafr-21&linkId=AFXCTUDK3DZYN5G7
+ [5]: https://www.amazon.fr/gp/product/B00GPMSD7E/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00GPMSD7E&linkCode=as2&tag=tfadafr04-21&linkId=UW4HXCUPWQXJVUEH
+ [6]: https://www.amazon.fr/gp/product/B00GPMSNKG/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00GPMSNKG&linkCode=as2&tag=tfadafr04-21&linkId=FGFWYXMB2STPKCHW
+ [7]: https://www.amazon.fr/gp/product/B00P2F4ZYU/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00P2F4ZYU&linkCode=as2&tag=tfadafr04-21&linkId=ASGTA3RIWF4V7MBI
+ [8]: https://www.amazon.fr/gp/product/B0025HX6ZM/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0025HX6ZM&linkCode=as2&tag=tfadafr04-21&linkId=YAOSYXPCGW4DTAWP
+ [9]: https://www.amazon.fr/gp/product/B00GPMSOQY/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00GPMSOQY&linkCode=as2&tag=tfadafr04-21&linkId=42HJB2WVOV56NKNS
+ [10]: https://www.amazon.fr/gp/product/B00O0FLGYK/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00O0FLGYK&linkCode=as2&tag=tfadafr04-21&linkId=MGXTHTYVHSD3KUMF
+ [11]: https://www.amazon.fr/gp/product/B0025AU936/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0025AU936&linkCode=as2&tag=tfadafr04-21&linkId=UMPPFJUD4CGHLF7W
+ [12]: https://www.amazon.fr/gp/product/B0025GSPYA/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0025GSPYA&linkCode=as2&tag=tfadafr04-21&linkId=AFXCTUDK3DZYN5G7
  [13]: https://s3.eu-central-1.amazonaws.com/tfada/8100840854_e13e7019ee_o.jpg

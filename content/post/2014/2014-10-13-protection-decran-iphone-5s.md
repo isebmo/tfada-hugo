@@ -65,7 +65,7 @@ La protection ajoutera une  légère épaisseur à l’écran 0.26mm autant dir
 
 Je vous conseille **vivement** cette protection simple, mais très efficace. Pour le [prix][1] c’est beaucoup moins cher que le remplacement de l’écran !
 
- [1]: https://www.amazon.fr/gp/product/B00HXSLQUK/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00HXSLQUK&linkCode=as2&tag=tfadafr-21&linkId=C6VATXWGHVWCB5CO
- [2]: https://www.amazon.fr/gp/product/B00DV375YC/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00DV375YC&linkCode=as2&tag=tfadafr-21&linkId=N3AMYTUYWQBEDDOX
- [3]: https://www.amazon.fr/gp/product/B009VUJF2Y/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B009VUJF2Y&linkCode=as2&tag=tfadafr-21&linkId=JCZMOJREAGWEGIE3
+ [1]: https://www.amazon.fr/gp/product/B00HXSLQUK/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00HXSLQUK&linkCode=as2&tag=tfadafr04-21&linkId=C6VATXWGHVWCB5CO
+ [2]: https://www.amazon.fr/gp/product/B00DV375YC/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00DV375YC&linkCode=as2&tag=tfadafr04-21&linkId=N3AMYTUYWQBEDDOX
+ [3]: https://www.amazon.fr/gp/product/B009VUJF2Y/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B009VUJF2Y&linkCode=as2&tag=tfadafr04-21&linkId=JCZMOJREAGWEGIE3
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/IMG_0235.jpg

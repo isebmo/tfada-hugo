@@ -70,7 +70,7 @@ Si vous êtes équipés en téléphone [Android][13], la meilleure solution pour
 
 Pour **conclure** une [Apple TV ][1]est *réservée* aux personnes qui sont *équipées* chez **Apple** pour les autres il vaut mieux privilégier une box d’un opérateur internet ou le [Chromecast][14].
 
- [1]: https://www.amazon.fr/Apple-TV-g%C3%A9n%C3%A9ration-Passerelle-Multim%C3%A9dia/dp/B007IH5L7A/ref=sr_1_1?ie=UTF8&qid=1416335489&sr=8-1&keywords=appletv&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Apple-TV-g%C3%A9n%C3%A9ration-Passerelle-Multim%C3%A9dia/dp/B007IH5L7A/ref=sr_1_1?ie=UTF8&qid=1416335489&sr=8-1&keywords=appletv&tag=tfadafr04-21
  [2]: https://localhost/2014/10/liphone-6-plus-dans-tous-ses-etats/
  [3]: https://www.netflix.com/nmhome?locale=fr-FR
  [4]: https://www.canalplay.com/decouvrir
@@ -82,5 +82,5 @@ Pour **conclure** une [Apple TV ][1]est *réservée* aux personnes qui sont *éq
  [10]: https://s3.eu-central-1.amazonaws.com/tfada/appleTv-1.jpg
  [11]: https://localhost/2014/01/rega-et-enceintes-elipson/
  [12]: https://localhost/2014/03/beamer-2-stream-to-apple-tv/
- [13]: https://www.amazon.fr/Motorola-Moto-Smartphone-d%C3%A9bloqu%C3%A9-Ecran/dp/B00GSNTQ6W/ref=sr_1_13?ie=UTF8&qid=1416336198&sr=8-13&keywords=android&tag=tfadafr-21
- [14]: https://www.amazon.fr/Google-Chromecast-HDMI-multim%C3%A9dia-WiFi/dp/B00IJUW1RI/ref=sr_1_1?ie=UTF8&qid=1416335619&sr=8-1&keywords=chromecast&tag=tfadafr-21
+ [13]: https://www.amazon.fr/Motorola-Moto-Smartphone-d%C3%A9bloqu%C3%A9-Ecran/dp/B00GSNTQ6W/ref=sr_1_13?ie=UTF8&qid=1416336198&sr=8-13&keywords=android&tag=tfadafr04-21
+ [14]: https://www.amazon.fr/Google-Chromecast-HDMI-multim%C3%A9dia-WiFi/dp/B00IJUW1RI/ref=sr_1_1?ie=UTF8&qid=1416335619&sr=8-1&keywords=chromecast&tag=tfadafr04-21

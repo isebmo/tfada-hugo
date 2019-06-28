@@ -43,8 +43,8 @@ Il y a une prise **micro-USB** pour le chargement, compter environ 2h pour le ch
 
 En résumé [20€][2] très bien investi pour des écouteurs sans fil (**Bluetooth**), qui me permettent d’écouter de la musique pendant mes séances de sport accompagné de mon [téléphone][6] ou de mon Apple Watch.
 
- [1]: https://www.amazon.fr/Sony-NWZ-W273SB-CEW-Baladeur-m%C3%A9moire-Etanche/dp/B00ICI7DUM/ref=sr_1_9?ie=UTF8&qid=1436980903&sr=8-9&keywords=lecteur+mp3+sony&tag=tfadafr-21
- [2]: https://www.amazon.fr/gp/product/B00QYAWELI?=&ref_=gb1h_tit_m-4_8647_f5049b7f&smid=A2XD9OFZCWVEF4&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Sony-NWZ-W273SB-CEW-Baladeur-m%C3%A9moire-Etanche/dp/B00ICI7DUM/ref=sr_1_9?ie=UTF8&qid=1436980903&sr=8-9&keywords=lecteur+mp3+sony&tag=tfadafr04-21
+ [2]: https://www.amazon.fr/gp/product/B00QYAWELI?=&ref_=gb1h_tit_m-4_8647_f5049b7f&smid=A2XD9OFZCWVEF4&tag=tfadafr04-21
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/Mpow-Swift.jpg
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/Mpow-Swift-3.jpg
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/Mpow-Swift-4.jpg

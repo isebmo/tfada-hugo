@@ -105,11 +105,11 @@ L’acquisition du signa GPS est quasi **instantané**, sortez, étirez-vous et 
 
 C’est vraiment une [montre][1] *à tout faire*, le petit plus comme je le disais c’est la possibilité de tracer tous les parcours sans vider la batterie afin de garder une trace de son parcours. Une montre pour le voyage, le sport, les sorties en forêt, la rando, le Trail. Bref vous ne serez pas déçu.
 
- [1]: https://www.amazon.fr/Garmin-010-01040-61-Fenix-2/dp/B00IKNK6DU/ref=pd_sim_sbs_cag_1?ie=UTF8&refRID=1WRNKDSS8XDHS2Z8N9YM&tag=tfadafr-21
- [2]: https://www.amazon.fr/Garmin-Edge-1000-Compteur-sans/dp/B00JOWDPF2/ref=sr_1_2?ie=UTF8&qid=1417852408&sr=8-2&keywords=edge+1000&tag=tfadafr-21
- [3]: https://www.amazon.fr/Fenix-AF02-Support-V%C3%A9lo-pour/dp/B0040JRHG2/ref=sr_1_1?ie=UTF8&qid=1417852520&sr=8-1&keywords=fenix+2+velo&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Garmin-010-01040-61-Fenix-2/dp/B00IKNK6DU/ref=pd_sim_sbs_cag_1?ie=UTF8&refRID=1WRNKDSS8XDHS2Z8N9YM&tag=tfadafr04-21
+ [2]: https://www.amazon.fr/Garmin-Edge-1000-Compteur-sans/dp/B00JOWDPF2/ref=sr_1_2?ie=UTF8&qid=1417852408&sr=8-2&keywords=edge+1000&tag=tfadafr04-21
+ [3]: https://www.amazon.fr/Fenix-AF02-Support-V%C3%A9lo-pour/dp/B0040JRHG2/ref=sr_1_1?ie=UTF8&qid=1417852520&sr=8-1&keywords=fenix+2+velo&tag=tfadafr04-21
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/Garmin-Fénix-2-1.jpg
- [5]: https://www.amazon.fr/Garmin-Ceinture-cardio-fr%C3%A9quencem%C3%A8tre-textile-Forerunner/dp/B00BI9X1QM/ref=sr_1_3?ie=UTF8&qid=1417852520&sr=8-3&keywords=fenix+2+velo&tag=tfadafr-21
+ [5]: https://www.amazon.fr/Garmin-Ceinture-cardio-fr%C3%A9quencem%C3%A8tre-textile-Forerunner/dp/B00BI9X1QM/ref=sr_1_3?ie=UTF8&qid=1417852520&sr=8-3&keywords=fenix+2+velo&tag=tfadafr04-21
  [6]: https://connect.garmin.com/fr-FR/
  [7]: https://s3.eu-central-1.amazonaws.com/tfada/Garmin-Fénix-2-5.jpg
- [8]: https://www.amazon.fr/Sony-Appareil-Hybride-36-4Mpix-Capteur/dp/B00G34CVWW/ref=sr_1_1?ie=UTF8&qid=1417852464&sr=8-1&keywords=sony+a7r&tag=tfadafr-21
+ [8]: https://www.amazon.fr/Sony-Appareil-Hybride-36-4Mpix-Capteur/dp/B00G34CVWW/ref=sr_1_1?ie=UTF8&qid=1417852464&sr=8-1&keywords=sony+a7r&tag=tfadafr04-21

@@ -82,7 +82,7 @@ Encore une fois comment font les personnes sous Windows ! La différence de prod
 
 Encore un [utilitaire][3] **indispensable**.[<img class="aligncenter size-full wp-image-439" src="https://s3.eu-central-1.amazonaws.com/tfada/deleteExt.gif" alt="deleteExt" width="200" height="110" />][10]
 
- [1]: https://www.amazon.fr/gp/product/2922010171/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2922010171&linkCode=as2&tag=tfadafr-21&linkId=WTAGGCGB3OHQYTZN
+ [1]: https://www.amazon.fr/gp/product/2922010171/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2922010171&linkCode=as2&tag=tfadafr04-21&linkId=WTAGGCGB3OHQYTZN
  [2]: https://itunes.apple.com/fr/app/byword/id420212497?mt=12
  [3]: https://itunes.apple.com/fr/app/popclip/id445189367?mt=12
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-10-18-à-19.35.52.png

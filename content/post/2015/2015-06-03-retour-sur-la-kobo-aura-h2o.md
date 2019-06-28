@@ -43,10 +43,10 @@ L’interface est toujours la même puisque le système lui n’a pas changé. L
 
 C’est toujours la tablette de référence pour moi puisque pour l’instant en attendant la **Kindle voyage** c’est la seule à disposer d’une résolution aussi grande et agréable.
 
- [1]: https://www.amazon.fr/eBook-reader-KOBO-Aura-noir/dp/B00N9ZVN90/ref=sr_1_6?ie=UTF8&qid=1433328993&sr=8-6&keywords=kobo&tag=tfadafr-21
+ [1]: https://www.amazon.fr/eBook-reader-KOBO-Aura-noir/dp/B00N9ZVN90/ref=sr_1_6?ie=UTF8&qid=1433328993&sr=8-6&keywords=kobo&tag=tfadafr04-21
  [2]: https://localhost/2014/10/une-liseuse-mais-pour-quoi-faire/
- [3]: https://www.amazon.fr/Sony-Xperia-Z3-Compact-Smartphone/dp/B00NIGKW6A/ref=sr_1_6?ie=UTF8&qid=1433329079&sr=8-6&keywords=xperia+z&tag=tfadafr-21
- [4]: https://www.amazon.fr/Kindle-Paperwhite-R%C3%A9solution-%C3%A9clairage-int%C3%A9gr%C3%A9/dp/B00JG8GBDM/ref=sr_1_1?ie=UTF8&qid=1433329181&sr=8-1&keywords=kindel&tag=tfadafr-21
+ [3]: https://www.amazon.fr/Sony-Xperia-Z3-Compact-Smartphone/dp/B00NIGKW6A/ref=sr_1_6?ie=UTF8&qid=1433329079&sr=8-6&keywords=xperia+z&tag=tfadafr04-21
+ [4]: https://www.amazon.fr/Kindle-Paperwhite-R%C3%A9solution-%C3%A9clairage-int%C3%A9gr%C3%A9/dp/B00JG8GBDM/ref=sr_1_1?ie=UTF8&qid=1433329181&sr=8-1&keywords=kindel&tag=tfadafr04-21
  [5]: file:///Users/sebastienmouret/Desktop/export-web/kobo-h2o2.jpg
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/kobo-h2o2.jpg
- [7]: https://www.amazon.fr/gp/product/B00KDRUCJY/ref=fs_bour?tag=tfadafr-21
+ [7]: https://www.amazon.fr/gp/product/B00KDRUCJY/ref=fs_bour?tag=tfadafr04-21

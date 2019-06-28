@@ -75,14 +75,14 @@ Il a du mal à nettoyer les *recoins* et près des murs, ce qui vous obligera à
 Et il ne passe pas encore la serpillère !  
 Il n’est pas parfait, mais me rend un sacré service, un [cadeau][1] tout trouvé pour Noël (c’est votre femme qui va être contente… oups je sors) ?
 
- [1]: https://www.amazon.fr/Neato-945-0062-Signature-Aspirateur-Robot/dp/B00FN7Q79I/ref=sr_1_1?ie=UTF8&qid=1415825016&sr=8-1&keywords=neato&tag=tfadafr-21
- [2]: https://www.amazon.fr/Dyson-DC33C-Origin-Aspirateur-Jaune/dp/B00M8YTI3G/ref=sr_1_1?ie=UTF8&qid=1415825090&sr=8-1&keywords=dyson&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Neato-945-0062-Signature-Aspirateur-Robot/dp/B00FN7Q79I/ref=sr_1_1?ie=UTF8&qid=1415825016&sr=8-1&keywords=neato&tag=tfadafr04-21
+ [2]: https://www.amazon.fr/Dyson-DC33C-Origin-Aspirateur-Jaune/dp/B00M8YTI3G/ref=sr_1_1?ie=UTF8&qid=1415825090&sr=8-1&keywords=dyson&tag=tfadafr04-21
  [3]: https://s3.eu-central-1.amazonaws.com/tfada/Neato-2.jpg
- [4]: https://www.amazon.fr/Boucan-denfer-Renaud/dp/B0000664KM/ref=sr_1_1?ie=UTF8&qid=1415825132&sr=8-1&keywords=boucan+d%27enfer&tag=tfadafr-21
- [5]: https://www.amazon.fr/NEATO-945-0009-Neato-Bordure-Magn%C3%A9tique/dp/B00A9HDTN4/ref=pd_sim_k_8?ie=UTF8&refRID=05Y0EGYJ9H3YY2MTYAH4&tag=tfadafr-21
+ [4]: https://www.amazon.fr/Boucan-denfer-Renaud/dp/B0000664KM/ref=sr_1_1?ie=UTF8&qid=1415825132&sr=8-1&keywords=boucan+d%27enfer&tag=tfadafr04-21
+ [5]: https://www.amazon.fr/NEATO-945-0009-Neato-Bordure-Magn%C3%A9tique/dp/B00A9HDTN4/ref=pd_sim_k_8?ie=UTF8&refRID=05Y0EGYJ9H3YY2MTYAH4&tag=tfadafr04-21
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/Neato-4.jpg
- [7]: https://www.amazon.fr/GoPro-Silver-Embarqu%C3%A9e-tactile-Bluetooth/dp/B00O1XRT9W/ref=sr_1_1?ie=UTF8&qid=1415825415&sr=8-1&keywords=gopro&tag=tfadafr-21
+ [7]: https://www.amazon.fr/GoPro-Silver-Embarqu%C3%A9e-tactile-Bluetooth/dp/B00O1XRT9W/ref=sr_1_1?ie=UTF8&qid=1415825415&sr=8-1&keywords=gopro&tag=tfadafr04-21
  [8]: https://s3.eu-central-1.amazonaws.com/tfada/Neato-5.jpg
- [9]: https://www.amazon.fr/Dyson-DC62-Aspirateur-Balai-Argent/dp/B00EP4R1AY/ref=sr_1_2?s=kitchen&ie=UTF8&qid=1415825365&sr=1-2&keywords=dyson&tag=tfadafr-21
- [10]: https://www.amazon.fr/Dyson-DC33C-Origin-Aspirateur-Jaune/dp/B00M8YTI3G/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1415825365&sr=1-1&keywords=dyson&tag=tfadafr-21
+ [9]: https://www.amazon.fr/Dyson-DC62-Aspirateur-Balai-Argent/dp/B00EP4R1AY/ref=sr_1_2?s=kitchen&ie=UTF8&qid=1415825365&sr=1-2&keywords=dyson&tag=tfadafr04-21
+ [10]: https://www.amazon.fr/Dyson-DC33C-Origin-Aspirateur-Jaune/dp/B00M8YTI3G/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1415825365&sr=1-1&keywords=dyson&tag=tfadafr04-21
  [11]: https://s3.eu-central-1.amazonaws.com/tfada/Neato-3.jpg
