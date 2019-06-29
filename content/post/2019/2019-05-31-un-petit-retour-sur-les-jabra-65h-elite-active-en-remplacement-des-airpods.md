@@ -10,7 +10,7 @@ date: 2019-05-31
 categories: 
 - Musique
 - HighTech
-- Sport
+- Sport & Santé
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/Image-2019-05-30-09-31-46-3.jpeg
 ---
 

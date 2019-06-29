@@ -40,7 +40,7 @@ background_opacity:
 page_layout:
   - fullwidth
 categories:
-  - Sport
+  - Sport & Santé
 tags:
   - sport
 date: 2014-11-03

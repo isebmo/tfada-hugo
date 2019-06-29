@@ -41,7 +41,7 @@ dsq_thread_id:
   - 3392861514
 categories:
   - Geek
-  - Sport
+  - Sport & Santé
 tags:
   - garmin
   - gps

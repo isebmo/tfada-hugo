@@ -37,7 +37,7 @@ dsq_thread_id:
   - 2187421429
 categories:
   - Geek
-  - Sport
+  - Sport & Santé
 tags:
   - footing
   - gps

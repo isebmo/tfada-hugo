@@ -10,7 +10,7 @@ date: 2019-06-26
 categories: 
 - Applications
 - HighTech
-- Hightech
+- HighTech
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/IMG_9970.jpeg
 ---
 

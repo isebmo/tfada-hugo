@@ -41,7 +41,7 @@ page_layout:
   - fullwidth
 categories:
   - Geek
-  - Sport
+  - Sport & Santé
 tags:
   - apple
   - iphone

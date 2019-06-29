@@ -16,7 +16,7 @@ dsq_thread_id:
 categories:
   - Geek
   - Musique
-  - Sport
+  - Sport & Santé
 tags:
   - écouteurs
   - footing

@@ -8,7 +8,7 @@ author: iSebmo
 date: 2018-08-19
 categories: 
 - Geek
-- Hightech
+- HighTech
 fimg: "https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-08-19-21-59-3usRK5u4JtKmHT5VseyO.jpg"
 ---
 

@@ -37,7 +37,7 @@ dsq_thread_id:
   - 2792193991
 categories:
   - Geek
-  - Sport
+  - Sport & Santé
 tags:
   - apple
   - sport

@@ -44,7 +44,7 @@ background_opacity:
 page_layout:
   - fullwidth
 categories:
-  - Sport
+  - Sport & Santé
 tags:
   - sport
   - vélo

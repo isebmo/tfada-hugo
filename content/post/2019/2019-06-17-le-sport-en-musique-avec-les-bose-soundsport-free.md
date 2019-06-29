@@ -10,7 +10,7 @@ date: 2019-06-17
 categories: 
 - Musique
 - HighTech
-- Sport
+- Sport & Santé
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/Image-lun.-17-juin-2019-14-09-12-8-2.jpeg
 ---
 
