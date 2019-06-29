@@ -36,7 +36,7 @@ J’ai pris la peine d’ajouter le dossier des photos directement dans [Lightro
 L’essayer c’est l’adopter, on pourra regretter que le logiciel n’est pas open source il n’y a plus qu’à espérer qu’il ne meurt pas avec la société.
 
  [1]: https://www.getsync.com/
- [2]: https://www.amazon.fr/Synology-DS214play-Bo%C3%AEtier-NAS-USB/dp/B00FWUQNDQ/ref=sr_1_2?ie=UTF8&qid=1425577527&sr=8-2&keywords=nas+synology&tag=tfadafr-21
- [3]: https://www.amazon.fr/Adobe-Photoshop-Lightroom-5/dp/B00DAS8O6G/ref=sr_1_1?ie=UTF8&qid=1425577486&sr=8-1&keywords=lightroom&tag=tfadafr-21
+ [2]: https://www.amazon.fr/Synology-DS214play-Bo%C3%AEtier-NAS-USB/dp/B00FWUQNDQ/ref=sr_1_2?ie=UTF8&qid=1425577527&sr=8-2&keywords=nas+synology&tag=tfadafr04-21
+ [3]: https://www.amazon.fr/Adobe-Photoshop-Lightroom-5/dp/B00DAS8O6G/ref=sr_1_1?ie=UTF8&qid=1425577486&sr=8-1&keywords=lightroom&tag=tfadafr04-21
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2015-03-05-à-18.49.03.png
  [5]: https://localhost/2014/10/liphone-6-plus-dans-tous-ses-etats/

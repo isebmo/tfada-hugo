@@ -88,7 +88,7 @@ Tout dépend de ce que vous prévoyez de faire avec une focale fixe comme celle-
 
 Un objectif 50mm à cette ouverture (0.95) d’une telle qualité pour un prix aussi contenu est une optique à *posséder*, dépourvue d’électronique elle vous accompagnera durant des années.
 
- [1]: https://www.amazon.fr/Objectif-SLR-Magic-Hyper-monture/dp/B005M0GSTU/ref=cm_cr_pr_sims_t?tag=tfadafr-21
+ [1]: https://www.amazon.fr/Objectif-SLR-Magic-Hyper-monture/dp/B005M0GSTU/ref=cm_cr_pr_sims_t?tag=tfadafr04-21
  [2]: https://www.bhphotovideo.com/c/product/586190-REG/Leica_11_602_50mm_f_0_95_Noctilux_M_Aspherical.html
  [3]: https://www.flickr.com/photos/isebmo/sets/72157647189153434/
  [4]: https://s3.eu-central-1.amazonaws.com/tfada/Mitakon-Bokeh.jpg

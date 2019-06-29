@@ -34,7 +34,7 @@ J’ai une autre anecdote, sur le forum de [Alphadxd][3], une personne avait ach
 
 En revanche du côté de Apple, j’ai déjà commandé énormément de matériel en Refurb et je n’ai *JAMAIS* eu de problème ! Au moins Apple teste les appareils avant leur revente…
 
- [1]: https://www.amazon.fr/Dell-U2414H-Ecran-Moniteur-Display/dp/B00H3JIGHA/ref=sr_1_1?ie=UTF8&qid=1421078518&sr=8-1&keywords=dell+24&tag=tfadafr-21
- [2]: https://www.amazon.fr/Samsung-MZ-7TE1T0BW-Disque-Flash-interne/dp/B00E3W16OU/ref=sr_1_2?ie=UTF8&qid=1421078579&sr=8-2&keywords=evo+840&tag=tfadafr-21
+ [1]: https://www.amazon.fr/Dell-U2414H-Ecran-Moniteur-Display/dp/B00H3JIGHA/ref=sr_1_1?ie=UTF8&qid=1421078518&sr=8-1&keywords=dell+24&tag=tfadafr04-21
+ [2]: https://www.amazon.fr/Samsung-MZ-7TE1T0BW-Disque-Flash-interne/dp/B00E3W16OU/ref=sr_1_2?ie=UTF8&qid=1421078579&sr=8-2&keywords=evo+840&tag=tfadafr04-21
  [3]: www.alphadxd.fr/
  [4]: https://localhost/2013/11/le-petit-sony-a7r/ "Le petit Sony A7r"

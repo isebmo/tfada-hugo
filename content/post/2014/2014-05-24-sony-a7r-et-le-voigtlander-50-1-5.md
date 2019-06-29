@@ -97,12 +97,12 @@ C&rsquo;est le pont faible de cet objectif, mais je vous présenterai une bague 
 
 &nbsp;
 
- [1]: https://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FYRLSM8
+ [1]: https://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr04-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FYRLSM8
  [2]: https://localhost/2014/01/sony-a7r-et-le-voiglander-50-1-1/ "Sony A7r et le Voigtlander 50 1.1"
  [3]: https://www.lapetiteboutiquephoto.com/boutique/fiche_produit.cfm?ref=PBP013VN50M_S&type=18&code_lg=lg_fr&num=3
  [4]: https://www.lapetiteboutiquephoto.com/boutique/fiche_produit.cfm?ref=PBP013VN50M_BK&type=18&code_lg=lg_fr&num=3
  [5]: https://s3.eu-central-1.amazonaws.com/tfada/DSC06480.jpg
- [6]: https://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00G34CVWW
+ [6]: https://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr04-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00G34CVWW
  [7]: https://s3.eu-central-1.amazonaws.com/tfada/DSC06478.jpg
  [8]: https://s3.eu-central-1.amazonaws.com/tfada/DSC06479.jpg
  [9]: https://flic.kr/s/aHsjYngE4y

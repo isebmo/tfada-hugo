@@ -26,4 +26,4 @@ Combien de sites vous signalent des bons plans sur des produits qu’ils ont pou
 
 C’était un article coup de gueule contre tous ces sites qui manquent d’objectivité. C’est pourquoi vous ne verrez jamais de bons plans sur la dernière Barbie en promo sur Amazon ou une carte sd dont tout le monde se fou, sur ce blog…
 
- [1]: https://www.amazon.fr/?tag=tfadafr-21
+ [1]: https://www.amazon.fr/?tag=tfadafr04-21

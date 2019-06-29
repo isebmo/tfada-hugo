@@ -74,12 +74,12 @@ Vous pouvez les fixez sur la tige de selle, la potence ou bien utiliser la pince
 
 Roulez jeunesse !
 
- [1]: https://www.amazon.fr/gp/product/B00EP5MQRG/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00EP5MQRG&linkCode=as2&tag=tfadafr-21&linkId=FW4NM4H7DI3MGBRY
- [2]: https://www.amazon.fr/gp/product/B008QVXSE0/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B008QVXSE0&linkCode=as2&tag=tfadafr-21&linkId=KHQOLMCXDLZUG7UJ
- [3]: https://www.amazon.fr/s/?_encoding=UTF8&camp=1642&creative=19458&field-brandtextbin=Cateye&linkCode=ur2&node=325614031&tag=tfadafr-21&linkId=CJILMU3SAP2FWV3A
- [4]: https://www.amazon.fr/gp/product/B004KRGJFO/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B004KRGJFO&linkCode=as2&tag=tfadafr-21&linkId=JBWWIAJT6IAV75RY
- [5]: https://www.amazon.fr/gp/product/B006CPCDBQ/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B006CPCDBQ&linkCode=as2&tag=tfadafr-21&linkId=HPJT3EA57RATWTMD
- [6]: https://www.amazon.fr/gp/product/B0099M8AVG/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0099M8AVG&linkCode=as2&tag=tfadafr-21&linkId=XCVD7XIP7SFQBKZC
+ [1]: https://www.amazon.fr/gp/product/B00EP5MQRG/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00EP5MQRG&linkCode=as2&tag=tfadafr04-21&linkId=FW4NM4H7DI3MGBRY
+ [2]: https://www.amazon.fr/gp/product/B008QVXSE0/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B008QVXSE0&linkCode=as2&tag=tfadafr04-21&linkId=KHQOLMCXDLZUG7UJ
+ [3]: https://www.amazon.fr/s/?_encoding=UTF8&camp=1642&creative=19458&field-brandtextbin=Cateye&linkCode=ur2&node=325614031&tag=tfadafr04-21&linkId=CJILMU3SAP2FWV3A
+ [4]: https://www.amazon.fr/gp/product/B004KRGJFO/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B004KRGJFO&linkCode=as2&tag=tfadafr04-21&linkId=JBWWIAJT6IAV75RY
+ [5]: https://www.amazon.fr/gp/product/B006CPCDBQ/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B006CPCDBQ&linkCode=as2&tag=tfadafr04-21&linkId=HPJT3EA57RATWTMD
+ [6]: https://www.amazon.fr/gp/product/B0099M8AVG/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0099M8AVG&linkCode=as2&tag=tfadafr04-21&linkId=XCVD7XIP7SFQBKZC
  [7]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07419.jpg
  [8]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07423.jpg
  [9]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07424.jpg

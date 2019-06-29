@@ -57,7 +57,7 @@ date: 2013-12-16
 ---
 Après <a title="LG G2" href="https://localhost/2013/12/lg-g2/" target="_blank">Android</a> il me fallait bien tester Chrome OS pour me faire ma propre idée, et bien je ne suis pas déçu.
 
-<span class="impact-text">Le hardware du <a href="https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr-21" target="_blank">Chromebook Acer C720P</a></span>
+<span class="impact-text">Le hardware du <a href="https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr04-21" target="_blank">Chromebook Acer C720P</a></span>
 
 [<img class="alignnone size-full wp-image-127" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC05446.jpg" alt="DSC05446" width="960" height="641" />][1]  
 <span class="impact-text">Le clavier</span>  
@@ -73,10 +73,10 @@ Dommage aussi pour l&rsquo;ajustement de la luminosité automatique, cette fonct
 [<img class="alignnone size-full wp-image-130" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC05449.jpg" alt="DSC05449" width="960" height="641" />][3]
 
 <span class="impact-text">Le touchpad</span>  
-Quasiment au même niveau que celui d&rsquo;un MacBook; il aurait mérité d&rsquo;avoir un revêtement en verre pour une glisse parfaite. Mais pour le prix il est vraiment excellent surtout <a href="https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr-21" target="_blank">qu&rsquo;Acer</a> n&rsquo;a pas eu la mauvaise idée d&rsquo;inclure des boutons (clic gauche droit) qui auraient nuit au design de l&rsquo;ensemble. Comme sur un mac, le trackpad est cliquable et occupe une place importante afin d&rsquo;effectuer les gestes multi touch (balayages deux doigts pour revenir arrière, balayage 3 doigts pour passer d&rsquo;un onglet à l&rsquo;autre, clic droit à deux doigts).
+Quasiment au même niveau que celui d&rsquo;un MacBook; il aurait mérité d&rsquo;avoir un revêtement en verre pour une glisse parfaite. Mais pour le prix il est vraiment excellent surtout <a href="https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr04-21" target="_blank">qu&rsquo;Acer</a> n&rsquo;a pas eu la mauvaise idée d&rsquo;inclure des boutons (clic gauche droit) qui auraient nuit au design de l&rsquo;ensemble. Comme sur un mac, le trackpad est cliquable et occupe une place importante afin d&rsquo;effectuer les gestes multi touch (balayages deux doigts pour revenir arrière, balayage 3 doigts pour passer d&rsquo;un onglet à l&rsquo;autre, clic droit à deux doigts).
 
 <span class="impact-text">La webcam</span>  
-Ouye, la qualité est catastrophique, dommage. Ce n’est vraiment pas au niveau de l&rsquo;ensemble. Je ne comprends pas pourquoi faire autant de concessions sur ce point, ça ne me parait pas être cher une webcam acceptable ? Prenez un téléphone bas de gamme, sa webcam sera surement de meilleure qualité que celle de <a href="https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr-21" target="_blank">l&rsquo;Acer</a>.
+Ouye, la qualité est catastrophique, dommage. Ce n’est vraiment pas au niveau de l&rsquo;ensemble. Je ne comprends pas pourquoi faire autant de concessions sur ce point, ça ne me parait pas être cher une webcam acceptable ? Prenez un téléphone bas de gamme, sa webcam sera surement de meilleure qualité que celle de <a href="https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr04-21" target="_blank">l&rsquo;Acer</a>.
 
 <span class="impact-text">L&rsquo;autonomie</span>  
 Très bonne, comptez environ 5h en surf avec la luminosité à 70%. C&rsquo;est dans la norme, je pense, de ce qui se fait actuellement. Pour atteindre les 7h30 annoncées par le constructeur il faut réellement baisser la luminosité.
@@ -88,7 +88,7 @@ Les haut-parleurs sont placés sous la machine ce qui à première vue peut para
 
 <span class="impact-text">Poids et finition générale</span>  
 Le poids est la première chose qui m&rsquo;a choqué quand je les pris en main, non pas qu&rsquo;il soit &laquo;&nbsp;lourd&nbsp;&raquo;, mais je m&rsquo;attendais à plus léger, il est plus lourd qu&rsquo;un MacBook air de seulement 300gr, mais pourtant ça se sent.  
-La finition est vraiment au-dessus de ce que j&rsquo;ai connu en matière de Netbook, on reste quand même chez <a href="https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr-21" target="_blank">Acer</a>&#8230; L&rsquo;ensemble parait solide, l&rsquo;ordinateur ne pli pas, le clavier ne bouge pas lors de la frappe, les aérations du ventilateur sont bien placées. Oui il n&rsquo;est pas fanless, j&rsquo;espère que ça le sera pour la prochaine version ! Mais il n&rsquo;y a rien a dire sur le bruit du ventilateur, il est vraiment très léger, vous ne le distinguerez que dans une pièce absolument silencieuse.
+La finition est vraiment au-dessus de ce que j&rsquo;ai connu en matière de Netbook, on reste quand même chez <a href="https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr04-21" target="_blank">Acer</a>&#8230; L&rsquo;ensemble parait solide, l&rsquo;ordinateur ne pli pas, le clavier ne bouge pas lors de la frappe, les aérations du ventilateur sont bien placées. Oui il n&rsquo;est pas fanless, j&rsquo;espère que ça le sera pour la prochaine version ! Mais il n&rsquo;y a rien a dire sur le bruit du ventilateur, il est vraiment très léger, vous ne le distinguerez que dans une pièce absolument silencieuse.
 
 Le cable de recharge est aussi mal conçu, il a tendance à s&rsquo;enlever tout seul&#8230; dommage.
 
@@ -112,7 +112,7 @@ C&rsquo;est assez bluffant, l&rsquo;ordinateur est hyper réactif, j&rsquo;ai m�
 [<img class="alignnone size-full wp-image-129" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC05448.jpg" alt="DSC05448" width="960" height="641" />][8]
 
 Un quelques mots je recommande fortement cet ordinateur dans un foyer. Je dirai même qu&rsquo;il faudrait acheter un Chromebook par personne dans le foyer et garder à l&rsquo;esprit qu&rsquo;il faut un ordinateur puissant sous Mac ou Windows qui fait office de serveur et qui est dédié aux tâches lourdes : traitement photos, vidéos ou au traitement sous Office.  
-[Acer Chromebook Ecran tactile 11,6&Prime; (29,46 cm) Chrome OS Gris][9]<img style="border: none !important; margin: 0px !important;" src="https://ir-fr.amazon-adsystem.com/e/ir?t=tfadafr-21&l=as2&o=8&a=B00G69Z23E" alt="" width="1" height="1" border="0" />
+[Acer Chromebook Ecran tactile 11,6&Prime; (29,46 cm) Chrome OS Gris][9]<img style="border: none !important; margin: 0px !important;" src="https://ir-fr.amazon-adsystem.com/e/ir?t=tfadafr04-21&l=as2&o=8&a=B00G69Z23E" alt="" width="1" height="1" border="0" />
 
  [1]: https://s3.eu-central-1.amazonaws.com/tfada/DSC05446.jpg
  [2]: https://s3.eu-central-1.amazonaws.com/tfada/DSC05454.jpg
@@ -122,4 +122,4 @@ Un quelques mots je recommande fortement cet ordinateur dans un foyer. Je dirai 
  [6]: https://s3.eu-central-1.amazonaws.com/tfada/DSC05445.jpg
  [7]: https://s3.eu-central-1.amazonaws.com/tfada/DSC05452.jpg
  [8]: https://s3.eu-central-1.amazonaws.com/tfada/DSC05448.jpg
- [9]: https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr-21
+ [9]: https://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr04-21

@@ -29,9 +29,9 @@ Voici un petit article de développement personnel avec quelques conseils que j'
 
 * Faites du *sport*. Avec une alimentation *adaptée* vous progresserez très vite à n'importe quel sport de votre choix. Le sport est le meilleur moyen de ne pas *subir* le *stress*. Profitez des [gadgets](https://tfada.fr/Apple-Watch.html) pour quantifier vos efforts. 
 
-* Vous n'avez pas le temps ? Vous n'en n'aurez *jamais* si vous ne le *prenez* pas. Levez peut-être un peu plus [tôt](https://www.amazon.fr/gp/product/B008HF67KW?tag=tfadafr-21). Une petite astuce, achetez un [réveil][réveil] qui s'allume progressivement à l'heure programmée !
+* Vous n'avez pas le temps ? Vous n'en n'aurez *jamais* si vous ne le *prenez* pas. Levez peut-être un peu plus [tôt](https://www.amazon.fr/gp/product/B008HF67KW?tag=tfadafr04-21). Une petite astuce, achetez un [réveil][réveil] qui s'allume progressivement à l'heure programmée !
 
 L'être humain est une machine à changer alors profitez en !
 
-[pouvoir]: https://www.amazon.fr/gp/product/B00UETMHG2?tag=tfadafr-21
-[réveil]: https://www.amazon.fr/gp/product/B008LR3KD8?tag=tfadafr-21
+[pouvoir]: https://www.amazon.fr/gp/product/B00UETMHG2?tag=tfadafr04-21
+[réveil]: https://www.amazon.fr/gp/product/B008LR3KD8?tag=tfadafr04-21
