@@ -8,12 +8,10 @@ date: 2019-07-26
 categories: 
 - LifeHack
 - HighTech
-fimg: 
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/L1010424.jpeg
 ---
 
 Dans un besoin de rationaliser mes équipements, je me demande s’il est préférable de lire des ebooks seulement sur un iPhone, un iPad ou un Kindle. 
-
-![](https://tfada.s3-eu-central-1.amazonaws.com/2019/L1010424.jpeg)
 
 ## Luminosité, dis-moi où tu lis ?
 Tout d’abord il faut savoir où vous lisez le plus souvent. Pour ma part c’est de manière générale en intérieur et plutôt dans la chambre. En revanche si vous lisez souvent aux bords de la plage entre midi et deux, parce que vous habitez à Bayonne, votre utilisation sera complètement différente de la mienne. 
