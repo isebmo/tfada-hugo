@@ -40,8 +40,6 @@ Le poids *plume* de l’appareil reste l’atout le plus important de cet appare
 Son *énorme capteur de 36 mégapixels* est parfait pour recadrer les photos. D’ailleurs je m’en sers beaucoup lorsque je shoote avec le 35mm pour zoomer sur l’image, c’est terriblement pratique.  
 La *qualité* est parfaite lorsqu’on lui associe un bon objectif. Les Zeiss lui vont comme un gant, aujourd’hui je possède un [35mm][2], un [50mm][5] et le [16–35mm][6]. Ces 3 objectifs ont un *rendu parfait des couleurs*, et je ne parle pas du *piqué* que je trouve exceptionnel par rapport à mon ancien appareil bien sûr. Le couple Sony/Zeiss a fait du bon boulot pour rendre l’écosystème cohérent.
 
-[<img class="aligncenter size-full wp-image-722" src="https://s3.eu-central-1.amazonaws.com/tfada/Sony-A7r-2-4.jpg" alt="Sony-A7r-2-4" width="1000" height="667" />][7]
-
 ## Tandem de choc avec le mitakon 50mm f0.95
 
 Cet objectif est le *meilleur* qui m’est eu donné de tester. Avec une profondeur de champ aussi réduite et le “*focus peaking*” de [l’A7r][1], il est très facile de faire de magnifiques flous d’arrière-plan et d’isoler le sujet. J’aime beaucoup les photos que fait ce couple objectif-boitier. Le rendu des photos est très bon en noir et blanc à pleine ouverture. Il donne un effet “dream” bien *crémeux* que j’adore… Du coup j’ai du mal à prendre des photos à une autre ouverture qu’à f0.95.  
