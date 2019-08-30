@@ -16,7 +16,7 @@ dsq_thread_id:
 categories:
   - Geek
   - Photo
-fimg: https://s3.eu-central-1.amazonaws.com/tfada/Sony-A7r-2-5.jpg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/DSC05040.jpeg
 tags:
   - a7
   - a7r
@@ -33,7 +33,7 @@ Petit retour sur le petit [Sony A7r][1], après une année de service, que faut-
 
 Le poids *plume* de l’appareil reste l’atout le plus important de cet appareil. Je l’emmène partout dans un tout petit sac. Je lui visse le [Zeiss 35 2.8][2], tout léger qu’il est, le tout fait à peine 300gr et je continue mes visites toute la journée en *vacances* avec l’appareil autour du cou. La ou avant j’aurais laissé le Sony [A77][3] à l’hôtel avec le [A7r][1] c’est fini, il est toujours là.
 
-[<img class="aligncenter size-full wp-image-723" src="https://s3.eu-central-1.amazonaws.com/tfada/Sony-A7r-2-5.jpg" alt="Sony A7r" width="1000" height="667" />][4]
+![](https://tfada.s3-eu-central-1.amazonaws.com/2019/DSC05043_9664.jpeg)
 
 ## Qualité des photos
 
@@ -47,7 +47,7 @@ La *qualité* est parfaite lorsqu’on lui associe un bon objectif. Les Zeiss lu
 Cet objectif est le *meilleur* qui m’est eu donné de tester. Avec une profondeur de champ aussi réduite et le “*focus peaking*” de [l’A7r][1], il est très facile de faire de magnifiques flous d’arrière-plan et d’isoler le sujet. J’aime beaucoup les photos que fait ce couple objectif-boitier. Le rendu des photos est très bon en noir et blanc à pleine ouverture. Il donne un effet “dream” bien *crémeux* que j’adore… Du coup j’ai du mal à prendre des photos à une autre ouverture qu’à f0.95.  
 Alors certes, le piqué n’a rien à voir avec le [Zeiss 50mm 1.8][8] mais on ne fait pas le même style de photos. Je pense que si je devais faire des portraits pour des photos de mariage, j’utiliserais le Zeiss. Mais pour tous les autres types de photos, surtout en urbain j’utilise le [Mitakon][9]. Seul regret son *poids élevé* (800gr), mais personne n’est parfait.
 
-[<img class="aligncenter size-full wp-image-720" src="https://s3.eu-central-1.amazonaws.com/tfada/Sony-A7r-2-2.jpg" alt="Sony-A7r-2-2" width="1000" height="667" />][10]
+![](https://tfada.s3-eu-central-1.amazonaws.com/2019/L1010244.jpeg)
 
 ## Le GPS
 
@@ -65,7 +65,7 @@ C’est là que je suis content de la garantie 3 ans achetée sur le site en lig
 Les objectifs restent particulièrement *chers* au regard de leur luminosité restreinte (f4). La gamme [16–35][6], [24–70][12] et [70–200][13] est cantonnée au f4 et chaque objectif coute au moins 1000€. Je ne parle même pas des objectifs à focale fixe qui sont hors de prix par rapport à la concurrence. Le Zeiss 50mm 1.8 se négocie 10 fois plus cher qu’un équivalent Nikon. Alors bien sûr l’équivalence n’est que sur le papier au niveau de la luminosité. Car le Zeiss est imbattable en terme de piqué à PO, mais ça fait cher le full frame avec de bons objectifs.  
 Je suis curieux de voir le prix du nouvel objectif macro 90mm f2.8 série G, que Sony devrait sortir en mars 2015. Espérons un prix un poil moins des 1000€, barrière psychologique.
 
-[<img class="aligncenter size-full wp-image-719" src="https://s3.eu-central-1.amazonaws.com/tfada/Sony-A7r-2-1.jpg" alt="Sony-A7r-2-1" width="1000" height="667" />][14]
+![](https://tfada.s3-eu-central-1.amazonaws.com/2019/IMG_0037.jpeg)
 
 # Est-ce que je conseillerais toujours cet appareil photo ?
 
