@@ -9,7 +9,7 @@ date: 2019-09-04
 categories: 
 - Geek
 - HighTech
-fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/IMG\_0408.jpeg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/IMG_0408.jpeg
 ---
 
 Je ne sais pas vous, mais si les fuites sont exactes et qu’il n’y a pas plus à cette Keynote de 2019 on va bien s’emmerder quand même. 
