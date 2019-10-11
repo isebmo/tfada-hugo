@@ -1,6 +1,6 @@
 ---
 title: En 2019 le Sony A7 II est-il une bonne affaire ?
-description: Si vous chercher à entrer dans l’univers des appareils photo full frame à moindres frais, le Sony A7 II vient de passer le prix symbolique. C’est un appareil photo qui date, mais qui fait superbement le job encore aujourd’hui. 
+description: Si vous cherchez à entrer dans l’univers des appareils photo full frame à moindres frais, le Sony A7 II vient de passer le prix symbolique. C’est un appareil photo qui date, mais qui fait superbement le job encore aujourd’hui. 
 tags: 
 - a7
 - sony
