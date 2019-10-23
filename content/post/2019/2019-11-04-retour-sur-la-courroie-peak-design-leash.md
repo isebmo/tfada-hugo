@@ -8,7 +8,7 @@ author: iSebmo
 date: 2019-11-04
 categories: 
 - HighTech
-fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/71ui7t3Q1VL.\_AC\_SL1000\_.jpg
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/71ui7t3Q1VL._AC_SL1000_.jpg
 ---
 
 Je suis un adepte des produits Peak Design. Cette marque s’est fait connaitre dans le domaine de la photo avec ses sacs à dos spécialisés . 
