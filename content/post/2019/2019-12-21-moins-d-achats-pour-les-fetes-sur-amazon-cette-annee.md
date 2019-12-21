@@ -17,6 +17,7 @@ Vous ne l’avez peut-être pas remarqué, mais les prix sur Amazon ne sont pas 
 J’ai fait quelques achats dans le domaine de la HIFI 🎧, et bien Amazon n’est clairement pas bon dans ce domaine niveau prix et tant mieux pour la concurrence.
 
 En vrac les sites sur lesquels je suis passé et qui m’ont donné entière satisfaction :
+
 - [EasyLounge](https://www.easylounge.com/)
 - [Son Vidéo](https://www.son-video.com/)
 - [Fnac](https://fnac.com)
