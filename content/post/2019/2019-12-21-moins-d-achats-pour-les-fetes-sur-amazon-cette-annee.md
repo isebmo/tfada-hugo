@@ -1,6 +1,6 @@
 ---
 title: Moins d’achats pour les fêtes sur Amazon cette année
-description: La concurrence a du bon on a tendance à l’oublier je fous encourage à ne pas systématiquement acheter sur Amazon. 👍
+description: La concurrence a du bon on a tendance à l’oublier je vous encourage à ne pas systématiquement acheter sur Amazon. 👍
 tags: 
 - amazon
 author: iSebmo
