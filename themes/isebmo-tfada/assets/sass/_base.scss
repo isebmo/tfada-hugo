@@ -6,6 +6,7 @@
     --text-color-default: black;
 
     --primary-color: #eb7705;
+    --secondary-color: #373737;
 
     --h1-color: var(--text-color-default);
 
@@ -80,12 +81,14 @@ h5 {
 }
 
 #content {
+    z-index: 0;
+    max-width: 1024px;
+    margin: auto;
 
     & ~ ul {
         display: flex;
         flex-wrap: wrap;
     }
-    z-index: 0;
 
     li {
 

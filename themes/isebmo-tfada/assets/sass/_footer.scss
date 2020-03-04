@@ -2,7 +2,7 @@
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         padding: 2rem 0;
-        background-color: #373737;
+        background-color: var(--secondary-color);
         color: white;
     
         span {

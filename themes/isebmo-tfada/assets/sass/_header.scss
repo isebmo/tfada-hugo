@@ -1,9 +1,8 @@
 #site-header {
-
+  background-color: var(--secondary-color);
 
 /* navigation styles start here */
 
-  background: var(--secondary-bg-color);
   text-align: center;
   z-index: 999;
   width: 100%;
@@ -65,7 +64,7 @@ nav {
   text-align: center;
   top: 100%;
   left: 0;
-  background: var(--secondary-bg-color);
+  background: var(--secondary-color);
   width: 100%;
   transform: scale(1, 0);
   transform-origin: top;
@@ -84,7 +83,7 @@ nav li {
 }
 
 nav a {
-  color: var(--text-color-default);
+  color: var(--primary-color);
   text-decoration: none;
   font-size: 1.2rem;
   opacity: 0;
