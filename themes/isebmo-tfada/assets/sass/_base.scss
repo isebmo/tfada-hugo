@@ -28,7 +28,15 @@ body {
     background-color: var(--main-bg-color);
     display: flex;
     flex-direction: column;
+
+    @media screen and (min-width: 800px) {
+        font-size: 18px;
+        p {
+            line-height: 1.8rem;
+        }
+    }
 }
+
 
 h1 {
     color: var(--h1-color);
