@@ -1,0 +1,18 @@
+{{ $featured_image := (trim .Params.fimg "/") | absURL }}
+<article>
+    <a class="article-review-img" href="{{.Permalink}}">
+        <img src="{{ $featured_image }}" class="img" alt="{{ .Title }}">
+    </a>
+    <section>
+        <h1><a href="{{.Permalink}}" >{{ .Title }}</a></h1>
+        {{partial "date" .}}
+        <summary >{{ .Description }}</summary>
+        <ul>
+        {{with .Params.categories}}
+            {{range sort . "value" "asc"}}
+                <li><a class="{{ . | urlize }}" href="{{ "categories/" | relLangURL }}{{ . | urlize }}">{{.}}<a/></li>
+            {{end}}
+        {{end}}
+        </ul>
+    </section>
+</article>

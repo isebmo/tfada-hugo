@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ $featured_image := (trim .Params.fimg "/") | absURL }}
+
+<article id="article-single">
+    <header>
+        <h1>{{.Title}}</h1>
+        {{partial "date" .}}
+        {{if .Params.fimg}}
+            <img src="{{ $featured_image }}" class="img" alt="{{ .Title }}">
+        {{end}}
+    </header>
+    <aside>{{ .TableOfContents }}</aside>
+    <section>
+        {{.Content}}
+    </section>
+    <footer>
+        {{ if eq .Section "post"}}
+        <section id="comments">
+            <h1>Commentaires</h1>
+            <div>{{ template "_internal/disqus.html" . }}</div>
+        </section>
+        {{ end }}
+    </footer>
+</article>
+
+{{ end }}

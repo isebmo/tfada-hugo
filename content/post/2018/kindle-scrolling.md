@@ -4,7 +4,8 @@ description: Kindle se dote du mode scroll afin de rendre la lecture plus agréa
 tags: 
 author: iSebmo
 date: 2018-06-03
-categories: "Applications"
+categories: 
+- Applications
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/Kindle_scroll.jpg
 ---
 

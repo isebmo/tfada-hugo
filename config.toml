@@ -1,7 +1,7 @@
 baseURL = "https://tfada.fr/"
 languageCode = "fr"
 title = "tFada"
-theme = "ananke"
+theme = "isebmo-tfada"
 SectionPagesMenu = "main"
 googleAnalytics = "UA-55779894-1"
 description = "Site perso sur l'actualité High Tech, Apple 👩‍💻, le développement personnel."
@@ -25,3 +25,42 @@ disqusShortname = "tfada"
   recent_posts_number = 6
   body_classes = "font"
 
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "À Propos"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = 0
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Articles"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/post/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "hightech"
+    name = "HighTech"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/categories/hightech/"
+    weight = 2
+
+    [[menu.main]]
+    identifier = "lifehack"
+    name = "Développement Personnel"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/categories/lifehack/"
+    weight = 3
+
+    [[menu.main]]
+    identifier = "sport-santé"
+    name = "Sport & Santé"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/categories/sport-santé/"
+    weight = 4

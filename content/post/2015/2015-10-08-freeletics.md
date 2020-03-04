@@ -5,7 +5,8 @@ description: Si vous voulez faire du sport sans aller en salle, si vous posséde
 author: iSebmo
 date: 2015-10-05
 fimg: https://s3.eu-central-1.amazonaws.com/tfada/freeletics.jpg
-categories: Sport & Santé
+categories: 
+- Sport & Santé
 ---
 
 J'ai testé après la méthode Lafay, l'expérience Freeletics. Contrairement à la méthode, Lafay, [Freeletics][app] n'est pas une méthode, mais un plan d'entraînement. 

@@ -4,7 +4,8 @@ description: J’ai pré commandé une optique permettant de faire des photos ma
 tags: 
 author: iSebmo
 date: 2018-03-11
-categories: "HighTech"
+categories: 
+- HighTech
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-11-14-00.jpg
 ---
 

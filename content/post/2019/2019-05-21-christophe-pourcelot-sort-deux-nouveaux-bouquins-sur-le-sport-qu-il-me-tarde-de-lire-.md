@@ -7,7 +7,7 @@ tags:
 author: iSebmo
 date: 2019-05-21
 categories: 
-- Sport & Santé & Santé
+- Sport & Santé
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/2019/Image-2019-05-16-10-39-23.jpeg
 ---
 

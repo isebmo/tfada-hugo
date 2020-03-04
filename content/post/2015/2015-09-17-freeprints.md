@@ -2,7 +2,8 @@
 layout: post
 title:  "Faites développer vos photos gratuitement"
 description: Faites développer vos photos numériques gratuitement tous les mois avec freeprints. 
-categories: Photo 
+categories: 
+- Photo 
 date: 2015-09-17
 author: iSebmo
 fimg: https://s3.eu-central-1.amazonaws.com/tfada/freeprints.jpeg

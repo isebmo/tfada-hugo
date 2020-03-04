@@ -1,0 +1,15 @@
+#site-footer {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        padding: 2rem 0;
+        background-color: #373737;
+        color: white;
+    
+        span {
+            text-align: center;
+        }
+    
+        a {
+            color: var(--primary-color);
+        }
+}

@@ -4,7 +4,9 @@ description: Le HomePod est l’appareil le plus fermé qu’Apple est jamais in
 tags: 
 author: iSebmo
 date: 2018-03-24
-categories: ["HighTech","Musique"]
+categories: 
+- HighTech
+- Musique
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/Photo-2018-03-24-16-00.jpg
 ---
 
