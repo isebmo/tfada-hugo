@@ -9,7 +9,7 @@ date: 2020-03-05
 categories: 
 - LifeHack
 - Applications
-fimg: https://tfada.s3-eu-central-1.amazonaws.com/2020/pocket-image-a-la-une.jp2
+fimg: https://tfada.s3-eu-central-1.amazonaws.com/2020/pocket-image-a-la-une.jpg
 ---
 Si vous ne connaissez pas Pocket, honte à vous 😂. Bon je vous rappelle à quoi sert la bestiole. C’est un service en ligne qui permet de sauvegarder un article glané sur le web pour le lire plus tard voir en hors connexion quand vous êtes bloqués dans les transports en commun par exemple. 
 Le service est disponible sur tous les supports, je l’utilise essentiellement sur iOS via l’application dédiée que vous pouvez télécharger [ici](https://getpocket.com/ios/). Je vous conseille également l’extension pour votre navigateur, le service a été racheté par Mozilla donc sur Firefox vous n’avez pas besoin d’extension, il est intégré au navigateur (d’ailleurs à ce propos ça serait bien que le service soit intégré à l’application mobile…).
