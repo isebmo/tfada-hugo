@@ -1,15 +1,12 @@
 ---
 title: L’importance du carnet d’entraînement pour le sport
-description: 
+description: Si on veut progresser physiquement pour un sport il faut tenir un carnet d’entrainement, ainsi vos performances pourront être analysées. Strong est une application dédiée au fitness que je vous recommande. 
 tags: 
+- fitness
 author: iSebmo
 date: 2020-03-26
 categories: 
-- LifeHack
 - Sport & Santé
-- Geek
-- HighTech
-- Musique
 - Applications
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/2020/strong-app.jpg
 ---
