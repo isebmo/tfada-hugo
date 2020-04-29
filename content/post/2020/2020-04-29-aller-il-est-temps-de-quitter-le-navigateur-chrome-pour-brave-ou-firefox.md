@@ -4,8 +4,9 @@ description: Le combat fait rage entre les différents navigateurs surtout quand
 tags: 
 - navigateur
 - Chrome
+- vie privée
 author: iSebmo
-date: 2020-08-03
+date: 2020-04-29
 categories: 
 - Applications
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/2020/FX_Design_Blog_Header_1400x770.jpg
@@ -17,15 +18,15 @@ Sur Mac si vous avez l'habitude de Chrome vous ne serez pas dépaysé ! Et c'est
 
 Son seul point faible pour le moment est la synchronisation notamment des extensions. Si vous l'utilisez à deux endroits différents, sachez qu'il n'est pas possible de les synchroniser. Ce n'est pas forcément gênant, il me semble. 
 
-De même la synchronisation des mots de passe ne fonctionne pas et je vous déconseille de toute façon d'utiliser cette fonctionnalité intégrée dans le navigateur. Préférez des services dédiés tels que [Bitwarden](https://bitwarden.com/). 
+De même la synchronisation des mots de passe ne fonctionne pas et je vous déconseille de toute façon d'utiliser cette fonctionnalité intégrée dans le navigateur. Préférez des services tels que [Bitwarden](https://bitwarden.com/). 
 
 Contrairement à Firefox, Brave est compatible avec La Touch Bar d’Apple qui gère la correction automatique qui justifie à elle seule l'achat d'un modèle avec Touch Bar. 
 
 Firefox me manque pour sa fonctionnalité de [Container](https://support.mozilla.org/fr/kb/onglets-contextuels-avec-les-containers) qui permet de lancer une navigation par service sans que ces services communiquent entre eux. Par exemple, vous pouvez être concerté à Google dans un container et pas dans l'autre. Ainsi quand vous faites des recherches dans le container où vous n'êtes pas connecté au service vous êtes inconnu de Google. 
 
-Brave, sur iOS, utilise un bloqueur de pub comme sur Mac c'est un vrai plus, car Apple se réserve la fonctionnalité pour son propre navigateur...
+Brave, sur iOS, utilise un bloqueur de pub comme sur Mac c'est un vrai plus, car Apple se réserve la fonctionnalité pour son propre navigateur... Il me semble qu’il supprime aussi les pubs de YouTube 🙌.
 
-Il y a vraiment beaucoup de bugs sur Safari Mac que je trouve insupportables! La principale raison de l’utiliser est son optimisation qui optimise l’utilisation de la batterie.
+Il y a vraiment beaucoup de bugs sur Safari Mac que je trouve insupportables! La principale raison de l’utiliser est son optimisation qui optimise l’utilisation de la batterie 🔋.
 En ce sens, Brave ne fait pas mieux que Chrome, malheureusement les deux sont basés sur le même moteur de rendu. 
 
-J'espère que je vous ai donné envie de quitter Chrome !
+J'espère que je vous ai donné envie de quitter 🥳 Chrome !
