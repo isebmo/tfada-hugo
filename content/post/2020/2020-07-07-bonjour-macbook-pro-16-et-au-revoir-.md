@@ -9,7 +9,7 @@ date: 2020-07-07
 categories: 
 - HighTech
 fimg: https://tfada.s3-eu-central-1.amazonaws.com/macbook-pro-16-heating.jpg
-—
+---
 Mon MacBook Pro 13 de 2019 ronronne un peu trop fort quand il est trop sollicité enfin trop des fois il suffit juste d’un Microsoft Teams d’ouvert pour que ça turbine. Il a aussi des ralentissements graphiques quand il est branché à un écran externe 4K en plus d’être ouvert avec un grand nombre de fenêtres.
 C’est pourquoi j’ai voulu changer pour un MacBook Pro 16 qui me permet d’être plus à l’aide en mode itinérant par la même occasion. 
 
