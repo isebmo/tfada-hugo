@@ -1,18 +1,26 @@
-{{ $featured_image := (trim .Params.fimg "/") | absURL }}
+{{ $mdurl := findRE `\((.*)\)` .Params.fimg}}
+{{ $featured_image := (trim .Params.fimg "/") | relURL }}
+
+{{ if gt (len $mdurl) 0}}
+{{ $mdurl = replace (index $mdurl 0) "(" ""}}
+{{ $mdurl = replace $mdurl ")" ""}}
+{{ $featured_image = print .Permalink (trim $mdurl "") }}
+{{end}}
+
 <article>
     <a class="article-review-img" href="{{.Permalink}}">
         <img src="{{ $featured_image }}" class="img" alt="{{ .Title }}">
     </a>
     <section>
-        <h1><a href="{{.Permalink}}" >{{ .Title }}</a></h1>
+        <h1><a href="{{.Permalink}}">{{ .Title }}</a></h1>
         {{partial "date" .}}
-        <summary >{{ .Description }}</summary>
+        <summary>{{ .Description }}</summary>
         <ul>
-        {{with .Params.categories}}
+            {{with .Params.categories}}
             {{range sort . "value" "asc"}}
-                <li><a class="{{ . | urlize }}" href="{{ "categories/" | relLangURL }}{{ . | urlize }}">{{.}}<a/></li>
+            <li><a class="{{ . | urlize }}" href="{{ "categories/" | relLangURL }}{{ . | urlize }}">{{.}}<a /></li>
             {{end}}
-        {{end}}
+            {{end}}
         </ul>
     </section>
 </article>

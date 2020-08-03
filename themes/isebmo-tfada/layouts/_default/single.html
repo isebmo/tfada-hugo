@@ -1,12 +1,19 @@
 {{ define "main" }}
-{{ $featured_image := (trim .Params.fimg "/") | absURL }}
+{{ $mdurl := findRE `\((.*)\)` .Params.fimg}}
+{{ $featured_image := (trim .Params.fimg "/") | relURL }}
+
+{{ if gt (len $mdurl) 0}}
+{{ $mdurl = replace (index $mdurl 0) "(" ""}}
+{{ $mdurl = replace $mdurl ")" ""}}
+{{ $featured_image = print .Permalink (trim $mdurl "") }}
+{{end}}
 
 <article id="article-single">
     <header>
         <h1>{{.Title}}</h1>
         {{partial "date" .}}
         {{if .Params.fimg}}
-            <img src="{{ $featured_image }}" class="img" alt="{{ .Title }}">
+        <img src="{{ $featured_image }}" class="img" alt="{{ .Title }}">
         {{end}}
     </header>
     <aside>{{ .TableOfContents }}</aside>
