@@ -1,1 +1,8 @@
 public/
+.DS_STORE
+node_modules
+.DS_Store
+package-lock.json
+content/.DS_Store
+content/post/.DS_Store
+resources/_gen/*

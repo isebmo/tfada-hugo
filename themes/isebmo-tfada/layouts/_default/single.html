@@ -8,22 +8,36 @@
 {{ $featured_image = print .Permalink (trim $mdurl "") }}
 {{end}}
 
-<article id="article-single">
+<article id="article-single" class="mt-6">
     <header>
-        <h1>{{.Title}}</h1>
-        {{partial "date" .}}
+        <h1 class="text-center">{{.Title}}</h1>
+        <div class="text-center">{{partial "date" .}}</div>
+        <ul class="text-center mb-3">
+            {{with .Params.categories}}
+            {{range sort . "value" "asc"}}
+            <li
+                class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 hover:text-orange-500">
+                <a href="{{ "categories/" | relLangURL }}{{ . | urlize }}">{{.}}<a /></li>
+            {{end}}
+            {{end}}
+        </ul>
         {{if .Params.fimg}}
         <img src="{{ $featured_image }}" class="img" alt="{{ .Title }}">
         {{end}}
     </header>
-    <aside>{{ .TableOfContents }}</aside>
-    <section>
+    {{if ne (print .TableOfContents) "<nav id=\"TableOfContents\"></nav>"}}
+    <aside class="text-center mb-6">
+        <h2 class="underline">Table des matières</h2>
+        {{  .TableOfContents }}
+    </aside>
+    {{end}}
+    <section class="text-xl">
         {{.Content}}
     </section>
-    <footer>
+    <footer class="text-center mb-6">
         {{ if eq .Section "post"}}
         <section id="comments">
-            <h1>Commentaires</h1>
+            <h1 class="">Commentaires</h1>
             <div>{{ template "_internal/disqus.html" . }}</div>
         </section>
         {{ end }}
