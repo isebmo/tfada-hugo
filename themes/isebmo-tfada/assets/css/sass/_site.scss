@@ -34,6 +34,11 @@ p {
 }
 
 #article-single {
+
+    ul {
+        @apply list-disc pl-10;
+    }
+    
     @apply mr-2 ml-2;
 
     p {
