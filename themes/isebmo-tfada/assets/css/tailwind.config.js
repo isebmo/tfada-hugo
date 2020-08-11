@@ -2,7 +2,7 @@
 module.exports = {
     theme: {
         fontFamily: {
-            sans: ['"Lora"']
+            sans: ['"Work Sans"']
         }
     },
     variants: {},

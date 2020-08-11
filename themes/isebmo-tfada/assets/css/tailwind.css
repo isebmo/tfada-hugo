@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:300,600');
 
 /* Tailwind base - put variables under: tailwind.config.js */
 @import "node_modules/tailwindcss/base";
