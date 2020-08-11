@@ -19,7 +19,8 @@ h3 {
     }
 }
 
-p {
+
+#article-single {
     a {
         @apply bg-orange-200 underline;
     }
@@ -31,9 +32,6 @@ p {
     em {
         @apply text-orange-500;
     }
-}
-
-#article-single {
 
     ul {
         @apply list-disc pl-10;
