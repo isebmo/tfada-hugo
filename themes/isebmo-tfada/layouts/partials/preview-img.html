@@ -9,7 +9,11 @@
 
 <article class="md:flex rounded-md overflow-hidden shadow-lg md:m-3 mt-3">
     <a class="md:w-1/2  " href="{{.Permalink}}">
+        {{ if (gt (.Scratch.Get "index") 2) }}
+        <img loading="lazy" class="object-cover" src="{{ $featured_image }}" class="img" alt="{{ .Title }}">
+        {{ else }}
         <img class="object-cover" src="{{ $featured_image }}" class="img" alt="{{ .Title }}">
+        {{ end }}
     </a>
     <section class="md:w-1/2 px-6 py-4 flex flex-col">
         <div class="flex-1">
