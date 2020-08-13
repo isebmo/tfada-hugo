@@ -26,7 +26,7 @@
             {{with .Params.categories}}
             {{range sort . "value" "asc"}}
             <li
-                class="inline-block bg-orange-500 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 hover:text-orange-500">
+                class="inline-block {{ . | urlize }} rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 hover:text-orange-500">
                 <a href="{{ "categories/" | relLangURL }}{{ . | urlize }}">{{.}}<a /></li>
             {{end}}
             {{end}}

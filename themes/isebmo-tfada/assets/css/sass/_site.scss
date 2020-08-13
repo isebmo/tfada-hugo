@@ -42,6 +42,11 @@ body {
         ul {
             @apply list-disc pl-10;
         }
+        a {
+            &:hover {
+                @apply text-orange-500 underline;
+            }
+        }
     }
 
     #article-content {
