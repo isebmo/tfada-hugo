@@ -7,7 +7,7 @@
 {{ $featured_image = print .Permalink (trim $mdurl "") }}
 {{end}}
 
-<article class="md:flex rounded-md overflow-hidden shadow-lg md:m-3 mt-3">
+<article class="md:flex rounded-md overflow-hidden shadow-lg dark:shadow-none md:m-3 mt-3">
     <a class="md:w-1/2  " href="{{.Permalink}}">
         {{ if (gt (.Scratch.Get "index") 2) }}
         <img loading="lazy" class="object-cover" src="{{ $featured_image }}" class="img" alt="{{ .Title }}">
@@ -20,13 +20,13 @@
             <h1 class="mb-2 hover:text-orange-500  leading-tight"><a href="{{.Permalink}}">{{ .Title }}</a>
             </h1>
             {{partial "date" .}}
-            <summary class="text-gray-700 text-xl">{{ .Description }}</summary>
+            <summary class="text-gray-700 dark:text-white text-xl">{{ .Description }}</summary>
         </div>
         <ul class=" flex-none py-4">
             {{with .Params.categories}}
             {{range sort . "value" "asc"}}
             <li
-                class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 hover:text-orange-500">
+                class="inline-block bg-orange-500 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 hover:text-orange-500">
                 <a href="{{ "categories/" | relLangURL }}{{ . | urlize }}">{{.}}<a /></li>
             {{end}}
             {{end}}
