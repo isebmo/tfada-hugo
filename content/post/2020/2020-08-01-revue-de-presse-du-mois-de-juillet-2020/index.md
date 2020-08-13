@@ -7,7 +7,7 @@ author: iSebmo
 date: 2020-08-01
 categories: 
 - ByTheWay
-fimg: "![](assets/0912DBBF-E017-44FB-A092-E9F42650442E.jpeg)"
+fimg: "![](assets/0912DBBF-E017-44FB-A092-E9F42650442E_result.jpeg)"
 --- 
 C'est sûrement le plus bel avenir des montres connectées de pouvoir détecter des problèmes de santé en avance 
 
