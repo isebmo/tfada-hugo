@@ -40,7 +40,7 @@ page_layout:
 dsq_thread_id:
   - 3391923151
 categories:
-  - Geeks
+  - Geek
 tags:
   - série
   - tv
