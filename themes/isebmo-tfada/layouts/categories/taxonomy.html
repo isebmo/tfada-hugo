@@ -1,8 +1,7 @@
 {{ define "main" }}
 
-{{ $paginator := .Paginate (where .Site.RegularPages "Section" "post").ByPublishDate.Reverse 10 }}
 <ul>
-    {{ range $index, $element := $paginator.Pages }}
+    {{ range $index, $element := .Paginator.Pages }}
     {{ .Scratch.Set "index" $index }}
     <li>{{partial "preview-img" . }}</li>
     {{ end }}
