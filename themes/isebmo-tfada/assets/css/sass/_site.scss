@@ -52,13 +52,15 @@ body {
     #article-content {
 
         a {
-            @apply bg-orange-200;
+            @apply bg-orange-500;
             @screen dark {
-                @apply bg-orange-500;
+                box-shadow: #2d3748 0 1em inset;
             }
             &:hover {
-                @apply underline;
+                @apply shadow-none;
+                transition-duration: 0.5s;
             }
+            box-shadow: #fff 0 1em inset;
         }
     
         strong {
