@@ -8,7 +8,7 @@ author: iSebmo
 date: 2020-08-16
 categories: 
 - HighTech
-fimg: "![](assets/Logitech%20MX%20Vertical%20(1).jpeg)"
+fimg: "![](assets/Logitech%20MX%20Vertical1.jpeg)"
 ---
 
 Une souris ergonomique permet de soulager les tensions sur les avant-bras et le poignet. Si vous avez des pré dispositions à un **canal carpien**, ce genre de souris peut vous **soulager**. 
@@ -23,7 +23,7 @@ Faire mieux qu’une [Apple Magic Mouse](https://www.apple.com/fr/shop/product/M
 
 ![](assets/Logitech%20MX%20Vertical%20(3).jpeg)
 
-Certains se plaignent de perdre en **précision** dans les logiciels de retouches types Photoshop. Je leur réponds que ce n’est qu’une question **d’habitude**. Si vous ralentissez vous gestes au départ vous verrez bien que cette MX Vertical est tout aussi précise. 
+Certains se plaignent de perdre en **précision** dans les logiciels de retouches types Photoshop. Je leur réponds que ce n’est qu’une question **d’habitude**. Si vous ralentissez vos gestes, au départ, vous verrez bien que cette MX Vertical est tout aussi précise. 
 
 ![](assets/Logitech%20MX%20Vertical.jpeg)
 
