@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tfada.fr
+Token: f692bbddd6ddbe96f5738cc11b4c41895321a0423e69c72ad6b4cd795b493f49
