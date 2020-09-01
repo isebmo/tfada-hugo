@@ -4,7 +4,7 @@ description: Comme chaque mois voici les titres de presse qui m’ont marqué.
 tags: 
 - revuepresse
 author: iSebmo
-date: 2020–0901
+date: 2020–09-01
 categories: 
 - ByTheWay
 fimg: "![](assets/IMG_0907.jpg)"
