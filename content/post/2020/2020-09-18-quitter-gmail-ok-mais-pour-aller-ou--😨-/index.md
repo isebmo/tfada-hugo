@@ -131,6 +131,6 @@ Si vous avez bien tout suivi, vous vous demandez comment je gère la fonction "s
 
 Je vous encourage fortement de créer à minima un nom de domaine à votre nom afin d’être libre d’utiliser le service mail de votre choix et de ne pas craindre la fermeture d’un service quel qu’il soit. 
 
-Je vais pouvoir faire des recherches dans Google sans être connecté à ce maudit compte ! Oui, car les [autres moteurs de recherche je n’y arrive pas](%7B%7B%3C%20ref%20%222019-11-18-duckduckgo-je-n-y-arrive-pas-.md%22%20%3E%7D%7D%0A).
+Je vais pouvoir faire des recherches dans Google sans être connecté à ce maudit compte ! Oui, car les [autres moteurs de recherche je n’y arrive pas](https://tfada.fr/duckduckgo-je-ny-arrive-pas/).
 
-Je vous encourage à changer de navigateur également, voir [mon article ici](%7B%7B%3C%20ref%20%222020-04-29-aller-il-est-temps-de-quitter-le-navigateur-chrome-pour-brave-ou-firefox.md%22%20%3E%7D%7D%0A).
+Je vous encourage à changer de navigateur également, voir [mon article ici](https://tfada.fr/aller-il-est-temps-de-quitter-le-navigateur-chrome-pour-brave-ou-firefox/).
