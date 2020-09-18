@@ -39,6 +39,7 @@ C’est la même société derrière [StartPage](https://startpage.com), moteur 
 
 Avantages :
 - Les alias à durée de vie limitée, sympa pour une inscription à un site poubelle, vous savez ces fameux livres blancs 😂 
+
 Inconvénients :
 - Cher, comptez 60$ par an pour seulement 10go d’espace
 
@@ -68,6 +69,7 @@ Personnellement j’ai vraiment accroché à ce service australien 🇦🇺.
 Avantages :
 - Interface qui se rapproche le plus de Gmail et les fonctionnalités aussi (snooze compris ! 👍) 
 - Application iOS très bien faite
+
 Inconvénients :
 - Basé en Australie 🇦🇺 
 
@@ -79,6 +81,7 @@ Celui là je ne le connaissais pas, c’est un [service](https://tutanota.com) a
 Avantages :
 - Intégration de [formulaire de contact sur site web sécurisé](https://tutanota.com/secure-connect/)
 - Interface très (trop) simple
+
 Inconvénients :
 - Pas de compatibilité avec les clients mails traditionnels
 - Uniquement 10go pour la version à 48€ par an
@@ -104,6 +107,7 @@ Avantages :
 - Gestion de compte familiale
 - Prix défiant toute concurrence, je le recommande à quiconque a besoin d’un mail, fuyez Gmail et prenez Mailo
 - Beaucoup (trop?) de fonctionnalités
+
 Inconvénients :
 - Interface trop brouillonne 
 - Pas de signature DKIM
