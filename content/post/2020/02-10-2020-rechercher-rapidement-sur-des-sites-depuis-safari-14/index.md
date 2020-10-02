@@ -5,7 +5,7 @@ tags:
 - Safari
 - Brave
 author: iSebmo
-date: 02-10-2020
+date: 2020-10-02
 categories:
 - Applications
 fimg: "![](assets/keysearch.jpg)"
