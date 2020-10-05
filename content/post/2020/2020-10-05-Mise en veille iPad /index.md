@@ -4,7 +4,7 @@ description:
 tags: 
 - iPad
 author: iSebmo
-date: 2019-03-27
+date: 2020-10-05
 categories:
 - Geek
 - Applications
