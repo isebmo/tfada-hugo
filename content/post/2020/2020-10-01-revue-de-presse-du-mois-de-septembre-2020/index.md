@@ -7,7 +7,7 @@ author: iSebmo
 date: 2020-10-01
 categories: 
 - ByTheWay
-fimg: "![](assets/DraggedImage.jpeg)"
+fimg: "![](assets/DraggedImage.jpg)"
 --- 
 
 Amazon veut ta main pour payer tes achats !
