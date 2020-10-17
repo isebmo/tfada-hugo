@@ -1,6 +1,6 @@
 ---
 title: Comment mettre en veille rapidement son iPad depuis un clavier externe
-description: 
+description: Saviez-vous qu'il existe un raccourci tout bête pour mettre votre écran d'iPad en veille depuis votre clavier externe ?
 tags: 
 - iPad
 author: iSebmo
