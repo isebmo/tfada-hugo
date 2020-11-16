@@ -15,6 +15,7 @@ categories:
 
 fimg: "![](DraggedImage.jpeg)"
 ---
+
 Le nouvel iPhone 12 est sorti et tous les fanboys se ruent dessus.
 Comme chaque année la grande messe d'Apple a eu lieu et comme chaque année un « amazing » iPhone plus **beau** et plus **puissant** que tous les autres, est présenté. 
 
@@ -54,3 +55,6 @@ Quand on y réfléchit bien, ces monstres de la tech n’ont pas seulement rempl
 Je termine sur cette note **positive**, car oui, la majorité des gens qui laissaient leur appareil photo au placard, depuis l’arrivée des photophone font énormément plus de photos et c’est tant mieux !
 
 N'oubliez pas que si vous aimez la photo, **apprenez à vous servir d’un appareil** et faites lui faire ce que VOUS voulez et non pas ce qu’on a décidé qu’il fasse pour vous. 
+
+## Une vidéo afin d'illustrer mes propos
+{{< youtube ZPIZS0Gz86A >}}
