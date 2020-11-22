@@ -5,3 +5,6 @@ node_modules
 content/.DS_Store
 content/post/.DS_Store
 resources/_gen/*
+.DS_Store
+content/.DS_Store
+content/post/.DS_Store
