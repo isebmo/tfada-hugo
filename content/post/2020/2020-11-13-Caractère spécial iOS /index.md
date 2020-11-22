@@ -9,7 +9,7 @@ date: 2020-11-13
 categories:
 - geek
 
-fimg: "![](caracte%CC%80res-spe%CC%81ciaux.jpg)"
+fimg: "![](caracteres-speciaux.jpg)"
 --- 
 Si vous avez besoin de caractères spéciaux sous iOS c’est plutôt une plaie, car malgré le côté « pro » revendiqué par Apple, sur mon iPad impossible d’avoir accès à ce caractère ⌘ rapidement ! Les gars du marketing nous bassinent que l'iPad est le nouvel ordinateur c’est d'abord le passage obligatoire par le store qui les intéressent. 
 
