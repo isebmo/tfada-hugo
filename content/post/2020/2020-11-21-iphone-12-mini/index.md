@@ -18,15 +18,15 @@ Passage du X au mini et honnêtement ça fait plaisir de retrouver ce format.
 ![](iphone-12-mini-3.jpg)
 
 ## Le design de l'iPhone 5
-Le design de l'iPhone 5 était pour moi la référence, ce design revient à la mode pour Apple. Faut-il y voir le résultat du [limogeage de Jonathan Ive](https://www.lemonde.fr/economie/article/2019/06/28/apple-jonathan-ive-le-depart-d-un-heros-fatigue_5482584_3234.html) ? En tout cas c'est assez drôle de voir le cycle de la mode perpétue sur les iPhone quand on regarde le premier du nom puis l'iPhone X premier cycle et enfin iPhone 4 et iPhone 12 deuxième cycle. 
+Le design de l'iPhone 5 était pour moi la référence, ce design revient à la mode pour Apple. Faut-il y voir le résultat du [limogeage de Jonathan Ive](https://www.lemonde.fr/economie/article/2019/06/28/apple-jonathan-ive-le-depart-d-un-heros-fatigue_5482584_3234.html) ? En tout cas c'est assez drôle de voir le cycle de la mode perpétué sur les iPhone. Quand on regarde le premier du nom puis l'iPhone X on a le premier cycle et ensuite iPhone 4 et iPhone 12 deuxième cycle. 
 
 ![](iphone-12-mini-2.jpg)
 
-Alors cette depuis l'iPhone 5 la technologie a permis à l'écran d'occuper tout l'espace disponible et c'est super 👍 cela permet de continuer à utiliser l'iPhone à une seule main 🤚. J'adore ce format, faites vos courses et cochez ✅ vos listes avec un téléphone dans les mains et je vous assure que vous verrez l'intérêt d’un mini iPhone !
+Alors certe, depuis l'iPhone 5 la technologie a permis à l'écran d'occuper tout l'espace disponible et c'est super 👍 cela permet de continuer à utiliser l'iPhone à une seule main 🤚. J'adore ce format, faites vos courses et cochez ✅ vos listes avec un téléphone dans les mains et je vous assure que vous verrez l'intérêt d’un mini iPhone !
 
 ![](iphone-12-mini-6.jpg)
 
-On attend à présent la petite évolution qui sera présentée comme une révolution quand l’encoche disparaîtra du haut de nos écrans. 
+On attend à présent la petite évolution. Elle sera présentée comme une révolution quand l’encoche disparaîtra du haut de nos écrans. 
 
 Seul regret depuis l'iPhone 5 le module photo dépasse. Pourtant sur ce mini et sa capacité de batterie 🔋 diminuée il eut été préférable d’augmenter l'épaisseur pour compenser cette perte d'autonomie... 
 
@@ -37,7 +37,7 @@ Comme je le disais je passe d'un iPhone X à un iPhone mini et je n'ai pas const
 
 Attention tout de même à ne pas utiliser le dual SIM j'ai remarqué qu'avec deux SIM dans la machine la perte d'autonomie était réelle en rapport à celle de l'iPhone X. 
 
-Si vous avez un travail avec une prise toujours à disposition les craintes sur l'autonomie n'ont pas lieu d'être en revanche si vous utilisez votre téléphone très souvent et loin d'une prise de courant alors forcément ce n'est pas un modèle adapté pour vous. 
+Si vous avez un travail avec une prise de courant toujours à disposition les craintes sur l'autonomie n'ont pas lieu d'être en revanche si vous utilisez votre téléphone très souvent et loin d'une prise de courant alors forcément ce n'est pas un modèle adapté pour vous. 
 
 ## Le module photo s'améliore 
 Toujours en comparaison avec mon ancien iPhone X les photos sont plus détaillées et beaucoup moins traitée du moins quand la luminosité est suffisante. 
