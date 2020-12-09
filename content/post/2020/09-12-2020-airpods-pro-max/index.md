@@ -1,6 +1,6 @@
 ---
 title: Apple sort ses AirPods Pro Max et le web s'enflamme pour son prix
-description: 
+description: Apple cher ? Cela va souvent de paire, mais pourquoi les produits fonctionnent ? De quoi parle-t-on de mauvais produits trop chers ? Et la concurrence dans tout ça ?
 tags:
 - apple
 - casque
