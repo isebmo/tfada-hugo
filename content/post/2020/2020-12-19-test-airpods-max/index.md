@@ -112,3 +112,5 @@ Apple n’est pas tombé dans le piège du tout tactile et l’idée de la molet
 Petit détail qui tue lorsque vous tournez la molette un discret clic est envoyé à l'intérieur des écouteurs. Subtile, mais c’est le genre de détail que j'adore chez Apple. 
 
 Voilà pour le tour du propriétaire, je sais que mon avis ne vaut  pas grand chose et que le monde de l’audio est suspendu au test de PPG (pépé ji 🤙).
+
+{{< youtube gJawpBs_FKQ >}}
