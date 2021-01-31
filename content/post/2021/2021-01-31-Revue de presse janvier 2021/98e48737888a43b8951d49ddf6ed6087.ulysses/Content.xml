@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sheet version="1" app_version="21.4">
+<markup version="1" identifier="markdownxl" displayName="Markdown XL">
+	<tag definition="heading1" pattern="#"></tag>
+	<tag definition="heading2" pattern="##"></tag>
+	<tag definition="heading3" pattern="###"></tag>
+	<tag definition="heading4" pattern="####"></tag>
+	<tag definition="heading5" pattern="#####"></tag>
+	<tag definition="heading6" pattern="######"></tag>
+	<tag definition="codeblock" pattern="``"></tag>
+	<tag definition="codeblock" pattern="''"></tag>
+	<tag definition="comment" pattern="%%"></tag>
+	<tag definition="nativeblock" pattern="~~"></tag>
+	<tag definition="blockquote" pattern="&gt;"></tag>
+	<tag definition="orderedList" pattern="\d."></tag>
+	<tag definition="unorderedList" pattern="*"></tag>
+	<tag definition="unorderedList" pattern="+"></tag>
+	<tag definition="unorderedList" pattern="-"></tag>
+	<tag definition="divider" pattern="----"></tag>
+	<tag definition="filename" pattern="@:"></tag>
+	<tag definition="code" startPattern="`" endPattern="`"></tag>
+	<tag definition="delete" startPattern="||" endPattern="||"></tag>
+	<tag definition="emph" startPattern="*" endPattern="*"></tag>
+	<tag definition="emph" startPattern="_" endPattern="_"></tag>
+	<tag definition="inlineComment" startPattern="++" endPattern="++"></tag>
+	<tag definition="inlineNative" startPattern="~" endPattern="~"></tag>
+	<tag definition="mark" startPattern="::" endPattern="::"></tag>
+	<tag definition="strong" startPattern="__" endPattern="__"></tag>
+	<tag definition="strong" startPattern="**" endPattern="**"></tag>
+	<tag definition="annotation" startPattern="{" endPattern="}"></tag>
+	<tag definition="link" startPattern="[" endPattern="]"></tag>
+	<tag definition="footnote" pattern="(fn)"></tag>
+	<tag definition="image" pattern="(img)"></tag>
+	<tag definition="video" pattern="(vid)"></tag>
+</markup>
+<string xml:space="preserve">
+<p>---</p>
+<p>title: Revue de presse du mois de janvier 2021</p>
+<p>description: Comme chaque mois voici les titres de presse qui m’ont marqué. </p>
+<p>tags: </p>
+<p><tags><tag kind="unorderedList">- </tag></tags>revuepresse</p>
+<p>author: iSebmo</p>
+<p>date: 2021-02-01</p>
+<p>categories: </p>
+<p><tags><tag kind="unorderedList">- </tag></tags>ByTheWay</p>
+<p>fimg: "<element kind="image"><attribute identifier="image">653c628e492b4af8a18a0028599eac63</attribute></element>"</p>
+<p>--- </p>
+<p>Encore une mega technique pour vous traquer sur le web. </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.macg.co/logiciels/2021/01/vie-privee-les-favicons-peuvent-servir-etablir-un-profil-publicitaire-dans-les-navigateurs-119231</attribute>Lien</element></p>
+<p></p>
+<p>Quand tu quittes Facebook et tu as des remords sur ton ancien taff. </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.clubic.com/internet/facebook/actualite-15513-un-ancien-cadre-devoile-la-strategie-de-facebook-pour-etre-aussi-addictif-que-le-tabac.html</attribute>Lien</element></p>
+<p></p>
+<p>Quand Alexa prend le contrôle de ta maison. </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.theverge.com/2021/1/25/22249044/amazon-alexa-update-proactive-hunches-guard-plus-subscription</attribute>Lien</element></p>
+<p></p>
+<p></p>
+<p>Alpha 1 Sony continue d'écraser la concurrence. </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.theverge.com/2021/1/26/22250448/sony-alpha-1-camera-announced-specs-price-release-date</attribute>Lien</element></p>
+<p></p>
+<p>D'un côté je comprends pourquoi on attaque une société pour vice caché mais d'un autre côté Apple est le seul constructeur à maintenir ses iPhone plus de cinq ans. </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.theverge.com/2021/1/25/22248408/apple-class-action-suit-throttling-iphone-europe</attribute>Lien</element></p>
+<p></p>
+<p>Linux porté sur Apple M1 ça sent bon. </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.theverge.com/2021/1/21/22242107/linux-apple-m1-mac-port-corellium-ubuntu-details</attribute>Lien</element></p>
+<p></p>
+<p>Brave innove encore et toujours. </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.theverge.com/2021/1/19/22238334/brave-browser-ipfs-peer-to-peer-decentralized-transfer-protocol-http-nodes</attribute>Brave browser takes step towards enabling a decentralized web - The Verge</element></p>
+<p></p>
+<p>Le concours des photos prises sur iPhone a voir 'Shot on iPhone'</p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.cultofmac.com/732868/new-shot-on-iphone-images-showcase-whats-possible-with-iphone-12/</attribute>Link</element></p>
+<p></p>
+<p>Si seulement l'Apple Watch ou leur équivalent pouvaient sauver le monde. </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.cultofmac.com/732619/apple-watch-could-spot-covid-19-symptoms-a-week-before-it-strikes/</attribute>Lien</element></p>
+<p></p>
+<p>Apple veut en finir avec la Touch Bar c'est pas très sympa de renouveler le MacBook Pro M1 avec...</p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.cultofmac.com/732597/apple-may-drop-the-touch-bar-from-its-next-macbook-pro/</attribute>Lien</element></p>
+<p></p>
+<p>Je pensais faire un article sur NextDNS mais celui là est complet 😍</p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.pixeldetracking.com/fr/nextdns-mon-nouveau-bloqueur-de-publicites-prefere</attribute>Lien</element></p>
+<p></p>
+<p>Fuyez Facebook fuyez Whatsapp pauvres fous. </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://standblog.org/blog/post/2021/01/13/Par-quoi-remplacer-WhatsApp</attribute>Lien</element></p>
+<p></p>
+<p>Réflexions sur la future voiture électrique ⚡️ d'Apple </p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">https://www.macworld.com/article/3602653/apple-philosophy-of-no-airpods-max-ipod-iphone-apple-car.html#tk.rss_all</attribute>Lien</element></p>
+<p></p>
+<p>Encore et toujours du tracking...</p>
+<p></p>
+<p><element kind="link"><attribute identifier="URL">http://web.developpez.com/actu/311582/Les-raccourcisseurs-d-URL-definiraient-des-cookies-de-suivi-de-publicites-pour-collecter-des-donnees-de-l-historique-de-navigation-selon-Luke-Miles-un-ingenieur-logiciel/</attribute>Lien</element></p>
+</string>
+</sheet>
