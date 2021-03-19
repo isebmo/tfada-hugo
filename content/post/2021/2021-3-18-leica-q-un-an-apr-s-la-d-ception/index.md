@@ -11,7 +11,7 @@ date: 2021-03-19
 categories:
 - photo
 
-fimg: “![](/leica-q-vs-sony-a7r.jpg)”
+fimg: "![](/leica-q-vs-sony-a7r.jpg)"
 ---
 
 Je vous avais parlé de ma folie d’achat et le passage d’un Sony A7R à un [Leica Q](https://tfada.fr/passage-dun-a7r-à-un-leica-q/) ? Et bien un an plus tard je le revends et je vous exprime mon ressenti pour ceux et celles qui voudront tenter l’aventure. 
