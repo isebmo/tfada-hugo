@@ -28,4 +28,4 @@ Et Firefox dans tout ça ? Tombé de son piédestal, il a quand même quelques b
 Si vous n’avez jamais essayé, je vous conseille de le faire maintenant. Vous allez pouvoir spécifier quel lien s’ouvre dans quel container ainsi si je clique sur une vidéo YouTube elle s’ouvre dans le container Google.
 L’intérêt que j’y vois c’est de pouvoir faire des recherches sur Google sans être connecté à mon compte et d’avoir ainsi des résultats de recherche 🔬 non personnalisée. Les sites que je visite n’ont donc pas l’information de qui je suis exactement. Et bien entendu, je fais la même chose dans des containers différents pour Facebook, LinkedIn, Amazon, etc.
 
-Allez je vous encourage à utiliser Firefox qui possède selon moi la meilleure icône de tous les navigateurs du marché 🥰.
+Allez je vous encourage à utiliser [Firefox](https://www.mozilla.org/fr/firefox/new/) qui possède selon moi la meilleure icône de tous les navigateurs du marché 🥰.
