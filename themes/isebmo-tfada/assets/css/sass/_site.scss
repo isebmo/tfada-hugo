@@ -1,3 +1,36 @@
+blockquote {
+    
+    @screen lg {
+        padding: 1rem 2rem 1rem 2rem;
+    }
+    padding: 1rem 1rem 1rem 1rem;
+    p {
+        @screen dark {
+            @apply bg-gray-700;
+        }
+        @apply bg-gray-800 text-white;
+
+        @screen lg {
+            padding: 1rem 2rem 1rem 2rem;
+        }
+        padding: 1rem 1rem 1rem 1rem;
+        border-radius: 10px;
+        font-style: italic;
+        font-weight: bold;
+        quotes: "“" "”" "‘" "’";
+        &::before {
+            content: open-quote;
+            @apply text-orange-500;
+
+        }
+        &::after {
+            content: close-quote;
+            @apply text-orange-500;
+
+        }
+    }
+}
+
 h1 {
     @apply text-3xl mt-3 mb-3 font-bold;
     @screen lg {
