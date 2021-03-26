@@ -1,14 +1,14 @@
+/* purgecss start ignore */
 blockquote {
-    
     @screen lg {
         padding: 1rem 2rem 1rem 2rem;
     }
     padding: 1rem 1rem 1rem 1rem;
     p {
+        @apply bg-gray-800 text-white;
         @screen dark {
             @apply bg-gray-700;
         }
-        @apply bg-gray-800 text-white;
 
         @screen lg {
             padding: 1rem 2rem 1rem 2rem;
@@ -30,6 +30,7 @@ blockquote {
         }
     }
 }
+/* purgecss end ignore */
 
 h1 {
     @apply text-3xl mt-3 mb-3 font-bold;
@@ -83,6 +84,8 @@ body {
     }
 
     #article-content {
+
+        
 
         a {
             @apply bg-orange-500;
