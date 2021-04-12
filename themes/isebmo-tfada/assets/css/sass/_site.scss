@@ -1,3 +1,37 @@
+/* purgecss start ignore */
+blockquote {
+    @screen lg {
+        padding: 1rem 2rem 1rem 2rem;
+    }
+    padding: 1rem 1rem 1rem 1rem;
+    p {
+        @apply bg-gray-800 text-white;
+        @screen dark {
+            @apply bg-gray-700;
+        }
+
+        @screen lg {
+            padding: 1rem 2rem 1rem 2rem;
+        }
+        padding: 1rem 1rem 1rem 1rem;
+        border-radius: 10px;
+        font-style: italic;
+        font-weight: bold;
+        quotes: "“" "”" "‘" "’";
+        &::before {
+            content: open-quote;
+            @apply text-orange-500;
+
+        }
+        &::after {
+            content: close-quote;
+            @apply text-orange-500;
+
+        }
+    }
+}
+/* purgecss end ignore */
+
 h1 {
     @apply text-3xl mt-3 mb-3 font-bold;
     @screen lg {
@@ -50,6 +84,8 @@ body {
     }
 
     #article-content {
+
+        
 
         a {
             @apply bg-orange-500;
