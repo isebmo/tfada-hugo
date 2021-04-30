@@ -12,7 +12,7 @@ fimg: "![](presse-fevrier.jpeg)"
 
 [Lien](https://eltoro.com/ad-tech/ "Logiciel de tracking")
 
-> Les sociétés de merde comme on les aime pour te Tracker partout sur le web ! Vivement une fuite de données de leurs clients.
+> Les [sociétés de merde](https://eltoro.com/ad-tech/) comme on les aime pour te Tracker partout sur le web ! Vivement une fuite de données de leurs clients.
 
 [Lien](https://www.google.fr/amp/s/9to5mac.com/2021/02/01/unlock-iphone-face-id-mask-apple-watch/amp/)
 
