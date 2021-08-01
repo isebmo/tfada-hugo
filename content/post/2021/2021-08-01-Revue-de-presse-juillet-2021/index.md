@@ -4,7 +4,7 @@ description: Comme chaque mois voici les titres de presse qui m’ont marqué.
 tags: 
 - revuepresse
 author: iSebmo
-date: 2021-07-01
+date: 2021-08-01
 categories: 
 - ByTheWay
 fimg: "![](DSC03671.jpg)"
